@@ -1,10 +1,9 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 
-import 'package:catalyst/app_drawer.dart';
+import 'package:catalyst/main_drawer.dart';
 
 class CoursePage extends StatefulWidget {
   static const routeName = '/';
@@ -33,7 +32,7 @@ class _CoursePageState extends State<CoursePage> {
     return Scaffold(
         drawer: AppDrawer(),
         appBar: AppBar(
-          title: Text(AppLocalizations.of(context).courses),
+          title: Text('Courses'),
         ),
         body: new ListView.builder(
             itemCount: courses.length,

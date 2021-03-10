@@ -1,0 +1,23 @@
+os:
+  - linux
+sudo: true
+addons:
+  apt:
+    packages:
+      - snapd
+install:
+  - sudo snap install flutter --classic
+before_script:
+  - flutter doctor
+  - flutter pub get
+script:
+  - flutter test
+  - flutter build web
+deploy:
+  provider: pages
+  local_dir: build/web
+  github_token: $GITHUB_TOKEN
+  skip_cleanup: true
+  on:
+    branch: main
+  target_branch: gh-pages
