@@ -1,11 +1,11 @@
 {
-    "name": "catalyst",
-    "short_name": "catalyst",
+    "name": "Catalyst",
+    "short_name": "Catalyst",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Estudos organizados e eficientes, de forma totalmente gratuita..",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
