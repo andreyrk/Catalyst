@@ -10,12 +10,12 @@ main() {
         json.decode(await rootBundle.loadString('AssetManifest.json'));
 
     for (dynamic asset in assets.keys) {
-      if (asset.startsWith("resources/courses/enem")) {
+      if (asset.startsWith("rsc/courses/enem")) {
         final jsonObject = json.decode(await rootBundle.loadString(asset));
         expect(jsonObject['id'] is String, equals(true));
         expect(jsonObject['group'] is String, equals(true));
         expect(jsonObject['title'] is String, equals(true));
-        expect(jsonObject['content'] is List, equals(true));
+        expect(jsonObject['courses'] is List || jsonObject['classes'], equals(true));
       }
     }
   });
