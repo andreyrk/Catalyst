@@ -3,45 +3,93 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
 
+import 'package:catalyst/main_router.dart';
 import 'package:catalyst/main_drawer.dart';
+import 'package:catalyst/models/course.dart';
+import 'package:flutter_simple_treeview/flutter_simple_treeview.dart';
 
 class CoursePage extends StatefulWidget {
-  static const routeName = '/';
-
   @override
   _CoursePageState createState() => _CoursePageState();
 }
 
 class _CoursePageState extends State<CoursePage> {
-  List<dynamic> courses = [];
+  String coursesDirectory = 'rsc/courses/enem/';
 
-  Future<void> loadCourses() async {
-    final assets = json.decode(await rootBundle.loadString('AssetManifest.json'));
+  Future<List<Course>> loadCourses(path) async {
+    var args = ModalRoute.of(context)!.settings.arguments;
 
-    for (dynamic asset in assets.keys) {
-      if (asset.startsWith("resources/courses/enem")) {
-        courses.add(json.decode(await rootBundle.loadString(asset)));
+    if (args is List<Course>) {
+      return args;
+    } else {
+      List<Course> values = [];
+
+      final assets =
+          json.decode(await rootBundle.loadString('AssetManifest.json'));
+
+      for (var asset in assets.keys) {
+        if (asset.startsWith(path)) {
+          values.add(Course.fromJson(await rootBundle.loadString(asset)));
+        }
       }
+
+      return values;
     }
   }
 
   @override
   Widget build(BuildContext context) {
-    loadCourses();
-
     return Scaffold(
-        drawer: AppDrawer(),
-        appBar: AppBar(
-          title: Text('Courses'),
-        ),
-        body: new ListView.builder(
-            itemCount: courses.length,
-            itemBuilder: (context, index) {
-              return new ListTile(
-                title: Text(courses[index]['title']),
-              );
-            }
-        ),
+      drawer: AppDrawer(),
+      appBar: AppBar(
+        title: Text('Courses'),
+      ),
+      body: buildContent(),
     );
+  }
+
+  Widget buildContent() {
+    return FutureBuilder(
+      future: loadCourses(coursesDirectory),
+      builder: (context, snapshot) {
+        if (snapshot.hasError) {
+          print(snapshot.error);
+        }
+        if (snapshot.hasData) {
+          return SingleChildScrollView(
+              child: TreeView(
+                  treeController: TreeController(allNodesExpanded: false),
+                  nodes: buildContentNodes(snapshot.data as List<Course>)));
+        } else {
+          return Center(
+            child: CircularProgressIndicator(),
+          );
+        }
+      },
+    );
+  }
+
+  List<TreeNode> buildContentNodes(List<Course> courses) {
+    List<TreeNode> nodes = [];
+
+    for (var course in courses) {
+      var node = TreeNode(content: Text(course.title), children: []);
+
+      if (course.classes.isNotEmpty) {
+        for (var courseClass in course.classes) {
+          node.children?.add(TreeNode(
+            content: Text(courseClass.title),
+          ));
+        }
+      }
+
+      if (course.courses.isNotEmpty) {
+        node.children?.addAll(buildContentNodes(course.courses));
+      }
+
+      nodes.add(node);
+    }
+
+    return nodes;
   }
 }

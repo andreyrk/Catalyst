@@ -1,18 +1,18 @@
 {
   "id": "jwvf2qig9",
-  "group": "Linguagens, Códigos e suas Tecnologias",
+  "category": "Linguagens, Códigos e suas Tecnologias",
   "title": "Literatura",
-  "content": [
+  "courses": [
     {
       "title": "Figuras de linguagem",
-      "content": [
+      "classes": [
         {
           "title": "Figuras de linguagem: aspectos fonético e sintático",
           "videos": [
             "Hi-2LNNg4SE",
             "xfjSzZf6JA4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "a15bafp5d"
         },
         {
@@ -21,7 +21,7 @@
             "n0e75nRstcU",
             "xfjSzZf6JA4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "xu9wgapg8"
         }
       ],
@@ -29,7 +29,7 @@
     },
     {
       "title": "Gêneros Literários",
-      "content": [
+      "classes": [
         {
           "title": "Gêneros Literários",
           "videos": [
@@ -37,7 +37,7 @@
             "5I66JlRAYJE",
             "WGZFBePibF0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "54ipbpmwv"
         }
       ],
@@ -45,14 +45,14 @@
     },
     {
       "title": "Funções da Linguagem",
-      "content": [
+      "classes": [
         {
           "title": "Funções da Linguagem",
           "videos": [
             "5JrCUWnqHBk",
             "iwyZbcC9pU0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "tcohm56l3"
         }
       ],
@@ -60,14 +60,14 @@
     },
     {
       "title": "Trovadorismo",
-      "content": [
+      "classes": [
         {
           "title": "Trovadorismo",
           "videos": [
             "N8aCwmWgVyA",
             "ea65K0B9TLk"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "3n0xink3f"
         }
       ],
@@ -75,14 +75,14 @@
     },
     {
       "title": "Quinhentismo/Classicismo",
-      "content": [
+      "classes": [
         {
           "title": "Quinhentismo",
           "videos": [
             "WULOzFYZ30g",
             "vDrPmeYNe1k"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "yowreq22a"
         }
       ],
@@ -90,7 +90,7 @@
     },
     {
       "title": "Barroco",
-      "content": [
+      "classes": [
         {
           "title": "Barroco",
           "videos": [
@@ -99,7 +99,7 @@
             "1FN2jCxgnt0",
             "cMVti1H1ASE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "iz0lx9lyg"
         }
       ],
@@ -107,7 +107,7 @@
     },
     {
       "title": "Arcadismo",
-      "content": [
+      "classes": [
         {
           "title": "Arcadismo",
           "videos": [
@@ -115,7 +115,7 @@
             "-ko2O_3gijM",
             "Yadx1nAvgyo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ubmuosid0"
         }
       ],
@@ -123,14 +123,14 @@
     },
     {
       "title": "Romantismo",
-      "content": [
+      "classes": [
         {
           "title": "Romantismo: primeira geração",
           "videos": [
             "PyUy_9mKGCk",
             "gS2ISr31oBM"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ilt5vgz76"
         },
         {
@@ -139,7 +139,7 @@
             "gpWAjKryoV8",
             "zBfTgJCPvt8"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "yec39yf15"
         },
         {
@@ -148,7 +148,7 @@
             "z1Ymzv2r1dg",
             "SkErUWjkGpA"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "uwruag6n2"
         },
         {
@@ -158,7 +158,7 @@
             "9YAEDfqlRkQ",
             "Ri43JArccdY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "41qxfq0n7"
         }
       ],
@@ -166,7 +166,7 @@
     },
     {
       "title": "Realismo",
-      "content": [
+      "classes": [
         {
           "title": "Realismo",
           "videos": [
@@ -175,7 +175,7 @@
             "Yny-_awoqyg",
             "pCIwPQIz8Y4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "qixtbk7ns"
         }
       ],
@@ -183,7 +183,7 @@
     },
     {
       "title": "Naturalismo",
-      "content": [
+      "classes": [
         {
           "title": "Naturalismo",
           "videos": [
@@ -191,7 +191,7 @@
             "FAzWo39rMYY",
             "DAK9GEfRWSE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "74b0a47ym"
         }
       ],
@@ -199,7 +199,7 @@
     },
     {
       "title": "Parnasianismo",
-      "content": [
+      "classes": [
         {
           "title": "Parnasianismo",
           "videos": [
@@ -207,7 +207,7 @@
             "JKmrUc1PhuE",
             "iqP66FxK0h4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "sekbwymiw"
         }
       ],
@@ -215,7 +215,7 @@
     },
     {
       "title": "Simbolismo",
-      "content": [
+      "classes": [
         {
           "title": "Simbolismo",
           "videos": [
@@ -226,7 +226,7 @@
             "Soq4kzWEens",
             "Htk9t8gxWWs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4k8ypvhv0"
         }
       ],
@@ -234,7 +234,7 @@
     },
     {
       "title": "Pré-Modernismo",
-      "content": [
+      "classes": [
         {
           "title": "Pré-Modernismo",
           "videos": [
@@ -244,7 +244,7 @@
             "arHGaq5HBRE",
             "j7ASNE8Sv7g"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "54mrprp2l"
         }
       ],
@@ -252,14 +252,14 @@
     },
     {
       "title": "Vanguardas Europeias",
-      "content": [
+      "classes": [
         {
           "title": "Vanguardas Europeias",
           "videos": [
             "3xUjHZO0yXw",
             "U1xRLJIRRnM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "od11zewu5"
         }
       ],
@@ -267,7 +267,7 @@
     },
     {
       "title": "Modernismo",
-      "content": [
+      "classes": [
         {
           "title": "Modernismo: primeira geração",
           "videos": [
@@ -276,7 +276,7 @@
             "ULrYkCAQlHc",
             "WmOICqpg4Rg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "m88j8w3on"
         },
         {
@@ -286,7 +286,7 @@
             "YlqUollEjyo",
             "PyojY1qM9pU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cvpvr4f8w"
         },
         {
@@ -296,7 +296,7 @@
             "fUqkhFQvYNE",
             "bQiS0HlnuX4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "kqre1mf8k"
         }
       ],
@@ -304,7 +304,7 @@
     },
     {
       "title": "Pós-modernismo",
-      "content": [
+      "classes": [
         {
           "title": "Poesia Concreta",
           "videos": [
@@ -312,7 +312,7 @@
             "CxDZrQsfyc4",
             "Ori89qQLhZs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "lbnv3z58g"
         },
         {
@@ -320,7 +320,7 @@
           "videos": [
             "PJBUcce_3jU"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "rqzwwugh0"
         },
         {
@@ -329,7 +329,7 @@
             "O4xTa2aPLpY",
             "dWmGwQCl32s"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "jtvzwzb7m"
         }
       ],

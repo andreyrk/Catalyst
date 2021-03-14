@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:catalyst/pages/course_page.dart';
-import 'package:catalyst/pages/course_structure_page.dart';
+import 'package:catalyst/main_router.dart';
 
 class AppDrawer extends StatelessWidget {
   @override
@@ -12,14 +11,12 @@ class AppDrawer extends StatelessWidget {
           ListTile(
             title: Text('Courses'),
             onTap: () {
-              Navigator.of(context).pushReplacementNamed(CoursePage.routeName);
+              Navigator.pushReplacementNamed(context, AppRouter.courseRoute);
             },
           ),
           ListTile(
             title: Text('Options'),
-            onTap: () {
-              Navigator.of(context).pushReplacementNamed(CourseStructurePage.routeName);
-            },
+            onTap: () {},
           )
         ],
       ),

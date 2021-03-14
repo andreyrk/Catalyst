@@ -1,18 +1,18 @@
 {
   "id": "372fc48kg",
-  "group": "Ciências Humanas e suas Tecnologias",
+  "category": "Ciências Humanas e suas Tecnologias",
   "title": "Geografia",
-  "content": [
+  "courses": [
     {
       "title": "Cartografia",
-      "content": [
+      "classes": [
         {
           "title": "Orientação e Coordenadas geográficas",
           "videos": [
             "A1KFBoYEFFE",
             "KoXjKrLQfv0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "r0w9hcadz"
         },
         {
@@ -25,7 +25,7 @@
             "tR_rXa4BdpE",
             "BQlKNrpmhlM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "f1qfufkun"
         },
         {
@@ -35,7 +35,7 @@
             "b-IJoUkYW9g",
             "ug4W9X4qBbM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "wcp8ug0wq"
         },
         {
@@ -44,7 +44,7 @@
             "tFDiM_gWgQ0",
             "94szb_O5KkU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "pnjohptyy"
         },
         {
@@ -54,7 +54,7 @@
             "v4M2-5tZQOA",
             "2cBkW63JzZw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "0kuxrpemd"
         }
       ],
@@ -62,7 +62,7 @@
     },
     {
       "title": "Geomorfologia, solos e minérios",
-      "content": [
+      "classes": [
         {
           "title": "Estrutura interna da Terra e Eras geológicas",
           "videos": [
@@ -70,7 +70,7 @@
             "Eh3M8uH92pY",
             "y0WA1-0MgLM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "9yc0f7ms2"
         },
         {
@@ -80,7 +80,7 @@
             "tUjYpMY_bEg",
             "GicW3UpL6Mw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "8d9h2087u"
         },
         {
@@ -90,7 +90,7 @@
             "aSWHfd_jcCU",
             "gmayTkzxS5U"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bu3pgb7hm"
         },
         {
@@ -98,7 +98,7 @@
           "videos": [
             "VwVBeqIWKqk"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "clrpwclrg"
         },
         {
@@ -107,7 +107,7 @@
             "bZsCX-R1nwM",
             "Gti1dH723wQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "2te7ivsjo"
         },
         {
@@ -116,7 +116,7 @@
             "bZsCX-R1nwM",
             "Gti1dH723wQ"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ieb7gwtv6"
         },
         {
@@ -125,7 +125,7 @@
             "TZ0HIVBsV68",
             "Ii2vpjJv1Lc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ckbolftgq"
         },
         {
@@ -135,7 +135,7 @@
             "Kr44kQgcF98",
             "gDAYiBiI1cU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "6pp2up84t"
         },
         {
@@ -146,7 +146,7 @@
             "Cuq-6nXtiSE",
             "lJQMEH24l9w"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ay3urywmu"
         }
       ],
@@ -154,7 +154,7 @@
     },
     {
       "title": "Climatologia",
-      "content": [
+      "classes": [
         {
           "title": "Atmosfera e Fatores climáticos",
           "videos": [
@@ -162,7 +162,7 @@
             "tzx9NEtTiDc",
             "XBZWK2N0JSg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ksvs1sirs"
         },
         {
@@ -172,7 +172,7 @@
             "oZmYOSKqpyg",
             "Ri0FMSEcv-4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "bwg70olff"
         },
         {
@@ -185,7 +185,7 @@
             "B2zSWZGJTdc",
             "JZKma1QA7WI"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ivw8gplb1"
         },
         {
@@ -194,7 +194,7 @@
             "zd8R5BLWjyM",
             "HM2FDn7aoKw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "aej15fpkd"
         }
       ],
@@ -202,13 +202,13 @@
     },
     {
       "title": "Meio ambiente",
-      "content": [
+      "classes": [
         {
           "title": "Grandes biomas terrestres",
           "videos": [
             "ZlB6MZmpKls"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "zrn9j4ohg"
         },
         {
@@ -216,7 +216,7 @@
           "videos": [
             "2AF1rjwuNqg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "8xy5v3qy1"
         },
         {
@@ -228,7 +228,7 @@
             "QZFvpcdMogg",
             "7nKagFN85v8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "d4j44lu0e"
         },
         {
@@ -237,7 +237,7 @@
             "AAYv1-uFskk",
             "ftQbZYfC38U"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "fwt7yukpu"
         },
         {
@@ -245,7 +245,7 @@
           "videos": [
             "aVdpCueXMR4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "f41qvjck6"
         }
       ],
@@ -253,13 +253,13 @@
     },
     {
       "title": "Espaço urbano",
-      "content": [
+      "classes": [
         {
           "title": "Espaço geográfico",
           "videos": [
             "uWa2WLOveaQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "dnw3cezjq"
         },
         {
@@ -270,7 +270,7 @@
             "JhURjqj2te0",
             "FwfT-RIqvuI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "fbr1tgfx5"
         },
         {
@@ -280,7 +280,7 @@
             "Yb2AzJvTZto",
             "Ijxf5vvQgY4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "d9h0ler6e"
         },
         {
@@ -289,7 +289,7 @@
             "6TxINZf2-vU",
             "g-DEwpP2xuM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "lz24su9kt"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "title": "Dinâmica demográfica e Qualidade de vida",
-      "content": [
+      "classes": [
         {
           "title": "Movimentos migratórios",
           "videos": [
@@ -305,7 +305,7 @@
             "J0pACZMQeak",
             "akaHeopBJCo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "j1r4ijr7u"
         },
         {
@@ -314,7 +314,7 @@
             "acU-dfwALgk",
             "1CmEbiuDvws"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "10eqfgbhi"
         },
         {
@@ -325,7 +325,7 @@
             "vzA-8hd_Szs",
             "Zt5PnNdeHy0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "q5e52sezp"
         },
         {
@@ -333,7 +333,7 @@
           "videos": [
             "pMYQWJNDWfg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "un4l4gcif"
         },
         {
@@ -342,7 +342,7 @@
             "iAh2XDEsTYA",
             "DzmDLhA-_2U"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "pkm1cbo6t"
         }
       ],
@@ -350,7 +350,7 @@
     },
     {
       "title": "Regionalização do espaço brasileiro",
-      "content": [
+      "classes": [
         {
           "title": "Região Sul",
           "videos": [
@@ -359,7 +359,7 @@
             "hXRk2KL_hs0",
             "c_LEvT752sA"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ggartms45"
         },
         {
@@ -371,7 +371,7 @@
             "I7bji6wdSDM",
             "9DmqZ-lRpPE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "b6nvugulj"
         },
         {
@@ -383,7 +383,7 @@
             "PXS39AKJ98M",
             "OzsYIHtvC-I"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "2cz29az63"
         },
         {
@@ -393,7 +393,7 @@
             "mrjv71UaFLw",
             "vAq-FWLntgE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "xss7kwqx0"
         },
         {
@@ -404,7 +404,7 @@
             "cxnXTw1BQus",
             "jaLkV013UVk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "6fz70v5i5"
         },
         {
@@ -412,7 +412,7 @@
           "videos": [
             "e8jJbdfw2cw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "icppej54j"
         }
       ],
@@ -420,7 +420,7 @@
     },
     {
       "title": "Recursos Energéticos",
-      "content": [
+      "classes": [
         {
           "title": "Energias renováveis e não renováveis",
           "videos": [
@@ -431,7 +431,7 @@
             "Bg5SDf2C_HQ",
             "bdgYTLW4ec4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "lcwa58nwq"
         }
       ],
@@ -439,7 +439,7 @@
     },
     {
       "title": "Indústria",
-      "content": [
+      "classes": [
         {
           "title": "Revolução Industrial",
           "videos": [
@@ -447,7 +447,7 @@
             "BI5XHfjyFaU",
             "jTLpqipsw0g"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "orwrj5sjo"
         },
         {
@@ -459,7 +459,7 @@
             "ltI0Qp4V8hQ",
             "v4npmZhMTZw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "8pnf2kvym"
         },
         {
@@ -469,7 +469,7 @@
             "rghOYydhmDU",
             "TvWic7VxEko"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "7iden15en"
         },
         {
@@ -478,7 +478,7 @@
             "ewxVG5D4LEU",
             "I4IJdUDzRXE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ftb2d5gc0"
         }
       ],
@@ -486,7 +486,7 @@
     },
     {
       "title": "Transportes",
-      "content": [
+      "classes": [
         {
           "title": "Transportes",
           "videos": [
@@ -494,7 +494,7 @@
             "SX4uAj0WV0s",
             "aZg1nxa1hP8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "3n630utyv"
         },
         {
@@ -502,7 +502,7 @@
           "videos": [
             "bDMK9ZfpB4E"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "me68kgrhq"
         }
       ],
@@ -510,7 +510,7 @@
     },
     {
       "title": "Comércio",
-      "content": [
+      "classes": [
         {
           "title": "Globalização e Regionalização",
           "videos": [
@@ -518,7 +518,7 @@
             "5STtrQ7M4Xc",
             "476cUJY7xbw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cdiqkluy7"
         },
         {
@@ -526,7 +526,7 @@
           "videos": [
             "qu3kKadqPmo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "947qsb0ay"
         }
       ],
@@ -534,14 +534,14 @@
     },
     {
       "title": "Agropecuária",
-      "content": [
+      "classes": [
         {
           "title": "Sistemas agrícolas",
           "videos": [
             "HOJ4IaTuG2I",
             "DuI5A-quhJg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "q740a42ov"
         },
         {
@@ -552,7 +552,7 @@
             "GJSLTvgBTVw",
             "1OhsVUPKIZc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "uhy8eyyl5"
         },
         {
@@ -561,7 +561,7 @@
             "1t13KjJqd-Y",
             "DsKcv2cyUFQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5o5zinsi5"
         }
       ],
@@ -569,7 +569,7 @@
     },
     {
       "title": "Geopolítica",
-      "content": [
+      "classes": [
         {
           "title": "Guerra Fria",
           "videos": [
@@ -577,7 +577,7 @@
             "A5aPPMkIcDs",
             "eJ4sEZwUO_8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "v5t5l40sg"
         },
         {
@@ -586,7 +586,7 @@
             "1-1z2vT-_HU",
             "oSElG3zNtFw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "qdklr4em2"
         },
         {
@@ -603,7 +603,7 @@
             "Ue4sN3VUD9o",
             "3Jld8cULyNc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "tfspidczp"
         },
         {
@@ -612,7 +612,7 @@
             "fGEc9exsKwg",
             "3G65dQBbTFc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "3rdawenbd"
         }
       ],

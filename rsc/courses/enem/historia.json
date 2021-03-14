@@ -1,18 +1,18 @@
 {
   "id": "3qzcg38kd",
-  "group": "Ciências Humanas e suas Tecnologias",
+  "category": "Ciências Humanas e suas Tecnologias",
   "title": "História",
-  "content": [
+  "courses": [
     {
       "title": "Historiografia e Linha do tempo",
-      "content": [
+      "classes": [
         {
           "title": "Historiografia e Linha do tempo",
           "videos": [
             "XS4vA0aSeNQ",
             "W1vru6Is_xI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "zts1989ym"
         }
       ],
@@ -20,7 +20,7 @@
     },
     {
       "title": "Pré-História",
-      "content": [
+      "classes": [
         {
           "title": "Pré-História",
           "videos": [
@@ -28,7 +28,7 @@
             "Comf5vc56zc",
             "LSqOKMnakU4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "babv2vkl0"
         }
       ],
@@ -36,7 +36,7 @@
     },
     {
       "title": "Idade Antiga",
-      "content": [
+      "classes": [
         {
           "title": "Egito e Mesopotâmia",
           "videos": [
@@ -50,7 +50,7 @@
             "utW3AgZocWI",
             "DlSjHyE3hdU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "4l7d46pa1"
         },
         {
@@ -59,7 +59,7 @@
             "OC3y-UjYLeg",
             "hb0ur5QvJ7Y"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "zflj0kdg9"
         },
         {
@@ -68,7 +68,7 @@
             "193_UCe1IJ8",
             "rrnlP5kqwMc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "kpno7enb3"
         },
         {
@@ -76,7 +76,7 @@
           "videos": [
             "Y55HaAhxqq8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cvs5z81zn"
         },
         {
@@ -95,7 +95,7 @@
             "WWgs7MqucqQ",
             "kMCQq9jjGXY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "chkc8fgmq"
         }
       ],
@@ -103,7 +103,7 @@
     },
     {
       "title": "Idade Média",
-      "content": [
+      "classes": [
         {
           "title": "Alta Idade Média: Sistema Feudal e Igreja medieval",
           "videos": [
@@ -112,7 +112,7 @@
             "fp2jfgWM47k",
             "lK7aH-KKcZU"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "osb84f6x4"
         },
         {
@@ -124,7 +124,7 @@
             "kQOxGcrXDb8",
             "stn3Fnlx_gY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "suyqw4co6"
         },
         {
@@ -136,7 +136,7 @@
             "Y2qRZMJh-cA",
             "Oq_dF4mJhis"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "r1nquku7y"
         },
         {
@@ -144,7 +144,7 @@
           "videos": [
             "vhM9F-U-X58"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5ywsyulrt"
         }
       ],
@@ -152,13 +152,13 @@
     },
     {
       "title": "Idade Moderna",
-      "content": [
+      "classes": [
         {
           "title": "Antigo Regime: Absolutismo e Mercantilismo",
           "videos": [
             "TZyNLIAwCZ0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vh4sxeifg"
         },
         {
@@ -168,7 +168,7 @@
             "n-gxIqg5xwI",
             "Bet_3rJxwwY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "nlna7ap36"
         },
         {
@@ -179,7 +179,7 @@
             "JcGwCu2sDuM",
             "sDF2EBS4OYg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ghuwkzrn3"
         },
         {
@@ -188,7 +188,7 @@
             "Wk0_iydV5qo",
             "lpbyx9O8PP0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "n312r4k3s"
         },
         {
@@ -196,7 +196,7 @@
           "videos": [
             "20076crvzQY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "a8o4q970k"
         },
         {
@@ -205,7 +205,7 @@
             "Ndak1dMOQHY",
             "eDDGqU9OgAc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "rc5s5gxim"
         },
         {
@@ -213,7 +213,7 @@
           "videos": [
             "jTuT8iiSF3g"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "a7vc9ln8i"
         },
         {
@@ -222,7 +222,7 @@
             "bb6d54mQkL0",
             "LgOmiodOGCE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "0vrqduyhh"
         }
       ],
@@ -230,14 +230,14 @@
     },
     {
       "title": "Idade Contemporânea",
-      "content": [
+      "classes": [
         {
           "title": "Era Napoleônica e Congresso de Viena",
           "videos": [
             "ta2npneckTE",
             "nt8s87tOQN8"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ym296vc8a"
         },
         {
@@ -245,7 +245,7 @@
           "videos": [
             "bU_RdmtPYUM"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "9muqfshn7"
         },
         {
@@ -253,7 +253,7 @@
           "videos": [
             "CxR4Qzn5vak"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "zwivqpr6o"
         },
         {
@@ -262,7 +262,7 @@
             "ZHNstpzHJjM",
             "up1yi5Y3r8Y"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "shb15eneo"
         },
         {
@@ -271,7 +271,7 @@
             "SeCcBmIphrQ",
             "0U1vq3BFyjY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "4tsmuiw53"
         },
         {
@@ -281,7 +281,7 @@
             "2F1bkjrJils",
             "-pJ-D10B6iQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "i370kq1as"
         },
         {
@@ -291,7 +291,7 @@
             "eQ70hLd0r5E",
             "z5GJ90q49p8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "6ko7u3f4r"
         },
         {
@@ -301,7 +301,7 @@
             "r_1xj0Pyi-8",
             "EYPPSnwN3ag"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ejpd0zxir"
         },
         {
@@ -311,7 +311,7 @@
             "PuXyboguY5c",
             "K7S2gRKKq6g"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "rji62dwba"
         },
         {
@@ -321,7 +321,7 @@
             "Mzb-TIfKeW0",
             "tzoJFzpLQ2k"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "kg3uthapx"
         },
         {
@@ -332,7 +332,7 @@
             "H873fcBtxfA",
             "eFwlBRWGbKA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vaaijthm8"
         },
         {
@@ -341,7 +341,7 @@
             "o7xyqtz6mNc",
             "Rk3itAjFUCw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "3k0gxu2u3"
         },
         {
@@ -350,7 +350,7 @@
             "mtBfImQdds0",
             "G9-10pfCSSI"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "alcr2sh1u"
         },
         {
@@ -360,7 +360,7 @@
             "DztkLET0vWE",
             "47DL0DVy28M"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ty5pi2vr2"
         },
         {
@@ -372,7 +372,7 @@
             "MpYy7qHCpKc",
             "FVYeXiNlngs"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "yfqv6kfzd"
         },
         {
@@ -384,7 +384,7 @@
             "9gG4GDWU43E",
             "cAwsLaO4HGQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4fapzdcej"
         },
         {
@@ -393,7 +393,7 @@
             "eIK_RenVVSY",
             "UNtWMZJtvtY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "8mi0gyrek"
         }
       ],
@@ -401,7 +401,7 @@
     },
     {
       "title": "Brasil pré-colonial",
-      "content": [
+      "classes": [
         {
           "title": "Povos indígenas do Brasil",
           "videos": [
@@ -411,7 +411,7 @@
             "J-HwQBmml4c",
             "uR4UrwYmrLA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "9rdbwh5ga"
         },
         {
@@ -422,7 +422,7 @@
             "amV13tcqti8",
             "TtGMWDcaXFw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4al961hfa"
         },
         {
@@ -434,7 +434,7 @@
             "I8sRO8QlN4c",
             "FpJIx2R30Qk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "j4iywzmup"
         },
         {
@@ -444,7 +444,7 @@
             "PKyuqVpPxTM",
             "WGd7mQ0V7tg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ywqtrfyxj"
         },
         {
@@ -454,7 +454,7 @@
             "tHFfCDiV6Zg",
             "Rvw5rHB5bL0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vjx58dhf9"
         },
         {
@@ -463,7 +463,7 @@
             "xwvzbpWKx1Q",
             "MrxO6ERkaV4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "63391b0z7"
         },
         {
@@ -473,7 +473,7 @@
             "nIPOTa9m2qQ",
             "NhpPJIlOq10"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "bb5bguh86"
         },
         {
@@ -483,7 +483,7 @@
             "Xwq4JEA_t40",
             "RE8Tem8EX1o"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "3h112rtok"
         },
         {
@@ -493,7 +493,7 @@
             "QfOraN_0424",
             "V7QXlsZs1Po"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "z4h1ze19x"
         },
         {
@@ -501,7 +501,7 @@
           "videos": [
             "T5tfs8QI3zU"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4w4q93501"
         },
         {
@@ -510,7 +510,7 @@
             "Ink0VvHBqmQ",
             "SHl__q3qGIU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "h0cqr6r7y"
         },
         {
@@ -520,7 +520,7 @@
             "F8c422R-C1w",
             "RhMJRrj2JsM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "89k76l6av"
         },
         {
@@ -530,7 +530,7 @@
             "CEuuVvLa64s",
             "Fr9lurVLNyo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vsb0e7bnr"
         }
       ],
@@ -538,7 +538,7 @@
     },
     {
       "title": "Brasil Império",
-      "content": [
+      "classes": [
         {
           "title": "Primeiro Reinado",
           "videos": [
@@ -547,7 +547,7 @@
             "TzwFrYCd-6M",
             "l-aRBhaHwgE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "3jjp8ig64"
         },
         {
@@ -559,7 +559,7 @@
             "duIKGxBfB4U",
             "Fwx7oZkmhLY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ezwwph0n5"
         },
         {
@@ -580,7 +580,7 @@
             "F1cS5Fnvfyo",
             "B8HC7b_g9Z8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "66mnrgem9"
         }
       ],
@@ -588,7 +588,7 @@
     },
     {
       "title": "República",
-      "content": [
+      "classes": [
         {
           "title": "República da Espada",
           "videos": [
@@ -597,7 +597,7 @@
             "9O6ZuF5jTXc",
             "2bmTCLGJZ3w"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vxvkgvxnt"
         },
         {
@@ -611,7 +611,7 @@
             "SlsHN-OWCkw",
             "poGMPLG9PpU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "u0yycodck"
         },
         {
@@ -627,7 +627,7 @@
             "UQm_Q3raRlA",
             "boiXlnRIct0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ec1lsqt3m"
         },
         {
@@ -641,7 +641,7 @@
             "O5btEvNv5JM",
             "Ur2QpQrxLkQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "7zznobzks"
         },
         {
@@ -661,7 +661,7 @@
             "B8hLHJSA6V0",
             "93PBy0aZDf0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vz7j8l3rt"
         },
         {
@@ -670,7 +670,7 @@
             "pFl4Kdwf2a0",
             "A6k-Z1rR3XI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "11vn4vp14"
         },
         {
@@ -685,7 +685,7 @@
             "E92O6GSINgQ",
             "j7EG06KHKBY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "m1sa9j85y"
         }
       ],

@@ -1,18 +1,18 @@
 {
   "id": "b2qggg58m",
-  "group": "Linguagens, Códigos e suas Tecnologias",
+  "category": "Linguagens, Códigos e suas Tecnologias",
   "title": "Espanhol",
-  "content": [
+  "courses": [
     {
       "title": "Objetivos da Leitura e Níveis de Compreensão",
-      "content": [
+      "classes": [
         {
           "title": "Objetivos da Leitura e Níveis de Compreensão",
           "vídeos": [
             "b4bAuswvMWg",
             "FKVCFNO8cHE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vu9sqlcwq"
         }
       ],
@@ -20,14 +20,14 @@
     },
     {
       "title": "Vocabulário",
-      "content": [
+      "classes": [
         {
           "title": "Vocabulário",
           "vídeos": [
             "DSEEIghgutY",
             "d34itHg3TMA"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "a8fj80qjl"
         }
       ],
@@ -35,14 +35,14 @@
     },
     {
       "title": "Técnicas de leitura",
-      "content": [
+      "classes": [
         {
           "title": "Técnicas de leitura",
           "vídeos": [
             "3eV4KxLM-Zc",
             "cidHmE1mwUY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "z0y3v3aiu"
         }
       ],
@@ -50,13 +50,13 @@
     },
     {
       "title": "Interpretação de Textos",
-      "content": [
+      "classes": [
         {
           "title": "Charges, Tirinhas e Anúncios Publicitários",
           "vídeos": [
             "fhNX0gcBdPE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "b3u5cfi9o"
         },
         {
@@ -64,7 +64,7 @@
           "vídeos": [
             "cpR0PIExyAs"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "80dh29v97"
         },
         {
@@ -72,7 +72,7 @@
           "vídeos": [
             "d34itHg3TMA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "dr3psqb8b"
         }
       ],

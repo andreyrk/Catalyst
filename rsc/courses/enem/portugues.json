@@ -1,11 +1,11 @@
 {
   "id": "83ftgxov6",
-  "group": "Linguagens, Códigos e suas Tecnologias",
+  "category": "Linguagens, Códigos e suas Tecnologias",
   "title": "Português",
-  "content": [
+  "courses": [
     {
       "title": "Morfologia",
-      "content": [
+      "classes": [
         {
           "title": "Classes gramaticais",
           "videos": [
@@ -21,7 +21,7 @@
             "vvXx5hGeqKA",
             "eoZ0aEJQACg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "3uagkvxi8"
         },
         {
@@ -30,7 +30,7 @@
             "U_nRXQh5L40",
             "98qXxXx51T0"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "od320289o"
         }
       ],
@@ -38,13 +38,13 @@
     },
     {
       "title": "Pronomes",
-      "content": [
+      "classes": [
         {
           "title": "Pronomes pessoais",
           "videos": [
             "PQRdgiIutrE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "fc4kyttqt"
         },
         {
@@ -53,7 +53,7 @@
             "cZ3MmXT0uys",
             "ocwqxQmGHuU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "esdnca2r9"
         },
         {
@@ -62,7 +62,7 @@
             "l_WxqVvmyGo",
             "baP8RkBYRNw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mao9188jc"
         }
       ],
@@ -70,13 +70,13 @@
     },
     {
       "title": "Acentuação",
-      "content": [
+      "classes": [
         {
           "title": "Visão geral de acentuação",
           "videos": [
             "Sy_LUnePfRE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ya4mf9en1"
         },
         {
@@ -86,7 +86,7 @@
             "8-5pg3PuY8o",
             "1aoM2HPwFgQ"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "h7jij0gnn"
         }
       ],
@@ -94,7 +94,7 @@
     },
     {
       "title": "Pontuação",
-      "content": [
+      "classes": [
         {
           "title": "Visão geral de pontuação",
           "videos": [
@@ -103,7 +103,7 @@
             "HwMYC5pFJGo",
             "LQgt2Edt9dE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "itj38ouaj"
         },
         {
@@ -113,7 +113,7 @@
             "IEYg_2PyIOE",
             "kTJ0_upUzrc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "oftlq2bla"
         }
       ],
@@ -121,14 +121,14 @@
     },
     {
       "title": "Ortografia",
-      "content": [
+      "classes": [
         {
           "title": "Novo Acordo Ortográfico",
           "videos": [
             "LhW_Ee3Wkms",
             "2Ou4ApRLj88"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "vbk7t48ji"
         }
       ],
@@ -136,14 +136,14 @@
     },
     {
       "title": "Sintaxe",
-      "content": [
+      "classes": [
         {
           "title": "Sujeito e Predicado",
           "videos": [
             "jv2Nucfx-Rk",
             "3uH39VAnAv8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5cx7oq72h"
         },
         {
@@ -151,7 +151,7 @@
           "videos": [
             "CFcjJ1cXJEg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "sx4ozz2hh"
         },
         {
@@ -164,7 +164,7 @@
             "HsqM3NskCBc",
             "pnHDAdm7toU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "meyxa4r2c"
         },
         {
@@ -173,7 +173,7 @@
             "bLg5Ug8SBYw",
             "Mg8nF0mCv14"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "0gp7igfvg"
         },
         {
@@ -181,7 +181,7 @@
           "videos": [
             "b8_7UxkMb6s"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "h8tn7wh1e"
         },
         {
@@ -190,7 +190,7 @@
             "4ZJnTqTk4_Y",
             "iZ7Ryffdoc0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "igp7tbvsc"
         },
         {
@@ -200,7 +200,7 @@
             "ISPEMEtMprA",
             "OXIx5oHteG8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "0kvz3nrfu"
         },
         {
@@ -210,7 +210,7 @@
             "r4Pew3CliXI",
             "kpzcFU_zNqE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "zufvtcbzq"
         }
       ],
@@ -218,13 +218,13 @@
     },
     {
       "title": "Período composto",
-      "content": [
+      "classes": [
         {
           "title": "Orações coordenadas",
           "videos": [
             "UbrR7An5ZfY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ix1wzvcgr"
         },
         {
@@ -232,7 +232,7 @@
           "videos": [
             "_kzTFOzf-_w"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "nfg4zwegk"
         },
         {
@@ -240,7 +240,7 @@
           "videos": [
             "HQcPjCQ72bo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "7fvxuzxip"
         },
         {
@@ -248,7 +248,7 @@
           "videos": [
             "tCoaqWAaOKk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "nbtz2kubt"
         },
         {
@@ -258,7 +258,7 @@
             "sLqKYjPIFZ4",
             "0yYccW2lfBI"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "fu0ejr3i0"
         }
       ],
@@ -266,13 +266,13 @@
     },
     {
       "title": "Análise de palavras",
-      "content": [
+      "classes": [
         {
           "title": "A palavra QUE",
           "videos": [
             "nr5HLdP2bWc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "uy7wef579"
         },
         {
@@ -280,7 +280,7 @@
           "videos": [
             "tcau9aFmuJ0"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ihpj5g978"
         }
       ],
@@ -288,13 +288,13 @@
     },
     {
       "title": "Interpretação Textual",
-      "content": [
+      "classes": [
         {
           "title": "Fatores de contextualização",
           "videos": [
             "oSf9UOtjkXU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "pwv4fcknq"
         },
         {
@@ -303,7 +303,7 @@
             "ibwf_X3498c",
             "Ucjv4LT8CSg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "jwmmzgnw0"
         },
         {
@@ -311,7 +311,7 @@
           "videos": [
             "NYlOqcYEvcw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "lzs1otbn2"
         },
         {
@@ -321,7 +321,7 @@
             "5bHtgXXvdJM",
             "aheSvhcdcqM"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "n5udsfgl7"
         },
         {
@@ -329,7 +329,7 @@
           "videos": [
             "Dhs1YAIsztw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bd4ezrunc"
         },
         {
@@ -338,7 +338,7 @@
             "IIU6i3UXyi0",
             "IkO2T0Rqjdc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vptmwe16l"
         },
         {
@@ -348,7 +348,7 @@
             "G3F7sRfK9FE",
             "dffRZNrhQ7w"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "3br3v36e4"
         },
         {
@@ -357,7 +357,7 @@
             "Ucjv4LT8CSg",
             "VPuEs9gdKTM"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "jxr1phbsf"
         },
         {
@@ -367,7 +367,7 @@
             "EKOEiCOEt-0",
             "CaUjNENatNY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ydg8nazas"
         },
         {
@@ -381,7 +381,7 @@
             "2XcMASxk4oM",
             "Cw3VZUnCA4E"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "34jib5hqh"
         }
       ],

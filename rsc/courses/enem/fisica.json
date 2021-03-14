@@ -1,17 +1,17 @@
 {
   "id": "x5khqm3xa",
-  "group": "Ciências da Natureza e suas Tecnologias",
+  "category": "Ciências da Natureza e suas Tecnologias",
   "title": "Física",
-  "content": [
+  "courses": [
     {
       "title": "Introdução à Física",
-      "content": [
+      "classes": [
         {
           "title": "Vetores",
           "vídeos": [
             "eAAKzZcbITI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "e4evc0m1z"
         },
         {
@@ -22,7 +22,7 @@
             "recMlMwRhGw",
             "MLEZI03kUkE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "wg012q00p"
         },
         {
@@ -31,7 +31,7 @@
             "752KWWVH_VU",
             "lEyUFyKPqXA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "iofkv4nl8"
         }
       ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "Cinemática",
-      "content": [
+      "classes": [
         {
           "title": "Movimento uniforme",
           "vídeos": [
@@ -50,7 +50,7 @@
             "m21X-MhCyrE",
             "dIUeSR8kdEU"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "gnm7p2xb2"
         },
         {
@@ -62,7 +62,7 @@
             "JfCmVT7hs5Q",
             "X0nxKNKskMo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "dkohx87sk"
         },
         {
@@ -76,7 +76,7 @@
             "IWQf_uEgK7s",
             "-Msic_RsoM4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mp9lh6d2r"
         },
         {
@@ -85,7 +85,7 @@
             "xVsVK2seM-Y",
             "YAKfcgxP-2M"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "agl8jw634"
         },
         {
@@ -96,7 +96,7 @@
             "RJ6viyxIxaE",
             "w1ydSueVN1I"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "fj0x2oisx"
         },
         {
@@ -107,7 +107,7 @@
             "NsuwZ7YTHSQ",
             "36Dys52sdoU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "e2ehxg07p"
         }
       ],
@@ -115,7 +115,7 @@
     },
     {
       "title": "Dinâmica",
-      "content": [
+      "classes": [
         {
           "title": "Leis de Newton",
           "vídeos": [
@@ -133,7 +133,7 @@
             "7GWni7Z4yKk",
             "0DPG181WAUw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mjghesqyg"
         },
         {
@@ -143,7 +143,7 @@
             "Ype8XNUP84s",
             "e-NOaJtqqV8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "9n6dyfle4"
         },
         {
@@ -153,7 +153,7 @@
             "5fG8GE_PmfQ",
             "UYx7xkvLh7o"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "acvchgq8s"
         },
         {
@@ -164,7 +164,7 @@
             "k0j-chbp32k",
             "-kzcaiQ4CYs"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "e0eq37z6c"
         },
         {
@@ -172,7 +172,7 @@
           "vídeos": [
             "46CYw-ZYI40"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "k63pr9hf7"
         },
         {
@@ -183,7 +183,7 @@
             "fFW6OLfWMyk",
             "ztlhTx3PzDY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "mcydvpgen"
         },
         {
@@ -196,7 +196,7 @@
             "lN-gVnNJAFI",
             "NsuwZ7YTHSQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "2kcr1mhya"
         },
         {
@@ -207,7 +207,7 @@
             "NWRAAqRnUHs",
             "i5n0m6ui83U"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "jgj4omx7c"
         },
         {
@@ -221,7 +221,7 @@
             "jVPvppPkJIg",
             "0sI9UBM4knQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mnyv5h2cm"
         },
         {
@@ -236,7 +236,7 @@
             "mWG1L98Tugw",
             "oZWrk3aNSGs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "2e15e939t"
         },
         {
@@ -251,7 +251,7 @@
             "aiRkSbgwByU",
             "WXTqryya8CA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "rtx7pudfb"
         }
       ],
@@ -259,7 +259,7 @@
     },
     {
       "title": "Movimento Harmônico Simples (MHS)",
-      "content": [
+      "classes": [
         {
           "title": "Movimento harmônico simples (MHS): Movimentos periódicos",
           "vídeos": [
@@ -267,7 +267,7 @@
             "X1_30mr6Tok",
             "7bniG407sZQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6x6hmazrs"
         },
         {
@@ -275,7 +275,7 @@
           "vídeos": [
             "SmzaYP1qahs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "pbyhofvm2"
         },
         {
@@ -284,7 +284,7 @@
             "dUb4QTNjU7I",
             "6DGIIDaKBIs"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "xxidolt20"
         }
       ],
@@ -292,7 +292,7 @@
     },
     {
       "title": "Gravitação",
-      "content": [
+      "classes": [
         {
           "title": "Leis de Kepler",
           "vídeos": [
@@ -300,7 +300,7 @@
             "55Q2nDhxMtY",
             "jw7sYCGGd6Q"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "1l16q0b93"
         },
         {
@@ -309,7 +309,7 @@
             "GrlDlgAjyqs",
             "-InAjGkcFlg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5tj23u7j6"
         },
         {
@@ -318,7 +318,7 @@
             "5EQIJgXmsVU",
             "8i16Ea4qy94"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "6ecc4supu"
         }
       ],
@@ -326,7 +326,7 @@
     },
     {
       "title": "Hidrostática",
-      "content": [
+      "classes": [
         {
           "title": "Densidade, pressão e Teorema de Stevin",
           "vídeos": [
@@ -340,7 +340,7 @@
             "EUEuBwxAFWE",
             "Bfn2Bed6nxk"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "tn9cp7q61"
         },
         {
@@ -349,7 +349,7 @@
             "639RgoEmuMg",
             "MgFKKbmkb3E"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "lrsmq5fci"
         },
         {
@@ -357,7 +357,7 @@
           "vídeos": [
             "n5_qJ2cIr9s"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4biao3mes"
         }
       ],
@@ -365,7 +365,7 @@
     },
     {
       "title": "Óptica",
-      "content": [
+      "classes": [
         {
           "title": "Luz e Câmara de orifício",
           "vídeos": [
@@ -374,7 +374,7 @@
             "-X4t8hib8Dk",
             "VR2vXhFB8xM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "xr2gh627f"
         },
         {
@@ -383,7 +383,7 @@
             "QKPj0f3mN5c",
             "G_-E_E9i6Ms"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "2968e4y97"
         },
         {
@@ -392,7 +392,7 @@
             "WDDJsiN-_aY",
             "0-TbKgjAGig"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "phomrb04e"
         },
         {
@@ -402,7 +402,7 @@
             "csItKb-LdGw",
             "dzOy3ypU6K0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "1teawsva7"
         },
         {
@@ -410,7 +410,7 @@
           "vídeos": [
             "dzOy3ypU6K0"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ig0ats71z"
         },
         {
@@ -419,7 +419,7 @@
             "gvUfJXHybIY",
             "LXCnyNrQOAQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "pdei0vmr2"
         },
         {
@@ -428,7 +428,7 @@
             "Bc6pHmIx6Wo",
             "B12P2tfqcBY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "aejhrs28a"
         },
         {
@@ -436,7 +436,7 @@
           "vídeos": [
             "Jceo2whzLUc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "2z8hr38y7"
         },
         {
@@ -445,7 +445,7 @@
             "sJTrdArAeKY",
             "8i_GgkLJ2IQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "snzx9j8jg"
         },
         {
@@ -453,7 +453,7 @@
           "vídeos": [
             "_O7mg70DWHU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "p5nbqb3zn"
         },
         {
@@ -462,7 +462,7 @@
             "CJ08cirBZkI",
             "QJYxZk0JeC0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ahhl4tt0g"
         },
         {
@@ -470,7 +470,7 @@
           "vídeos": [
             "ECS3GxdlMBQ"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "11yfnexkz"
         }
       ],
@@ -478,7 +478,7 @@
     },
     {
       "title": "Ondulatória",
-      "content": [
+      "classes": [
         {
           "title": "Ondulatória: Visão geral e Equação fundamental",
           "vídeos": [
@@ -486,7 +486,7 @@
             "nl7lKCY5Ed4",
             "L8f3-O5P81s"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "hdg8dtlo2"
         },
         {
@@ -494,7 +494,7 @@
           "vídeos": [
             "MYA4carA57A"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "l9wchdm8r"
         },
         {
@@ -503,7 +503,7 @@
             "6RCztSzqzug",
             "zlG5UcEKGdo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "dtync283z"
         },
         {
@@ -514,7 +514,7 @@
             "P4xgTLgd3JU",
             "8I7dKNPKKPQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "td453vpw3"
         },
         {
@@ -523,7 +523,7 @@
             "U6pEarIMtIk",
             "nbGs0IpwDg0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vjeuc5rag"
         }
       ],
@@ -531,14 +531,14 @@
     },
     {
       "title": "Termometria",
-      "content": [
+      "classes": [
         {
           "title": "Temperatura, Calor e Energia térmica",
           "vídeos": [
             "biLQGuEFGkU",
             "QUvmXOY2WvI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "8r1d6zt1i"
         },
         {
@@ -547,7 +547,7 @@
             "bJ4-58O5LmQ",
             "6H5OOCTdPeo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "uvwhb2ilo"
         },
         {
@@ -556,7 +556,7 @@
             "YI_khGcCPTM",
             "lGv8KXlx1Hs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "b1q7x09pg"
         },
         {
@@ -565,7 +565,7 @@
             "hsjynlSYQI4",
             "ePwrxyCcqDg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "065ukndei"
         },
         {
@@ -578,7 +578,7 @@
             "oGjcVkwjWao",
             "5ZVRNmXV8M8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "tyapc2oaz"
         },
         {
@@ -586,7 +586,7 @@
           "vídeos": [
             "5ZVRNmXV8M8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "kfi4el1nm"
         },
         {
@@ -595,7 +595,7 @@
             "To-x9-ZZrSQ",
             "MOlgEed22Ok"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "sobwk1xtj"
         }
       ],
@@ -603,14 +603,14 @@
     },
     {
       "title": "Termodinâmica",
-      "content": [
+      "classes": [
         {
           "title": "Estudo do gás ideal",
           "vídeos": [
             "XQ1EJDTNKpI",
             "MBDr003b-Wo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "9gbaqfycf"
         },
         {
@@ -619,7 +619,7 @@
             "GhM_FYSz9W4",
             "saWDdrkwzf0"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "6nqnzpfzj"
         },
         {
@@ -628,7 +628,7 @@
             "kNzjPoNwU20",
             "TKQlTakmAao"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "khu78hxdh"
         },
         {
@@ -636,7 +636,7 @@
           "vídeos": [
             "WlxqaxFB_NQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "iqvdmifd2"
         },
         {
@@ -645,7 +645,7 @@
             "3n8CRANljck",
             "LbXTXWxRaZg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "27jse8r3v"
         }
       ],
@@ -653,13 +653,13 @@
     },
     {
       "title": "Eletrostática",
-      "content": [
+      "classes": [
         {
           "title": "Carga elétrica",
           "vídeos": [
             "6o3zDgWmBKw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "qnbfirqet"
         },
         {
@@ -669,7 +669,7 @@
             "bglmaanxQ_U",
             "ESIPbxYOqgg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "5ra2hd5om"
         },
         {
@@ -677,7 +677,7 @@
           "vídeos": [
             "ktatkm5Wzmg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "2nnxf9jqt"
         },
         {
@@ -687,7 +687,7 @@
             "rNl39QgZhZI",
             "4sRsG1LlODo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ykcib2a5a"
         },
         {
@@ -697,7 +697,7 @@
             "bgN6AtasL68",
             "huacsOuPI-Q"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ei9hj7ruy"
         },
         {
@@ -707,7 +707,7 @@
             "fUWedbDmAoo",
             "qgXxAG55y6o"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "r03xhld59"
         }
       ],
@@ -715,7 +715,7 @@
     },
     {
       "title": "Eletrodinâmica",
-      "content": [
+      "classes": [
         {
           "title": "Corrente e Potência elétrica",
           "vídeos": [
@@ -726,7 +726,7 @@
             "q_evMCsfE_I",
             "WsyZf6nb7kI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "pb7ap669m"
         },
         {
@@ -736,7 +736,7 @@
             "B_VQwbU2ckM",
             "y3BEWkHRNt8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "imhm9mxp7"
         },
         {
@@ -749,7 +749,7 @@
             "piEE0OOWqN8",
             "z3v9K_vm0iA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "8x2i48p2i"
         },
         {
@@ -758,7 +758,7 @@
             "tlPNRa4_0js",
             "5q0ss9G8Xlc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "3wdlyoi4y"
         },
         {
@@ -769,7 +769,7 @@
             "T9QzVZepxVQ",
             "GTACjSndmy8"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "jlaxhd19l"
         },
         {
@@ -779,7 +779,7 @@
             "Nk3L556OTHY",
             "Ylp3C4SQB_M"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "h8ma2sjw3"
         },
         {
@@ -788,7 +788,7 @@
             "wG0sQz91MKc",
             "314hWpdLT8o"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "lav5ijtzb"
         }
       ],
@@ -796,14 +796,14 @@
     },
     {
       "title": "Eletromagnetismo",
-      "content": [
+      "classes": [
         {
           "title": "Eletromagnetismo: Visão geral, Imã e Regra da mão direita",
           "vídeos": [
             "AFACIE-UH6A",
             "3TdvFzrBTJ8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "1xoyncyd3"
         },
         {
@@ -813,7 +813,7 @@
             "aG8Hv6nXEBo",
             "JnvcANPacBg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ii27kw7xo"
         },
         {
@@ -822,7 +822,7 @@
             "N0Hhmj4s5-k",
             "qWi11HXP9ow"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "988ku2tsx"
         },
         {
@@ -833,7 +833,7 @@
             "PlD0OTDrc8c",
             "VKayc7OGKhU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "px2cz386i"
         },
         {
@@ -842,7 +842,7 @@
             "dv3Ili8mBvs",
             "PlD0OTDrc8c"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "7ijr4qtpu"
         },
         {
@@ -851,7 +851,7 @@
             "WoMSBM8JHZc",
             "iui3-BkYKHo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "l0zmms493"
         }
       ],
@@ -859,7 +859,7 @@
     },
     {
       "title": "Física Moderna",
-      "content": [
+      "classes": [
         {
           "title": "Efeito fotoelétrico",
           "vídeos": [
@@ -871,7 +871,7 @@
             "9PvZ8GYuz_U",
             "I9WG6IWpc20"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "l7ojz8lsh"
         },
         {
@@ -881,7 +881,7 @@
             "kJ5xNaSIeTI",
             "qD7tvSBlkpY"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "lrc5kvclx"
         },
         {
@@ -891,7 +891,7 @@
             "AYXzh5Toguc",
             "eA1E2HGdbKg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ex86o3cjx"
         }
       ],

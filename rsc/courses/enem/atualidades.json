@@ -1,11 +1,10 @@
 {
   "title": "Atualidades",
-  "group": "Ciências Humanas e suas Tecnologias",
-  "id": "sp98rtybw",
-  "content": [
+  "category": "Ciências Humanas e suas Tecnologias",
+  "courses": [
     {
       "title": "Século XX",
-      "content": [
+      "classes": [
         {
           "title": "Conflitos do século XX",
           "vídeos": [
@@ -18,7 +17,7 @@
             "n7g0ZC-LBKM",
             "Q4TO1B7UQRU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ujr0odkam"
         }
       ],
@@ -26,14 +25,14 @@
     },
     {
       "title": "Século XXI",
-      "content": [
+      "classes": [
         {
           "title": "Migrações e Refugiados",
           "vídeos": [
             "x3AJgkPXA2w",
             "zd9blKQWEhE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "rins647iu"
         },
         {
@@ -43,7 +42,7 @@
             "ulRgitcsIdg",
             "Kq_bjeeDtxg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "ep5mvnow7"
         },
         {
@@ -54,7 +53,7 @@
             "HIxM0bjCsfQ",
             "1OWauiyGINg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "x552flzxp"
         },
         {
@@ -66,7 +65,7 @@
             "RsUD8CTDdAw",
             "1RLhXg_7bKw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "luwp67z51"
         },
         {
@@ -78,7 +77,7 @@
             "6-hpHVnQYX0",
             "61jZe5U-8k4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "k5708jeov"
         },
         {
@@ -86,7 +85,7 @@
           "vídeos": [
             "bnJYu5WJkMU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6b0o1t73l"
         },
         {
@@ -98,7 +97,7 @@
             "eN6NR_3T03s",
             "sFR64k0BZ_M"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "xjmnfk3mr"
         },
         {
@@ -109,7 +108,7 @@
             "tMPGe_UfWHc",
             "WixX_037z-g"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "rdzdm20x2"
         },
         {
@@ -123,7 +122,7 @@
             "x4yFDz9PoAE",
             "5RDfv2gOiXI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "zbgzlz7vn"
         },
         {
@@ -132,7 +131,7 @@
             "I_UYuoZVUO8",
             "Cu-ussN8szs"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "1xjnkyoxh"
         },
         {
@@ -142,7 +141,7 @@
             "nouz8PBXQzY",
             "0VOdMmFnJtQ"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "aotumrrf1"
         },
         {
@@ -152,7 +151,7 @@
             "9Rfe8I-JYmM",
             "NrVy92Ozs5k"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "o8ildn9zn"
         },
         {
@@ -163,11 +162,12 @@
             "7aPM8Kdu3YA",
             "Tr_Y4Od_5Z0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "e2mzazu4y"
         }
       ],
       "id": "pnx2bcdlp"
     }
-  ]
+  ],
+  "id": "sp98rtybw"
 }

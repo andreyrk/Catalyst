@@ -1,11 +1,10 @@
 {
-  "id": "4ctx4s8g6",
-  "group": "Ciências da Natureza e suas Tecnologias",
+  "category": "Ciências da Natureza e suas Tecnologias",
   "title": "Biologia",
-  "content": [
+  "courses": [
     {
       "title": "Introdução à biologia e método científico",
-      "content": [
+      "classes": [
         {
           "title": "Introdução à Biologia e Método Científico",
           "vídeos": [
@@ -14,7 +13,7 @@
             "0q16ky-S-48",
             "TKPf1TAhmlc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "12d7i2asc"
         }
       ],
@@ -22,14 +21,14 @@
     },
     {
       "title": "Bioquímica",
-      "content": [
+      "classes": [
         {
           "title": "Água e Sais Minerais",
           "vídeos": [
             "f7mZBDlcR-A",
             "qbVcdT5nhfg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "rneeoz6b1"
         },
         {
@@ -40,7 +39,7 @@
             "zEtnX2p7UpM",
             "9KjeGKlunFw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "mxlnt4cp0"
         },
         {
@@ -49,7 +48,7 @@
             "7Vkx7buEzyw",
             "u0it7IzIGrc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "qfo64qq6f"
         },
         {
@@ -58,7 +57,7 @@
             "3TCBscfKzxw",
             "rUo7ga20Wyg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "hscfbv3ow"
         },
         {
@@ -68,7 +67,7 @@
             "oQbFK7CgzEU",
             "Ltu7uYneynk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "1nfcsdqiy"
         },
         {
@@ -77,7 +76,7 @@
             "KJxk94LPZPc",
             "-0sPTGY0djw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vdd1eyf3u"
         },
         {
@@ -90,7 +89,7 @@
             "TROYY3AKj8M",
             "ywMYH1D8OTc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "kjjyned6p"
         }
       ],
@@ -98,7 +97,7 @@
     },
     {
       "title": "Citologia",
-      "content": [
+      "classes": [
         {
           "title": "Introdução à citologia e Modelos celulares",
           "vídeos": [
@@ -106,7 +105,7 @@
             "N33jWXzV8RU",
             "C5wehaJMyjE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "bahst487m"
         },
         {
@@ -115,7 +114,7 @@
             "yaiEgmOboq0",
             "rXL2mDLDy_0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "1jzj6yger"
         },
         {
@@ -126,7 +125,7 @@
             "PI-uXlIJXDI",
             "1U-YH0647Ws"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6uneunxn3"
         },
         {
@@ -135,7 +134,7 @@
             "-26zr45146k",
             "M2doyYlMBg4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "kr80s9w8x"
         },
         {
@@ -143,7 +142,7 @@
           "vídeos": [
             "stbfESp7_vA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "9y1lg3rcb"
         },
         {
@@ -155,7 +154,7 @@
             "M2doyYlMBg4",
             "SszZjEcCs1U"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "92ipfyomo"
         },
         {
@@ -165,7 +164,7 @@
             "TBEpshmaagE",
             "SrJwf9o8D1k"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "0kpi7319m"
         }
       ],
@@ -173,7 +172,7 @@
     },
     {
       "title": "Bioenergética",
-      "content": [
+      "classes": [
         {
           "title": "Fotossíntese e Quimiossíntese",
           "vídeos": [
@@ -181,7 +180,7 @@
             "OZ8T-OjEf78",
             "GHYV7DOzFfk"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "khx88vxma"
         },
         {
@@ -191,7 +190,7 @@
             "mZ7dv3UKIGo",
             "CJfCUHqN5k0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "9dkazbdrq"
         },
         {
@@ -200,7 +199,7 @@
             "HBzPWeexCno",
             "kSRkYwF1yBo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "y2cnw0snh"
         }
       ],
@@ -208,14 +207,14 @@
     },
     {
       "title": "Citogenética",
-      "content": [
+      "classes": [
         {
           "title": "Núcleo celular",
           "vídeos": [
             "nJr2ixAnisw",
             "4oLfYw7xE3Q"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "u0ycv81b0"
         },
         {
@@ -225,7 +224,7 @@
             "3mjbqFkKINE",
             "BjtlcnXFVvQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "xv6qxnioc"
         },
         {
@@ -235,7 +234,7 @@
             "zvr7O5tqNiY",
             "oFdqrPcGx9Y"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "isjvcmk04"
         },
         {
@@ -245,7 +244,7 @@
             "9dL186flQ2U",
             "ra9jALXMN-g"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "3tzy0rj1f"
         },
         {
@@ -253,7 +252,7 @@
           "vídeos": [
             "_8VUjE02XME"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "cbbw0wmvj"
         },
         {
@@ -264,7 +263,7 @@
             "O1Fn3aJ3ntI",
             "ReG_K23YtpQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "4d5krksur"
         }
       ],
@@ -272,7 +271,7 @@
     },
     {
       "title": "Genética",
-      "content": [
+      "classes": [
         {
           "title": "Visão geral de Genética e Código genético",
           "vídeos": [
@@ -280,7 +279,7 @@
             "4R4Q1dcxQVI",
             "RrKZBsIef-U"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "klolpa5nc"
         },
         {
@@ -292,7 +291,7 @@
             "sKH3NrzTBCc",
             "8v4OZx6t3Bc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "sdh5h2nos"
         },
         {
@@ -303,7 +302,7 @@
             "HEUHUnGV_uI",
             "BgBOfbc1gIo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "dgzzvxl8a"
         },
         {
@@ -312,7 +311,7 @@
             "6NPRQMgCZaA",
             "8v4OZx6t3Bc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "7v5r5mwvi"
         },
         {
@@ -322,7 +321,7 @@
             "08LPYpObAxw",
             "4J1Vbg9i_ro"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "njqhn0k9x"
         },
         {
@@ -333,7 +332,7 @@
             "T_psII34_-k",
             "c2seUlqQaog"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "0hgljsmil"
         },
         {
@@ -342,7 +341,7 @@
             "iujcgOnooVY",
             "k12MtShI-6k"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "jl95vs2wt"
         },
         {
@@ -353,7 +352,7 @@
             "F6XXUuUYyow",
             "4rSb40VDEjU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "l7yntbv9d"
         },
         {
@@ -365,7 +364,7 @@
             "XCRLvWFqRcA",
             "sEzClQhcAow"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "sj1arxidj"
         }
       ],
@@ -373,14 +372,14 @@
     },
     {
       "title": "Embriologia",
-      "content": [
+      "classes": [
         {
           "title": "Fecundação, segmentação ou clivagem",
           "vídeos": [
             "IGiFuVulY60",
             "C5WKro0kNEw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "jl5ksj26b"
         },
         {
@@ -388,7 +387,7 @@
           "vídeos": [
             "yNj5az867lI"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "94gprog7k"
         },
         {
@@ -396,7 +395,7 @@
           "vídeos": [
             "1zEYnpPZRdE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "8ruhf3fl7"
         },
         {
@@ -405,7 +404,7 @@
             "p4DZ9HrOSeE",
             "_JpwsvyQTRA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "b4cxqun1b"
         }
       ],
@@ -413,14 +412,14 @@
     },
     {
       "title": "Histologia animal",
-      "content": [
+      "classes": [
         {
           "title": "Tecido epitelial",
           "vídeos": [
             "emucgjvtdw0",
             "J-b2P6kvGNM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "cirvaxz3l"
         },
         {
@@ -429,7 +428,7 @@
             "G4Q0T3pcaz8",
             "yGvKVuWR7cY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "di5htsrz7"
         },
         {
@@ -437,7 +436,7 @@
           "vídeos": [
             "jlxIEtQCWWE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "66mp6b600"
         },
         {
@@ -445,7 +444,7 @@
           "vídeos": [
             "a7MTQU7N6AM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "gzi1q4kwq"
         },
         {
@@ -453,7 +452,7 @@
           "vídeos": [
             "nraJccbFWXQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "cwupqhe3k"
         },
         {
@@ -462,7 +461,7 @@
             "DiKh_hBlrWU",
             "h0mqq3BN7Co"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "98hs1z96h"
         },
         {
@@ -470,7 +469,7 @@
           "vídeos": [
             "dM24OlxCS88"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "uq4of32u6"
         },
         {
@@ -478,7 +477,7 @@
           "vídeos": [
             "rpwNCVp2HRo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "7xd7km5gc"
         },
         {
@@ -487,7 +486,7 @@
             "Vd9RVSKZoj4",
             "2AnUH5cke8w"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "djrce42xh"
         }
       ],
@@ -495,14 +494,14 @@
     },
     {
       "title": "Fisiologia humana",
-      "content": [
+      "classes": [
         {
           "title": "Visão geral da fisiologia",
           "vídeos": [
             "Dck3vDEmcEs",
             "zrf6_UJlK-0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ac3p16kbd"
         },
         {
@@ -510,7 +509,7 @@
           "vídeos": [
             "ccxiObyUGRA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "po9k1m4h0"
         },
         {
@@ -518,7 +517,7 @@
           "vídeos": [
             "6BAypTlvWQM"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "5eenl5zc4"
         },
         {
@@ -527,7 +526,7 @@
             "SwuPnrZdMzA",
             "4_VfjPwECwY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "isym7vo8a"
         },
         {
@@ -536,7 +535,7 @@
             "RcmOsoyce9M",
             "lW_pOyMy74w"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ludbn3gf1"
         },
         {
@@ -544,7 +543,7 @@
           "vídeos": [
             "nOwrE9nzWUc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "x8h518o50"
         },
         {
@@ -552,7 +551,7 @@
           "vídeos": [
             "f8dra4Nuxn8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "n0yv53m9r"
         },
         {
@@ -560,7 +559,7 @@
           "vídeos": [
             "I-OO-4Dhosw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "77xgthehs"
         },
         {
@@ -569,7 +568,7 @@
             "P1mUO6JzSR8",
             "aT8Awh0C1ik"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "yjb6s0rot"
         },
         {
@@ -578,7 +577,7 @@
             "yJoNsLA2uu4",
             "DMywZks5o5A"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "he4zvzzt3"
         },
         {
@@ -587,7 +586,7 @@
             "DDFJ2sCPh3s",
             "ts0AXpnpGMo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "lp9lcf7mj"
         },
         {
@@ -597,7 +596,7 @@
             "RJNc_6SGWtk",
             "t9A_7fEr3uE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "736bu46bf"
         }
       ],
@@ -605,14 +604,14 @@
     },
     {
       "title": "Classificação Biológica",
-      "content": [
+      "classes": [
         {
           "title": "Classificação Biológica",
           "vídeos": [
             "gcrn43B5HK8",
             "eCEOc7J_nqU"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "6rvcuwcwb"
         }
       ],
@@ -620,7 +619,7 @@
     },
     {
       "title": "Microbiologia",
-      "content": [
+      "classes": [
         {
           "title": "Vírus, Príons e Viroses",
           "vídeos": [
@@ -628,7 +627,7 @@
             "55BCWNAVuFw",
             "y9onKICh6Uc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "tc6vdhx46"
         },
         {
@@ -640,7 +639,7 @@
             "4RDcnPjCMJw",
             "twACdjdqVow"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "pmu7ogqyl"
         },
         {
@@ -648,7 +647,7 @@
           "vídeos": [
             "e_zvM3RhRCE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "zci3fuzzr"
         },
         {
@@ -657,7 +656,7 @@
             "u1ijYz37Ssw",
             "yERpugEU6eA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "0cxlmzhug"
         },
         {
@@ -665,7 +664,7 @@
           "vídeos": [
             "ms0V0-MaHeE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "8doib01mt"
         }
       ],
@@ -673,13 +672,13 @@
     },
     {
       "title": "Zoologia",
-      "content": [
+      "classes": [
         {
           "title": "Poríferos",
           "vídeos": [
             "YSF95Y52aXQ"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "3lms7xlsa"
         },
         {
@@ -687,7 +686,7 @@
           "vídeos": [
             "o_7pcj4wJL4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "6mwjjp353"
         },
         {
@@ -697,7 +696,7 @@
             "zPGE16l0zfo",
             "LWa6QmOPZ80"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ueg9flgo0"
         },
         {
@@ -706,7 +705,7 @@
             "e1XeoR5Fhts",
             "tFpNLghkvHQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "qid2kfaj6"
         },
         {
@@ -714,7 +713,7 @@
           "vídeos": [
             "BifQ3731tak"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "jay5xvyu4"
         },
         {
@@ -722,7 +721,7 @@
           "vídeos": [
             "TVlwv7zRnwQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "529eb4dyd"
         },
         {
@@ -730,7 +729,7 @@
           "vídeos": [
             "6ki3B5zDCso"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "yqze54b1z"
         },
         {
@@ -738,7 +737,7 @@
           "vídeos": [
             "EEvHb-NpGbg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "nra8isx94"
         },
         {
@@ -747,7 +746,7 @@
             "JtKC6lVP5Dc",
             "D1Uhi12aqWY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "hgz6k78xs"
         },
         {
@@ -755,7 +754,7 @@
           "vídeos": [
             "WHpd0USoBE4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "v0dbgx138"
         },
         {
@@ -764,7 +763,7 @@
             "5KlKh7zVLG8",
             "XyyTDp0BAgQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6xokl2d0s"
         },
         {
@@ -774,7 +773,7 @@
             "TwjBViPTEl4",
             "Z94zenbxjAE"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "3zurhxwbq"
         },
         {
@@ -783,7 +782,7 @@
             "ncIY1SI1reY",
             "hTBEGO8dbRw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "pdjuugcx1"
         },
         {
@@ -792,7 +791,7 @@
             "XkDC-BFkORw",
             "-h_7CSc21j0"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "s9luh1f4t"
         }
       ],
@@ -800,13 +799,13 @@
     },
     {
       "title": "Botânica",
-      "content": [
+      "classes": [
         {
           "title": "Introdução à Botânica",
           "vídeos": [
             "KQCFWpaCguU"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "x5hmze80l"
         },
         {
@@ -814,7 +813,7 @@
           "vídeos": [
             "2dUtnZFf_-4"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "cw75demhj"
         },
         {
@@ -823,7 +822,7 @@
             "k-I7B5nVLP0",
             "MWc0FIcfKWA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "h1946cpre"
         },
         {
@@ -831,7 +830,7 @@
           "vídeos": [
             "3_ObUmmMz7c"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "xq1fc1z6v"
         },
         {
@@ -839,7 +838,7 @@
           "vídeos": [
             "ZVJbHBqL-68"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "sddx88iea"
         },
         {
@@ -852,7 +851,7 @@
             "dd7lJQ0bDpg",
             "YJgXf1TgxCY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "6ljmvaopz"
         },
         {
@@ -862,7 +861,7 @@
             "ib2TCZca94Y",
             "ShElVAh8xm8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "qn5nn71t0"
         },
         {
@@ -876,7 +875,7 @@
             "KFBn-Kc74Dg",
             "op2sza0Jf2I"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "537gob9p9"
         },
         {
@@ -888,7 +887,7 @@
             "zwwA7Citg4Y",
             "EnYIBL8-aAs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "nhrnd2ks8"
         },
         {
@@ -900,7 +899,7 @@
             "_BUZdgye6gE",
             "2XfyJ-m7X9s"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "f5wjnycri"
         }
       ],
@@ -908,13 +907,13 @@
     },
     {
       "title": "Evolução",
-      "content": [
+      "classes": [
         {
           "title": "Origem da vida",
           "vídeos": [
             "A7mC6q942Qc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vfbiiza6f"
         },
         {
@@ -924,7 +923,7 @@
             "piRSx5SvYv8",
             "YRT3h2V4n8k"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "dsado3gbs"
         },
         {
@@ -933,7 +932,7 @@
             "4rSb40VDEjU",
             "HbZC2Vyi8EA"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "fcili4yn2"
         },
         {
@@ -941,7 +940,7 @@
           "vídeos": [
             "76iUXt6ioOs"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "mk307w0q5"
         },
         {
@@ -950,7 +949,7 @@
             "wQqGWPubiqA",
             "4WO-A_GaA1o"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bs83r6j71"
         }
       ],
@@ -958,13 +957,13 @@
     },
     {
       "title": "Ecologia",
-      "content": [
+      "classes": [
         {
           "title": "Introdução à ecologia",
           "vídeos": [
             "w8zHbA3CSBo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "prlha43s4"
         },
         {
@@ -973,7 +972,7 @@
             "D7TCvCyAbEg",
             "kmYcfFLdCIg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bngygczvo"
         },
         {
@@ -982,7 +981,7 @@
             "Ihp38SxezhM",
             "6V-VOHDJ8jQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "7s9u4c0dj"
         },
         {
@@ -991,7 +990,7 @@
             "cpmcIciaIWc",
             "AY7rrPmcH90"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vtyy5k0ic"
         },
         {
@@ -1000,7 +999,7 @@
             "RPvTbMyfpok",
             "SfReRM2r_GE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "hn1off9hq"
         },
         {
@@ -1009,7 +1008,7 @@
             "RtCJk4wa50U",
             "VO0z1u7YPxA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "3w4rv41ai"
         },
         {
@@ -1023,7 +1022,7 @@
             "mhH3i8DZJjI",
             "Rmzd4OAdwsg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mliuu3238"
         },
         {
@@ -1034,11 +1033,12 @@
             "LG48H_6LEDg",
             "tqaSRf3rhgg"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "jci7vtpqu"
         }
       ],
       "id": "ul3c38wfm"
     }
-  ]
+  ],
+  "id": "4ctx4s8g6"
 }

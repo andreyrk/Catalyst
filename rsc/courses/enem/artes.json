@@ -1,11 +1,10 @@
 {
-  "id": "vz65oqz7q",
-  "group": "Linguagens, Códigos e suas Tecnologias",
+  "category": "Linguagens, Códigos e suas Tecnologias",
   "title": "Artes",
-  "content": [
+  "courses": [
     {
       "title": "Conceitos sobre Arte",
-      "content": [
+      "classes": [
         {
           "title": "Arte: conceitos, modalidades, estéticas, funções e estados",
           "videos": [
@@ -15,7 +14,7 @@
             "kKPXqXsFMGw",
             "89pLkl-pZtc"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "9xb9wzu2q"
         }
       ],
@@ -23,14 +22,14 @@
     },
     {
       "title": "Arte na Idade Antiga",
-      "content": [
+      "classes": [
         {
           "title": "Arte na Pré-história",
           "videos": [
             "h2h24Q_J7M8",
             "pgVEx0BGKvk"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "w90ifns7o"
         },
         {
@@ -43,7 +42,7 @@
             "f4mRWEZLmsk",
             "SA1lTZxb76M"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "iraqmuufe"
         }
       ],
@@ -51,7 +50,7 @@
     },
     {
       "title": "Arte na Idade Média",
-      "content": [
+      "classes": [
         {
           "title": "Arte na Idade Média",
           "videos": [
@@ -59,7 +58,7 @@
             "7pim_dMPHGU",
             "nRK8noyEpAw"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "knrxhbkmm"
         }
       ],
@@ -67,7 +66,7 @@
     },
     {
       "title": "Arte Renascentista",
-      "content": [
+      "classes": [
         {
           "title": "Arte Renascentista",
           "videos": [
@@ -75,7 +74,7 @@
             "PU7JyzGhOiQ",
             "kZQxsayfiuc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "vz5p7z1ps"
         }
       ],
@@ -83,7 +82,7 @@
     },
     {
       "title": "Arte Barroca e Rococó",
-      "content": [
+      "classes": [
         {
           "title": "Maneirismo, Barroco e Rococó",
           "videos": [
@@ -91,7 +90,7 @@
             "kHawYcX92Qs",
             "8OXJyn2P1Dw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "rqlzxmgso"
         }
       ],
@@ -99,7 +98,7 @@
     },
     {
       "title": "Arte Neoclássica e Romântica",
-      "content": [
+      "classes": [
         {
           "title": "Arte Neoclássica e Romântica",
           "videos": [
@@ -107,7 +106,7 @@
             "rf4VMGWz0pY",
             "g5uqGcd6mBk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "v5bcpk721"
         }
       ],
@@ -115,7 +114,7 @@
     },
     {
       "title": "Arte Moderna",
-      "content": [
+      "classes": [
         {
           "title": "Arte Moderna: Impressionismo e outros movimentos",
           "videos": [
@@ -126,7 +125,7 @@
             "kk8r6MzgyIQ",
             "rOA0iXUIEu8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "pqowe0rj0"
         },
         {
@@ -134,7 +133,7 @@
           "videos": [
             "FRCYQq_HAac"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "j19cph2cd"
         },
         {
@@ -143,7 +142,7 @@
             "KUOPX0LWRBU",
             "-GuOcRDWLnY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "geqvfxkro"
         }
       ],
@@ -151,7 +150,7 @@
     },
     {
       "title": "Arte Contemporânea",
-      "content": [
+      "classes": [
         {
           "title": "Arte contemporânea",
           "videos": [
@@ -159,7 +158,7 @@
             "fDp6gXqoWCc",
             "PCxvMzXy3iE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cl3vf84v8"
         }
       ],
@@ -167,13 +166,13 @@
     },
     {
       "title": "Cultura Popular",
-      "content": [
+      "classes": [
         {
           "title": "Cultura popular",
           "videos": [
             "XuBktCcpi84"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "lkguyi9of"
         }
       ],
@@ -181,14 +180,14 @@
     },
     {
       "title": "Culturas africana e indígena",
-      "content": [
+      "classes": [
         {
           "title": "Culturas africana e indígena",
           "videos": [
             "RPzxt1iZGiA",
             "xg01PI-G2-E"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "csc8qieyj"
         }
       ],
@@ -196,7 +195,7 @@
     },
     {
       "title": "Música",
-      "content": [
+      "classes": [
         {
           "title": "Música",
           "videos": [
@@ -204,7 +203,7 @@
             "1D1-REmjgZ4",
             "qvklwdDMHas"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "61my17ndy"
         }
       ],
@@ -212,7 +211,7 @@
     },
     {
       "title": "Teatro",
-      "content": [
+      "classes": [
         {
           "title": "Teatro",
           "videos": [
@@ -220,7 +219,7 @@
             "Kh4ofdaLSVM",
             "Xlbn_V5nuL4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "mrelj7i8n"
         }
       ],
@@ -228,7 +227,7 @@
     },
     {
       "title": "Educação Física",
-      "content": [
+      "classes": [
         {
           "title": "Educação Física",
           "videos": [
@@ -237,11 +236,12 @@
             "OZ4OwcHZI7M",
             "TlM8OQamE50"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cdknmv1cc"
         }
       ],
       "id": "zvgctv6rv"
     }
-  ]
+  ],
+  "id": "vz65oqz7q"
 }

@@ -1,11 +1,11 @@
 {
   "id": "by5cz2e7f",
-  "group": "Matemática e suas Tecnologias",
+  "category": "Matemática e suas Tecnologias",
   "title": "Matemática Básica",
-  "content": [
+  "courses": [
     {
       "title": "Operações básicas",
-      "content": [
+      "classes": [
         {
           "title": "As quatro operações e expressões numéricas",
           "videos": [
@@ -16,7 +16,7 @@
             "0UGJRHq2PS4",
             "PN0cASQhkhk"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ojorvhv3r"
         },
         {
@@ -27,7 +27,7 @@
             "d9GBEzzCuRg",
             "IImqH5D29Uo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "j0ttijmxt"
         },
         {
@@ -37,7 +37,7 @@
             "Jf0sA3wBqXE",
             "epFmO0M8gDk"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "aqsqehvbm"
         }
       ],
@@ -45,7 +45,7 @@
     },
     {
       "title": "Raciocínio lógico",
-      "content": [
+      "classes": [
         {
           "title": "Raciocínio lógico",
           "videos": [
@@ -64,7 +64,7 @@
             "McK-ahOry-0",
             "vaWCsFUAVWM"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "prssl831c"
         }
       ],
@@ -72,7 +72,7 @@
     },
     {
       "title": "Potenciação e notação científica",
-      "content": [
+      "classes": [
         {
           "title": "Potenciação",
           "videos": [
@@ -81,7 +81,7 @@
             "gzNVmoge5OM",
             "zH43mX3ryTI"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "6n1e9y8f6"
         },
         {
@@ -90,7 +90,7 @@
             "GPTxrh_mhow",
             "sFqWN34zTaw"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "2u6zcf48n"
         }
       ],
@@ -98,7 +98,7 @@
     },
     {
       "title": "Radiciação e racionalização de denomidadores",
-      "content": [
+      "classes": [
         {
           "title": "Radiciação e racionalização de denomidadores",
           "videos": [
@@ -106,7 +106,7 @@
             "04nnroZrmgg",
             "RwPis6vr3Fo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "iiapzvmrt"
         }
       ],
@@ -114,7 +114,7 @@
     },
     {
       "title": "Produtos notáveis e fatoração",
-      "content": [
+      "classes": [
         {
           "title": "Produtos notáveis e fatoração",
           "videos": [
@@ -122,7 +122,7 @@
             "3amBZupsIdc",
             "Z5G3aDjNPeY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "slzwc7ydr"
         }
       ],
@@ -130,7 +130,7 @@
     },
     {
       "title": "Equações e sistemas do primeiro grau",
-      "content": [
+      "classes": [
         {
           "title": "Equações e sistemas do primeiro grau",
           "videos": [
@@ -138,7 +138,7 @@
             "oT4k6bhB4Dk",
             "DmN535Y2PGw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "kj9ej84qc"
         }
       ],
@@ -146,7 +146,7 @@
     },
     {
       "title": "Equações do segundo grau e equações biquadradas",
-      "content": [
+      "classes": [
         {
           "title": "Equações do segundo grau e equações biquadradas",
           "videos": [
@@ -154,7 +154,7 @@
             "qYQllsg8ka8",
             "YEaQDJeADTg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "r1uanhv2q"
         }
       ],
@@ -162,7 +162,7 @@
     },
     {
       "title": "Múltiplos e Divisores",
-      "content": [
+      "classes": [
         {
           "title": "Critérios de divisibilidade e números primos",
           "videos": [
@@ -170,7 +170,7 @@
             "MrHhUUnOtPc",
             "kjg8a41wwjQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "x8of677z3"
         },
         {
@@ -180,7 +180,7 @@
             "NWtwEm8M2qw",
             "LoiM5d7Kors"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "hsl4rne73"
         }
       ],
@@ -188,7 +188,7 @@
     },
     {
       "title": "Razão e proporção",
-      "content": [
+      "classes": [
         {
           "title": "Razão e proporção",
           "videos": [
@@ -197,7 +197,7 @@
             "I-fPlExG5y4",
             "BhPKDHA6kds"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "7zlgtzbtu"
         }
       ],
@@ -205,7 +205,7 @@
     },
     {
       "title": "Regra de 3 e escalas",
-      "content": [
+      "classes": [
         {
           "title": "Regra de 3 e escalas",
           "videos": [
@@ -216,7 +216,7 @@
             "StovbnDFCio",
             "UYOwXqhMd4w"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "90vwgz32b"
         }
       ],
@@ -224,14 +224,14 @@
     },
     {
       "title": "Porcentagem",
-      "content": [
+      "classes": [
         {
           "title": "Porcentagem",
           "videos": [
             "CERiIwParX4",
             "Nifqays8Auo"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "3y41p0793"
         }
       ],
@@ -239,14 +239,14 @@
     },
     {
       "title": "Juros simples e compostos",
-      "content": [
+      "classes": [
         {
           "title": "Juros simples",
           "videos": [
             "N27xZJj1m-4",
             "yOQtPB4ZnBI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "1ywujnra0"
         },
         {
@@ -255,7 +255,7 @@
             "790S9GR5bWU",
             "5kJIxd8MEkQ"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bjzxjtvah"
         }
       ],

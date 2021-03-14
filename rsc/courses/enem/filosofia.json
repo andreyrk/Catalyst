@@ -1,18 +1,18 @@
 {
   "id": "vm42x5v9a",
-  "group": "Ciências Humanas e suas Tecnologias",
+  "category": "Ciências Humanas e suas Tecnologias",
   "title": "Filosofia",
-  "content": [
+  "courses": [
     {
       "title": "Nascimento da Filosofia",
-      "content": [
+      "classes": [
         {
           "title": "Origem da filosofia",
           "vídeos": [
             "wlqmk6vZcNc",
             "WPSDYtxd_d0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "o7176lo6a"
         },
         {
@@ -27,7 +27,7 @@
             "H328rUUlmus",
             "w0cJAinrE9c"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "sgnezehd4"
         }
       ],
@@ -35,7 +35,7 @@
     },
     {
       "title": "Filosofia Clássica",
-      "content": [
+      "classes": [
         {
           "title": "Sofistas, Sócrates e Platão",
           "vídeos": [
@@ -47,7 +47,7 @@
             "0wkBkrP3ZNY",
             "VrTTQH6zOC4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "q4s3yp4j4"
         },
         {
@@ -58,7 +58,7 @@
             "FHF1HBpjLXw",
             "cTAh-Jvegp0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "p6nu6awsu"
         }
       ],
@@ -66,7 +66,7 @@
     },
     {
       "title": "Filosofia Helenística",
-      "content": [
+      "classes": [
         {
           "title": "Filosofia Helenística",
           "vídeos": [
@@ -78,7 +78,7 @@
             "Mz0ylEoAWrU",
             "kWwU-l08R2A"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "3qlxw5018"
         }
       ],
@@ -86,7 +86,7 @@
     },
     {
       "title": "Filosofia Medieval",
-      "content": [
+      "classes": [
         {
           "title": "Filosofia Medieval",
           "vídeos": [
@@ -101,7 +101,7 @@
             "knoTMbvQoVA",
             "DSHyjqgdi-s"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "divhfnwbi"
         }
       ],
@@ -109,7 +109,7 @@
     },
     {
       "title": "Filosofia Moderna",
-      "content": [
+      "classes": [
         {
           "title": "Filosofia Renascentista e Revolução científica",
           "vídeos": [
@@ -124,7 +124,7 @@
             "btGrFGKzM_o",
             "mG2XEFg7lxY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "u8wlzrxke"
         },
         {
@@ -132,7 +132,7 @@
           "vídeos": [
             "XuHr8nLI7ec"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "bpp2im65u"
         },
         {
@@ -144,7 +144,7 @@
             "LMVQKC2py-Q",
             "iLR2t6D0EOc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ps7zrpkrx"
         },
         {
@@ -160,7 +160,7 @@
             "quB59LjzXWA",
             "vVwckAou7LY"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ss02h5iuq"
         },
         {
@@ -173,7 +173,7 @@
             "9w9T1WAiXjY",
             "wbPGwWeDZ6g"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "dkvv1it5n"
         },
         {
@@ -187,7 +187,7 @@
             "SkaGfGK6Pps",
             "_z-uwONGW94"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "y6gmk823i"
         }
       ],
@@ -195,7 +195,7 @@
     },
     {
       "title": "Idealismo Alemão, Hegel, Schopenhauer e Nietzsche",
-      "content": [
+      "classes": [
         {
           "title": "Idealismo Alemão",
           "vídeos": [
@@ -204,7 +204,7 @@
             "GoNOo27lq30",
             "OZM86dtBFr8"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5ykwuezf4"
         }
       ],
@@ -212,13 +212,13 @@
     },
     {
       "title": "Escola de Frankfurt, Adorno, Horkheimer e Walter Benjamin",
-      "content": [
+      "classes": [
         {
           "title": "Escola de Frankfurt",
           "vídeos": [
             "2cRmI_bYEyc"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "dkqk9vwgl"
         }
       ],
@@ -226,7 +226,7 @@
     },
     {
       "title": "Filosofia Contemporânea",
-      "content": [
+      "classes": [
         {
           "title": "Existencialismo",
           "vídeos": [
@@ -237,7 +237,7 @@
             "IwBQ5HLctS4",
             "MucaOivk50s"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "zfc6do43n"
         }
       ],

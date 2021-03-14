@@ -1,11 +1,11 @@
 {
   "id": "xxcqjym88",
-  "group": "Matemática e suas Tecnologias",
+  "category": "Matemática e suas Tecnologias",
   "title": "Matemática",
-  "content": [
+  "courses": [
     {
       "title": "Conjuntos",
-      "content": [
+      "classes": [
         {
           "title": "Teoria dos conjuntos",
           "videos": [
@@ -14,7 +14,7 @@
             "c5a99sX-Sq8",
             "eZfFpnvudR0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "oxvzc81e5"
         },
         {
@@ -25,7 +25,7 @@
             "J4vD5RpOqJY",
             "OPACJhL_mLY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "03d2fofgj"
         }
       ],
@@ -33,7 +33,7 @@
     },
     {
       "title": "Progressões",
-      "content": [
+      "classes": [
         {
           "title": "Progressão aritmética (PA)",
           "videos": [
@@ -46,7 +46,7 @@
             "wPB7riMEUbY",
             "XeIohrmZtbA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6vuen78qr"
         },
         {
@@ -64,7 +64,7 @@
             "d0EcswGgJdI",
             "SYLtTfrh3w4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "axe02nvpn"
         }
       ],
@@ -72,7 +72,7 @@
     },
     {
       "title": "Funções",
-      "content": [
+      "classes": [
         {
           "title": "Teoria geral de funções",
           "videos": [
@@ -95,7 +95,7 @@
             "BieXxZ1xL0M",
             "rkapkXaTDoE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "cfxrrrkjl"
         },
         {
@@ -108,7 +108,7 @@
             "C4IxcdO6afw",
             "5x-detAH3gk"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "5e4brnn74"
         },
         {
@@ -136,7 +136,7 @@
             "pxkS0gN0gN0",
             "HBkSpbVoYW4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "4okzrih7x"
         },
         {
@@ -151,7 +151,7 @@
             "mdVzgffO7MY",
             "J6Qc56TdVTc"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "zucl6nyzm"
         },
         {
@@ -165,7 +165,7 @@
             "rfscaJLsPuI",
             "dz0YHryyAQ8"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "ygx8p7l9i"
         },
         {
@@ -181,7 +181,7 @@
             "uWHZI0aSZVc",
             "JHZ5fFr44SA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "yjw247b2n"
         },
         {
@@ -196,7 +196,7 @@
             "PxEddevzTew",
             "I1jz5xiU7Go"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "pazsllgl2"
         },
         {
@@ -209,7 +209,7 @@
             "pmZdHEsr5LM",
             "b9K884tjeO4"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "0ei1qtusl"
         }
       ],
@@ -217,7 +217,7 @@
     },
     {
       "title": "Matrizes",
-      "content": [
+      "classes": [
         {
           "title": "Matriz e Determinante",
           "videos": [
@@ -244,7 +244,7 @@
             "m3hlfARoobs",
             "CNWvpQu1PKg"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "x0ss97927"
         }
       ],
@@ -252,14 +252,14 @@
     },
     {
       "title": "Geometria Plana",
-      "content": [
+      "classes": [
         {
           "title": "Ângulos",
           "videos": [
             "0CnUdzmpO8E",
             "pyb-5syEWdI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "6qoqfrled"
         },
         {
@@ -270,7 +270,7 @@
             "OO8NKf_NKJo",
             "WZXvZgkiG1w"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "129u6w8s9"
         },
         {
@@ -278,7 +278,7 @@
           "videos": [
             "LxFlnxS6iMg"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "z3mskjz85"
         },
         {
@@ -286,7 +286,7 @@
           "videos": [
             "MQw2524ZZcU"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "7fabafsry"
         },
         {
@@ -295,7 +295,7 @@
             "LDw4QSfWVug",
             "f4JBVvr72MQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "0ifwfr7vn"
         },
         {
@@ -303,7 +303,7 @@
           "videos": [
             "MWPXfX8YmOY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "8u5cxzu6z"
         },
         {
@@ -312,7 +312,7 @@
             "t6zTP7fU8lA",
             "-ChDnLM47xo"
           ],
-          "importance": 1,
+          "priority": 1,
           "id": "90im2tk3g"
         },
         {
@@ -325,7 +325,7 @@
             "jDtFCb2K7f0",
             "WbqxVAtoWl0"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "chu31mbhv"
         },
         {
@@ -338,7 +338,7 @@
             "2IPnbQmO88Y",
             "Y5Yq_QJcTEw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "s2g3jxncb"
         },
         {
@@ -352,7 +352,7 @@
             "Prj7bgIh3VA",
             "oBx4sskFcmI"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "46tdx8y4e"
         }
       ],
@@ -360,14 +360,14 @@
     },
     {
       "title": "Geometria de Posição",
-      "content": [
+      "classes": [
         {
           "title": "Geometria de posição: Posições relativas e Projeção ortogonal",
           "videos": [
             "Z-RDx98ugG4",
             "toO6S_gbKC4"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "45q8e6fas"
         }
       ],
@@ -375,7 +375,7 @@
     },
     {
       "title": "Geometria Espacial",
-      "content": [
+      "classes": [
         {
           "title": "Poliedros",
           "videos": [
@@ -385,7 +385,7 @@
             "n4RtMz5_5bY",
             "I_7E_Oq0ipw"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "fzimb87ij"
         },
         {
@@ -395,7 +395,7 @@
             "_sKcgx590J4",
             "P8Cw3tafL3s"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "k4kq6opwg"
         },
         {
@@ -403,7 +403,7 @@
           "videos": [
             "rpbFsCa7D4E"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "9iwxys6wn"
         },
         {
@@ -413,7 +413,7 @@
             "UUyX2FlenuI",
             "lnQnoZ5-_24"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "qvfi5bgq6"
         },
         {
@@ -422,7 +422,7 @@
             "RJSBvqVWHJo",
             "QD3I7FbFCPo"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "a657vurb3"
         },
         {
@@ -434,7 +434,7 @@
             "J5nnGEIAudg",
             "-zJBbCf7nPY"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ohc1lpafv"
         },
         {
@@ -442,7 +442,7 @@
           "videos": [
             "GxhWrDq32SE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "u7sc6klq5"
         }
       ],
@@ -450,7 +450,7 @@
     },
     {
       "title": "Geometria Analítica",
-      "content": [
+      "classes": [
         {
           "title": "Estudo do ponto",
           "videos": [
@@ -461,7 +461,7 @@
             "vMK8ehuAZk8",
             "UaPAWHTkCBE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "t303f4d43"
         },
         {
@@ -478,7 +478,7 @@
             "FSfwY1fM4EI",
             "UaPAWHTkCBE"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "0ab7s1xpj"
         },
         {
@@ -490,7 +490,7 @@
             "5GNJmo1bMlY",
             "9lK6KL9kQmk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "0gvwqhbcb"
         }
       ],
@@ -498,7 +498,7 @@
     },
     {
       "title": "Análise Combinatória",
-      "content": [
+      "classes": [
         {
           "title": "Princípio Fundamental da Contagem (PFC)",
           "videos": [
@@ -507,7 +507,7 @@
             "MjMwLY3rUu0",
             "uQrfpkkZtjA"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "vi00t4314"
         },
         {
@@ -516,7 +516,7 @@
             "WXyZUWAKtws",
             "KR4xUGGgYZk"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "lwqjxa8y9"
         },
         {
@@ -524,7 +524,7 @@
           "videos": [
             "UaTPoG0WDEM"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "wyw5tuo72"
         },
         {
@@ -536,7 +536,7 @@
             "GSadFgqbLwk",
             "AvWsIh1lbag"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ftan88d46"
         },
         {
@@ -545,7 +545,7 @@
             "fvPIb7Vtez4",
             "sd9-uIlKA80"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "esiijcix6"
         }
       ],
@@ -553,7 +553,7 @@
     },
     {
       "title": "Estatística",
-      "content": [
+      "classes": [
         {
           "title": "Estatística: Visão geral, Organização e Representação de dados",
           "videos": [
@@ -561,7 +561,7 @@
             "TArPqgSSGmg",
             "i8dDBLSQc6U"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "rc7m4tbd3"
         },
         {
@@ -572,7 +572,7 @@
             "Iq1TputJKnE",
             "Iq1TputJKnE"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "xy2it6hns"
         },
         {
@@ -581,7 +581,7 @@
             "8j4ZMn4-nv8",
             "P5N_fL1yD6A"
           ],
-          "importance": 3,
+          "priority": 3,
           "id": "b7v6ejo8u"
         }
       ],
@@ -589,7 +589,7 @@
     },
     {
       "title": "Probabilidade",
-      "content": [
+      "classes": [
         {
           "title": "Probabilidade: Visão geral",
           "videos": [
@@ -597,7 +597,7 @@
             "_AaYS_kTvps",
             "U99Rensi0as"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "xd9d8do5w"
         },
         {
@@ -605,7 +605,7 @@
           "videos": [
             "QkO3HJgzTrA"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "yf5znp10w"
         },
         {
@@ -613,7 +613,7 @@
           "videos": [
             "VifuLscFmV0"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "ajseqdo3v"
         },
         {
@@ -621,7 +621,7 @@
           "videos": [
             "uo16XTg2CIQ"
           ],
-          "importance": 2,
+          "priority": 2,
           "id": "5xciezrvq"
         }
       ],

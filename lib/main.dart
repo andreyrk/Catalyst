@@ -1,6 +1,6 @@
-import 'package:catalyst/pages/course_structure_page.dart';
-import 'package:catalyst/pages/course_page.dart';
 import 'package:flutter/material.dart';
+
+import 'package:catalyst/main_router.dart';
 
 void main() {
   runApp(App());
@@ -14,10 +14,8 @@ class App extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      routes: {
-        CoursePage.routeName: (_) => CoursePage(),
-        CourseStructurePage.routeName: (_) => CourseStructurePage(),
-      },
+      initialRoute: AppRouter.courseRoute,
+      onGenerateRoute: AppRouter.generateRoute,
     );
   }
 }
