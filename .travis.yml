@@ -12,7 +12,7 @@ before_script:
   - flutter pub get
 script:
   - flutter test
-  - flutter build web
+  - flutter build web --web-renderer html --release
 deploy:
   provider: pages
   local_dir: build/web
