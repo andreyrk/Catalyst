@@ -9,13 +9,13 @@ class AppDrawer extends StatelessWidget {
       child: ListView(
         children: <Widget>[
           ListTile(
-            title: Text('Courses'),
+            title: Text('Matérias'),
             onTap: () {
               Navigator.pushReplacementNamed(context, AppRouter.courseRoute);
             },
           ),
           ListTile(
-            title: Text('Options'),
+            title: Text('Opções'),
             onTap: () {},
           )
         ],

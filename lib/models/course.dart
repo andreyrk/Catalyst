@@ -6,6 +6,7 @@ class Course {
   String id = '';
   String title = '';
   String category = '';
+
   List<Course> courses = [];
   List<CourseClass> classes = [];
 

@@ -1,10 +1,11 @@
 import 'dart:convert';
 
 class CourseClass {
-  int priority = 0;
   String id = '';
   String title = '';
   String category = '';
+
+  int priority = 0;
   List<String> videos = [];
 
   CourseClass.fromJson(String jsonString) {

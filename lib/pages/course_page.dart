@@ -42,7 +42,7 @@ class _CoursePageState extends State<CoursePage> {
     return Scaffold(
       drawer: AppDrawer(),
       appBar: AppBar(
-        title: Text('Courses'),
+        title: Text('Matérias'),
       ),
       body: buildContent(),
     );
@@ -52,14 +52,18 @@ class _CoursePageState extends State<CoursePage> {
     return FutureBuilder(
       future: loadCourses(coursesDirectory),
       builder: (context, snapshot) {
-        if (snapshot.hasError) {
-          print(snapshot.error);
-        }
         if (snapshot.hasData) {
           return SingleChildScrollView(
               child: TreeView(
                   treeController: TreeController(allNodesExpanded: false),
                   nodes: buildContentNodes(snapshot.data as List<Course>)));
+        }
+
+        if (snapshot.hasError) {
+          print(snapshot.error);
+          return Center(
+            child: Text('Ocorreu um erro ao carregar as matérias.'),
+          );
         } else {
           return Center(
             child: CircularProgressIndicator(),
@@ -78,8 +82,15 @@ class _CoursePageState extends State<CoursePage> {
       if (course.classes.isNotEmpty) {
         for (var courseClass in course.classes) {
           node.children?.add(TreeNode(
-            content: Text(courseClass.title),
-          ));
+              content: Expanded(
+            child: GestureDetector(
+              onTap: () {
+                Navigator.pushNamed(context, AppRouter.courseClassRoute,
+                    arguments: courseClass);
+              },
+              child: Text(courseClass.title),
+            ),
+          )));
         }
       }
 
