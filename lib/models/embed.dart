@@ -19,11 +19,6 @@ class Embed {
 
   Embed.fromJson(String jsonString) {
     Map map;
-    try {
-      map = json.decode(jsonString);
-    } catch(e) {
-      throw e;
-    }
 
     if (map.containsKey('title'))
       title = map['title'];
