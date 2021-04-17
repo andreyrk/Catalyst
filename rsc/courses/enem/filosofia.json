@@ -1,5 +1,4 @@
 {
-  "id": "vm42x5v9a",
   "category": "Ciências Humanas e suas Tecnologias",
   "title": "Filosofia",
   "courses": [
@@ -8,7 +7,7 @@
       "classes": [
         {
           "title": "Origem da filosofia",
-          "vídeos": [
+          "videos": [
             "wlqmk6vZcNc",
             "WPSDYtxd_d0"
           ],
@@ -17,7 +16,7 @@
         },
         {
           "title": "Pré-Socráticos",
-          "vídeos": [
+          "videos": [
             "TIIzrsbx74E",
             "b8gsidcbprs",
             "dsQoi6b3-Wo",
@@ -38,7 +37,7 @@
       "classes": [
         {
           "title": "Sofistas, Sócrates e Platão",
-          "vídeos": [
+          "videos": [
             "HJ0G0FNDrb4",
             "8cfp9vxE7Uw",
             "GYISmIglyc8",
@@ -52,7 +51,7 @@
         },
         {
           "title": "Aristóteles",
-          "vídeos": [
+          "videos": [
             "LIowUF7oZrM",
             "s-dNSJY5Dpk",
             "FHF1HBpjLXw",
@@ -69,7 +68,7 @@
       "classes": [
         {
           "title": "Filosofia Helenística",
-          "vídeos": [
+          "videos": [
             "VKBzGRepW8U",
             "9-bvJy6CvOY",
             "sqLo6C2WGi0",
@@ -89,7 +88,7 @@
       "classes": [
         {
           "title": "Filosofia Medieval",
-          "vídeos": [
+          "videos": [
             "y6RDV-FlmAo",
             "EIGiCMbPz60",
             "n1d61aPD0XM",
@@ -112,7 +111,7 @@
       "classes": [
         {
           "title": "Filosofia Renascentista e Revolução científica",
-          "vídeos": [
+          "videos": [
             "6NbSXIdObDk",
             "mILMl-dJcqI",
             "9LnEZSVNhu0",
@@ -129,7 +128,7 @@
         },
         {
           "title": "Filosofia Moderna: Introdução",
-          "vídeos": [
+          "videos": [
             "XuHr8nLI7ec"
           ],
           "priority": 3,
@@ -137,7 +136,7 @@
         },
         {
           "title": "Filosofia Moderna: Racionalismo",
-          "vídeos": [
+          "videos": [
             "2Tg0cgYHMhs",
             "rGGxJMxZawM",
             "KAVaTmGvfKA",
@@ -149,7 +148,7 @@
         },
         {
           "title": "Filosofia Moderna: Empirismo",
-          "vídeos": [
+          "videos": [
             "mzN9w1SGBQw",
             "haxE15k9YNs",
             "L4muar9_Fvo",
@@ -165,7 +164,7 @@
         },
         {
           "title": "Filosofia Moderna: Iluminismo",
-          "vídeos": [
+          "videos": [
             "wJEhiUVMa4M",
             "9_pkGzeYbrg",
             "rXGbaJoSfc4",
@@ -178,7 +177,7 @@
         },
         {
           "title": "Filosofia Moderna: Immanuel Kant",
-          "vídeos": [
+          "videos": [
             "8vPquLLVpzQ",
             "gC-8IlAGRYM",
             "Xfri3iIO71s",
@@ -198,7 +197,7 @@
       "classes": [
         {
           "title": "Idealismo Alemão",
-          "vídeos": [
+          "videos": [
             "IB4sDbtPpFo",
             "CZIUYOs8FZ0",
             "GoNOo27lq30",
@@ -215,7 +214,7 @@
       "classes": [
         {
           "title": "Escola de Frankfurt",
-          "vídeos": [
+          "videos": [
             "2cRmI_bYEyc"
           ],
           "priority": 2,
@@ -229,7 +228,7 @@
       "classes": [
         {
           "title": "Existencialismo",
-          "vídeos": [
+          "videos": [
             "g26I8ufn2xc",
             "_XSHx0JSYmw",
             "zhaq6AqeS_o",
@@ -243,5 +242,6 @@
       ],
       "id": "x86fp5kcl"
     }
-  ]
+  ],
+  "id": "vm42x5v9a"
 }
