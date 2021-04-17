@@ -1,0 +1,79 @@
+{
+  "id": "zuu923sow",
+  "category": "Linguagens, Códigos e suas Tecnologias",
+  "title": "Inglês",
+  "courses": [
+    {
+      "title": "Objetivos da Leitura e Níveis de Compreensão",
+      "classes": [
+        {
+          "title": "Objetivos da Leitura e Níveis de Compreensão",
+          "videos": [
+            "C-Mc6SlvrfM"
+          ],
+          "priority": 3,
+          "id": "c6aca0l33"
+        }
+      ],
+      "id": "bq9p0lvp5"
+    },
+    {
+      "title": "Vocabulário",
+      "classes": [
+        {
+          "title": "Vocabulário",
+          "videos": [
+          ],
+          "priority": 1,
+          "id": "r7y3yjepn"
+        }
+      ],
+      "id": "mw9u0pmnc"
+    },
+    {
+      "title": "Técnicas de leitura",
+      "classes": [
+        {
+          "title": "Técnicas de leitura",
+          "videos": [
+            "jBkRAG8L12o"
+          ],
+          "priority": 2,
+          "id": "4l1unzx0q"
+        }
+      ],
+      "id": "apau2c2b5"
+    },
+    {
+      "title": "Interpretação de Textos",
+      "classes": [
+        {
+          "title": "Charges, Tirinhas e Anúncios Publicitários",
+          "videos": [
+            "jbeefq7fNOY",
+            "KPHsxvzRbv8"
+          ],
+          "priority": 3,
+          "id": "z00jitm2f"
+        },
+        {
+          "title": "Letras de Músicas",
+          "videos": [
+            "Rl4C997pImg"
+          ],
+          "priority": 3,
+          "id": "r22iftbkr"
+        },
+        {
+          "title": "Artigos científicos",
+          "videos": [
+            "nbRxEbpD6MI"
+          ],
+          "priority": 3,
+          "id": "bpbepc3mz"
+        }
+      ],
+      "id": "ja20i44w5"
+    }
+  ]
+}

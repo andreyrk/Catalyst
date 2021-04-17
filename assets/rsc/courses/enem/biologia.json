@@ -1,0 +1,1044 @@
+{
+  "category": "Ciências da Natureza e suas Tecnologias",
+  "title": "Biologia",
+  "courses": [
+    {
+      "title": "Introdução à biologia e método científico",
+      "classes": [
+        {
+          "title": "Introdução à Biologia e Método Científico",
+          "videos": [
+            "eFKBRvEs8lU",
+            "B_AN9rRdMlw",
+            "0q16ky-S-48",
+            "TKPf1TAhmlc"
+          ],
+          "priority": 1,
+          "id": "12d7i2asc"
+        }
+      ],
+      "id": "kbqcl3nz8"
+    },
+    {
+      "title": "Bioquímica",
+      "classes": [
+        {
+          "title": "Água e Sais Minerais",
+          "videos": [
+            "f7mZBDlcR-A",
+            "qbVcdT5nhfg"
+          ],
+          "priority": 3,
+          "id": "rneeoz6b1"
+        },
+        {
+          "title": "Carboidratos",
+          "videos": [
+            "d_GcAjlQshE",
+            "1mSIM66hhhU",
+            "zEtnX2p7UpM",
+            "9KjeGKlunFw"
+          ],
+          "priority": 2,
+          "id": "mxlnt4cp0"
+        },
+        {
+          "title": "Lipídios e Colesterol",
+          "videos": [
+            "7Vkx7buEzyw",
+            "u0it7IzIGrc"
+          ],
+          "priority": 2,
+          "id": "qfo64qq6f"
+        },
+        {
+          "title": "Aminoácidos e Proteínas",
+          "videos": [
+            "3TCBscfKzxw",
+            "rUo7ga20Wyg"
+          ],
+          "priority": 3,
+          "id": "hscfbv3ow"
+        },
+        {
+          "title": "Enzimas e Anticorpos",
+          "videos": [
+            "zviUDpPHSdo",
+            "oQbFK7CgzEU",
+            "Ltu7uYneynk"
+          ],
+          "priority": 2,
+          "id": "1nfcsdqiy"
+        },
+        {
+          "title": "Vitaminas",
+          "videos": [
+            "KJxk94LPZPc",
+            "-0sPTGY0djw"
+          ],
+          "priority": 2,
+          "id": "vdd1eyf3u"
+        },
+        {
+          "title": "Ácidos nucleicos",
+          "videos": [
+            "ii7b3cF7j4o",
+            "gY5_EWmrYGU",
+            "ufhUY1JaSSk",
+            "BkQXUSmi0Wk",
+            "TROYY3AKj8M",
+            "ywMYH1D8OTc"
+          ],
+          "priority": 3,
+          "id": "kjjyned6p"
+        }
+      ],
+      "id": "tcqltkmhm"
+    },
+    {
+      "title": "Citologia",
+      "classes": [
+        {
+          "title": "Introdução à citologia e Modelos celulares",
+          "videos": [
+            "FGqPZ1EKA2Q",
+            "N33jWXzV8RU",
+            "C5wehaJMyjE"
+          ],
+          "priority": 2,
+          "id": "bahst487m"
+        },
+        {
+          "title": "Membrana plasmática: Classificação e Fisiologia",
+          "videos": [
+            "yaiEgmOboq0",
+            "rXL2mDLDy_0"
+          ],
+          "priority": 2,
+          "id": "1jzj6yger"
+        },
+        {
+          "title": "Membrana plasmática: Transporte passivo e transporte ativo",
+          "videos": [
+            "A5_zCY2xkdo",
+            "hlVwlPfb0mo",
+            "PI-uXlIJXDI",
+            "1U-YH0647Ws"
+          ],
+          "priority": 3,
+          "id": "6uneunxn3"
+        },
+        {
+          "title": "Citoplasma: Visão geral, Citoesqueleto e Ribossomos",
+          "videos": [
+            "-26zr45146k",
+            "M2doyYlMBg4"
+          ],
+          "priority": 3,
+          "id": "kr80s9w8x"
+        },
+        {
+          "title": "Citoplasma: Retículo endoplasmático e Complexo de Golgi",
+          "videos": [
+            "stbfESp7_vA"
+          ],
+          "priority": 2,
+          "id": "9y1lg3rcb"
+        },
+        {
+          "title": "Citoplasma: Lisossomos, Peroxissomos, Centríolos e Mitocôndrias",
+          "videos": [
+            "tePrgaPCIko",
+            "bBR_1z0p7wg",
+            "Do11VW4k5GM",
+            "M2doyYlMBg4",
+            "SszZjEcCs1U"
+          ],
+          "priority": 3,
+          "id": "92ipfyomo"
+        },
+        {
+          "title": "Citoplasma: Plastos, Cloroplastos e Vacúolo",
+          "videos": [
+            "wbpHo5w56ho",
+            "TBEpshmaagE",
+            "SrJwf9o8D1k"
+          ],
+          "priority": 1,
+          "id": "0kpi7319m"
+        }
+      ],
+      "id": "9jl3oe622"
+    },
+    {
+      "title": "Bioenergética",
+      "classes": [
+        {
+          "title": "Fotossíntese e Quimiossíntese",
+          "videos": [
+            "SDNc_5qXa0Q",
+            "OZ8T-OjEf78",
+            "GHYV7DOzFfk"
+          ],
+          "priority": 3,
+          "id": "khx88vxma"
+        },
+        {
+          "title": "Respiração celular",
+          "videos": [
+            "7WPrpm1ucDw",
+            "mZ7dv3UKIGo",
+            "CJfCUHqN5k0"
+          ],
+          "priority": 3,
+          "id": "9dkazbdrq"
+        },
+        {
+          "title": "Fermentação",
+          "videos": [
+            "HBzPWeexCno",
+            "kSRkYwF1yBo"
+          ],
+          "priority": 3,
+          "id": "y2cnw0snh"
+        }
+      ],
+      "id": "sbwe4ectk"
+    },
+    {
+      "title": "Citogenética",
+      "classes": [
+        {
+          "title": "Núcleo celular",
+          "videos": [
+            "nJr2ixAnisw",
+            "4oLfYw7xE3Q"
+          ],
+          "priority": 3,
+          "id": "u0ycv81b0"
+        },
+        {
+          "title": "Ciclo celular e Etapas da divisão celular",
+          "videos": [
+            "Xpf6ZZFOqi0",
+            "3mjbqFkKINE",
+            "BjtlcnXFVvQ"
+          ],
+          "priority": 3,
+          "id": "xv6qxnioc"
+        },
+        {
+          "title": "Mitose",
+          "videos": [
+            "kTMx9njJk4I",
+            "zvr7O5tqNiY",
+            "oFdqrPcGx9Y"
+          ],
+          "priority": 3,
+          "id": "isjvcmk04"
+        },
+        {
+          "title": "Meiose",
+          "videos": [
+            "vKUjM20RVGE",
+            "9dL186flQ2U",
+            "ra9jALXMN-g"
+          ],
+          "priority": 3,
+          "id": "3tzy0rj1f"
+        },
+        {
+          "title": "Gametogênese",
+          "videos": [
+            "_8VUjE02XME"
+          ],
+          "priority": 2,
+          "id": "cbbw0wmvj"
+        },
+        {
+          "title": "Mutações e Anomalias cromossômicas",
+          "videos": [
+            "1n4NL5xxamE",
+            "FSSWA-4SVeg",
+            "O1Fn3aJ3ntI",
+            "ReG_K23YtpQ"
+          ],
+          "priority": 2,
+          "id": "4d5krksur"
+        }
+      ],
+      "id": "76oyox0ph"
+    },
+    {
+      "title": "Genética",
+      "classes": [
+        {
+          "title": "Visão geral de Genética e Código genético",
+          "videos": [
+            "2rqEmRrtkYc",
+            "4R4Q1dcxQVI",
+            "RrKZBsIef-U"
+          ],
+          "priority": 2,
+          "id": "klolpa5nc"
+        },
+        {
+          "title": "Primeira lei de Mendel e Heredogramas",
+          "videos": [
+            "okoZ9JSJUNs",
+            "jf8_SObkeiI",
+            "e49JlCCTCJE",
+            "sKH3NrzTBCc",
+            "8v4OZx6t3Bc"
+          ],
+          "priority": 3,
+          "id": "sdh5h2nos"
+        },
+        {
+          "title": "Segunda lei de Mendel",
+          "videos": [
+            "VWh8vP6azA4",
+            "ou282XmgcaQ",
+            "HEUHUnGV_uI",
+            "BgBOfbc1gIo"
+          ],
+          "priority": 2,
+          "id": "dgzzvxl8a"
+        },
+        {
+          "title": "Polialelia e Genes letais",
+          "videos": [
+            "6NPRQMgCZaA",
+            "8v4OZx6t3Bc"
+          ],
+          "priority": 1,
+          "id": "7v5r5mwvi"
+        },
+        {
+          "title": "Interação Gênica",
+          "videos": [
+            "uhx8vbhR-yg",
+            "08LPYpObAxw",
+            "4J1Vbg9i_ro"
+          ],
+          "priority": 1,
+          "id": "njqhn0k9x"
+        },
+        {
+          "title": "Tipos sanguíneos, Sistema ABO e Fator RH",
+          "videos": [
+            "eXPI9ptO0Eg",
+            "txaNQbGW35Q",
+            "T_psII34_-k",
+            "c2seUlqQaog"
+          ],
+          "priority": 3,
+          "id": "0hgljsmil"
+        },
+        {
+          "title": "Herança sexual",
+          "videos": [
+            "iujcgOnooVY",
+            "k12MtShI-6k"
+          ],
+          "priority": 1,
+          "id": "jl95vs2wt"
+        },
+        {
+          "title": "Linkage e mapeamento de genes",
+          "videos": [
+            "iLwHBzxUSA0",
+            "WrlZoChXqyc",
+            "F6XXUuUYyow",
+            "4rSb40VDEjU"
+          ],
+          "priority": 1,
+          "id": "l7yntbv9d"
+        },
+        {
+          "title": "Engenharia genética, genoma e biotecnologia",
+          "videos": [
+            "5fQxOgZ_g_0",
+            "gEpO_ultTBo",
+            "V76X0IFFYI4",
+            "XCRLvWFqRcA",
+            "sEzClQhcAow"
+          ],
+          "priority": 3,
+          "id": "sj1arxidj"
+        }
+      ],
+      "id": "xpbcgmf2z"
+    },
+    {
+      "title": "Embriologia",
+      "classes": [
+        {
+          "title": "Fecundação, segmentação ou clivagem",
+          "videos": [
+            "IGiFuVulY60",
+            "C5WKro0kNEw"
+          ],
+          "priority": 2,
+          "id": "jl5ksj26b"
+        },
+        {
+          "title": "Gastrulação, Neurulação e Organogênese",
+          "videos": [
+            "yNj5az867lI"
+          ],
+          "priority": 1,
+          "id": "94gprog7k"
+        },
+        {
+          "title": "Anexos embrionários",
+          "videos": [
+            "1zEYnpPZRdE"
+          ],
+          "priority": 1,
+          "id": "8ruhf3fl7"
+        },
+        {
+          "title": "Embriologia humana",
+          "videos": [
+            "p4DZ9HrOSeE",
+            "_JpwsvyQTRA"
+          ],
+          "priority": 2,
+          "id": "b4cxqun1b"
+        }
+      ],
+      "id": "ua7yi7ypu"
+    },
+    {
+      "title": "Histologia animal",
+      "classes": [
+        {
+          "title": "Tecido epitelial",
+          "videos": [
+            "emucgjvtdw0",
+            "J-b2P6kvGNM"
+          ],
+          "priority": 2,
+          "id": "cirvaxz3l"
+        },
+        {
+          "title": "Tecido conjuntivo propriamente dito",
+          "videos": [
+            "G4Q0T3pcaz8",
+            "yGvKVuWR7cY"
+          ],
+          "priority": 2,
+          "id": "di5htsrz7"
+        },
+        {
+          "title": "Tecido adiposo",
+          "videos": [
+            "jlxIEtQCWWE"
+          ],
+          "priority": 2,
+          "id": "66mp6b600"
+        },
+        {
+          "title": "Tecido cartilaginoso",
+          "videos": [
+            "a7MTQU7N6AM"
+          ],
+          "priority": 2,
+          "id": "gzi1q4kwq"
+        },
+        {
+          "title": "Tecido ósseo",
+          "videos": [
+            "nraJccbFWXQ"
+          ],
+          "priority": 2,
+          "id": "cwupqhe3k"
+        },
+        {
+          "title": "Tecido sanguíneo",
+          "videos": [
+            "DiKh_hBlrWU",
+            "h0mqq3BN7Co"
+          ],
+          "priority": 3,
+          "id": "98hs1z96h"
+        },
+        {
+          "title": "Tecido hematopoiético",
+          "videos": [
+            "dM24OlxCS88"
+          ],
+          "priority": 1,
+          "id": "uq4of32u6"
+        },
+        {
+          "title": "Tecido muscular",
+          "videos": [
+            "rpwNCVp2HRo"
+          ],
+          "priority": 2,
+          "id": "7xd7km5gc"
+        },
+        {
+          "title": "Tecido nervoso",
+          "videos": [
+            "Vd9RVSKZoj4",
+            "2AnUH5cke8w"
+          ],
+          "priority": 2,
+          "id": "djrce42xh"
+        }
+      ],
+      "id": "gadoekcme"
+    },
+    {
+      "title": "Fisiologia humana",
+      "classes": [
+        {
+          "title": "Visão geral da fisiologia",
+          "videos": [
+            "Dck3vDEmcEs",
+            "zrf6_UJlK-0"
+          ],
+          "priority": 2,
+          "id": "ac3p16kbd"
+        },
+        {
+          "title": "Sistema digestório",
+          "videos": [
+            "ccxiObyUGRA"
+          ],
+          "priority": 3,
+          "id": "po9k1m4h0"
+        },
+        {
+          "title": "Sistema respiratório",
+          "videos": [
+            "6BAypTlvWQM"
+          ],
+          "priority": 1,
+          "id": "5eenl5zc4"
+        },
+        {
+          "title": "Sistema cardiovascular",
+          "videos": [
+            "SwuPnrZdMzA",
+            "4_VfjPwECwY"
+          ],
+          "priority": 3,
+          "id": "isym7vo8a"
+        },
+        {
+          "title": "Sistemas linfático e imunológico",
+          "videos": [
+            "RcmOsoyce9M",
+            "lW_pOyMy74w"
+          ],
+          "priority": 3,
+          "id": "ludbn3gf1"
+        },
+        {
+          "title": "Sistema excretor",
+          "videos": [
+            "nOwrE9nzWUc"
+          ],
+          "priority": 2,
+          "id": "x8h518o50"
+        },
+        {
+          "title": "Sistema endócrino",
+          "videos": [
+            "f8dra4Nuxn8"
+          ],
+          "priority": 2,
+          "id": "n0yv53m9r"
+        },
+        {
+          "title": "Sistema nervoso",
+          "videos": [
+            "I-OO-4Dhosw"
+          ],
+          "priority": 1,
+          "id": "77xgthehs"
+        },
+        {
+          "title": "Sistema sensorial",
+          "videos": [
+            "P1mUO6JzSR8",
+            "aT8Awh0C1ik"
+          ],
+          "priority": 1,
+          "id": "yjb6s0rot"
+        },
+        {
+          "title": "Sistema reprodutor",
+          "videos": [
+            "yJoNsLA2uu4",
+            "DMywZks5o5A"
+          ],
+          "priority": 1,
+          "id": "he4zvzzt3"
+        },
+        {
+          "title": "Ciclo menstrual",
+          "videos": [
+            "DDFJ2sCPh3s",
+            "ts0AXpnpGMo"
+          ],
+          "priority": 2,
+          "id": "lp9lcf7mj"
+        },
+        {
+          "title": "Métodos contraceptivos",
+          "videos": [
+            "zgGialCVqRw",
+            "RJNc_6SGWtk",
+            "t9A_7fEr3uE"
+          ],
+          "priority": 2,
+          "id": "736bu46bf"
+        }
+      ],
+      "id": "jvg7mtrd7"
+    },
+    {
+      "title": "Classificação Biológica",
+      "classes": [
+        {
+          "title": "Classificação Biológica",
+          "videos": [
+            "gcrn43B5HK8",
+            "eCEOc7J_nqU"
+          ],
+          "priority": 2,
+          "id": "6rvcuwcwb"
+        }
+      ],
+      "id": "cxf9fihtr"
+    },
+    {
+      "title": "Microbiologia",
+      "classes": [
+        {
+          "title": "Vírus, Príons e Viroses",
+          "videos": [
+            "StO7aM4JUzc",
+            "55BCWNAVuFw",
+            "y9onKICh6Uc"
+          ],
+          "priority": 3,
+          "id": "tc6vdhx46"
+        },
+        {
+          "title": "Reino Monera e Bacterioses",
+          "videos": [
+            "94dH_cu99-I",
+            "IK3wXsNl49k",
+            "cmJqinVRSb4",
+            "4RDcnPjCMJw",
+            "twACdjdqVow"
+          ],
+          "priority": 3,
+          "id": "pmu7ogqyl"
+        },
+        {
+          "title": "Algas",
+          "videos": [
+            "e_zvM3RhRCE"
+          ],
+          "priority": 2,
+          "id": "zci3fuzzr"
+        },
+        {
+          "title": "Protozoários e Protozooses",
+          "videos": [
+            "u1ijYz37Ssw",
+            "yERpugEU6eA"
+          ],
+          "priority": 3,
+          "id": "0cxlmzhug"
+        },
+        {
+          "title": "Reino Fungi e Micoses",
+          "videos": [
+            "ms0V0-MaHeE"
+          ],
+          "priority": 2,
+          "id": "8doib01mt"
+        }
+      ],
+      "id": "jjb5fqica"
+    },
+    {
+      "title": "Zoologia",
+      "classes": [
+        {
+          "title": "Poríferos",
+          "videos": [
+            "YSF95Y52aXQ"
+          ],
+          "priority": 1,
+          "id": "3lms7xlsa"
+        },
+        {
+          "title": "Cnidários",
+          "videos": [
+            "o_7pcj4wJL4"
+          ],
+          "priority": 2,
+          "id": "6mwjjp353"
+        },
+        {
+          "title": "Platelmintos e suas verminoses",
+          "videos": [
+            "Ep-kTDbCSWY",
+            "zPGE16l0zfo",
+            "LWa6QmOPZ80"
+          ],
+          "priority": 2,
+          "id": "ueg9flgo0"
+        },
+        {
+          "title": "Nematelmintos e suas verminoses",
+          "videos": [
+            "e1XeoR5Fhts",
+            "tFpNLghkvHQ"
+          ],
+          "priority": 2,
+          "id": "qid2kfaj6"
+        },
+        {
+          "title": "Anelídeos",
+          "videos": [
+            "BifQ3731tak"
+          ],
+          "priority": 1,
+          "id": "jay5xvyu4"
+        },
+        {
+          "title": "Artrópodes",
+          "videos": [
+            "TVlwv7zRnwQ"
+          ],
+          "priority": 3,
+          "id": "529eb4dyd"
+        },
+        {
+          "title": "Moluscos",
+          "videos": [
+            "6ki3B5zDCso"
+          ],
+          "priority": 1,
+          "id": "yqze54b1z"
+        },
+        {
+          "title": "Equinodermos",
+          "videos": [
+            "EEvHb-NpGbg"
+          ],
+          "priority": 2,
+          "id": "nra8isx94"
+        },
+        {
+          "title": "Cordados",
+          "videos": [
+            "JtKC6lVP5Dc",
+            "D1Uhi12aqWY"
+          ],
+          "priority": 3,
+          "id": "hgz6k78xs"
+        },
+        {
+          "title": "Peixes",
+          "videos": [
+            "WHpd0USoBE4"
+          ],
+          "priority": 2,
+          "id": "v0dbgx138"
+        },
+        {
+          "title": "Anfíbios",
+          "videos": [
+            "5KlKh7zVLG8",
+            "XyyTDp0BAgQ"
+          ],
+          "priority": 3,
+          "id": "6xokl2d0s"
+        },
+        {
+          "title": "Répteis",
+          "videos": [
+            "vxlid0SsGLY",
+            "TwjBViPTEl4",
+            "Z94zenbxjAE"
+          ],
+          "priority": 1,
+          "id": "3zurhxwbq"
+        },
+        {
+          "title": "Aves",
+          "videos": [
+            "ncIY1SI1reY",
+            "hTBEGO8dbRw"
+          ],
+          "priority": 2,
+          "id": "pdjuugcx1"
+        },
+        {
+          "title": "Mamíferos",
+          "videos": [
+            "XkDC-BFkORw",
+            "-h_7CSc21j0"
+          ],
+          "priority": 1,
+          "id": "s9luh1f4t"
+        }
+      ],
+      "id": "fvk0h2b6d"
+    },
+    {
+      "title": "Botânica",
+      "classes": [
+        {
+          "title": "Introdução à Botânica",
+          "videos": [
+            "KQCFWpaCguU"
+          ],
+          "priority": 3,
+          "id": "x5hmze80l"
+        },
+        {
+          "title": "Ciclo reprodutivo dos vegetais",
+          "videos": [
+            "2dUtnZFf_-4"
+          ],
+          "priority": 2,
+          "id": "cw75demhj"
+        },
+        {
+          "title": "Briófitas e Pteridófitas",
+          "videos": [
+            "k-I7B5nVLP0",
+            "MWc0FIcfKWA"
+          ],
+          "priority": 3,
+          "id": "h1946cpre"
+        },
+        {
+          "title": "Gimnospermas",
+          "videos": [
+            "3_ObUmmMz7c"
+          ],
+          "priority": 2,
+          "id": "xq1fc1z6v"
+        },
+        {
+          "title": "Angiospermas",
+          "videos": [
+            "ZVJbHBqL-68"
+          ],
+          "priority": 3,
+          "id": "sddx88iea"
+        },
+        {
+          "title": "Morfologia vegetal: Flor, semente e fruto",
+          "videos": [
+            "rbbhRvcmV-E",
+            "xrLRtqXsWw4",
+            "6i2A73y_D54",
+            "HnWhnqcFiso",
+            "dd7lJQ0bDpg",
+            "YJgXf1TgxCY"
+          ],
+          "priority": 2,
+          "id": "6ljmvaopz"
+        },
+        {
+          "title": "Morfologia vegetal: Raiz, caule e folha",
+          "videos": [
+            "wh9_is0_Clw",
+            "ib2TCZca94Y",
+            "ShElVAh8xm8"
+          ],
+          "priority": 2,
+          "id": "qn5nn71t0"
+        },
+        {
+          "title": "Histologia vegetal",
+          "videos": [
+            "qwkg6si7SPM",
+            "BV2RDdrN6P8",
+            "WBvWr32CM5Q",
+            "oHUdSb0UCDo",
+            "dDbzOHamhWM",
+            "KFBn-Kc74Dg",
+            "op2sza0Jf2I"
+          ],
+          "priority": 1,
+          "id": "537gob9p9"
+        },
+        {
+          "title": "Fisiologia e Transpiração vegetal",
+          "videos": [
+            "5fN5noVVStg",
+            "7UzHzLXaRcg",
+            "L5u_H27xgpg",
+            "zwwA7Citg4Y",
+            "EnYIBL8-aAs"
+          ],
+          "priority": 2,
+          "id": "nhrnd2ks8"
+        },
+        {
+          "title": "Hormônios e Movimentos vegetais",
+          "videos": [
+            "jOSHPNgeskE",
+            "HV9FMwK5SEI",
+            "dDNL8sqS_Uo",
+            "_BUZdgye6gE",
+            "2XfyJ-m7X9s"
+          ],
+          "priority": 2,
+          "id": "f5wjnycri"
+        }
+      ],
+      "id": "zy0ni2rgz"
+    },
+    {
+      "title": "Evolução",
+      "classes": [
+        {
+          "title": "Origem da vida",
+          "videos": [
+            "A7mC6q942Qc"
+          ],
+          "priority": 2,
+          "id": "vfbiiza6f"
+        },
+        {
+          "title": "Teorias evolutivas",
+          "videos": [
+            "TQ_ygnfbrIM",
+            "piRSx5SvYv8",
+            "YRT3h2V4n8k"
+          ],
+          "priority": 3,
+          "id": "dsado3gbs"
+        },
+        {
+          "title": "Genética das populações e Lei de Hardy-Weinberg",
+          "videos": [
+            "4rSb40VDEjU",
+            "HbZC2Vyi8EA"
+          ],
+          "priority": 1,
+          "id": "fcili4yn2"
+        },
+        {
+          "title": "Especiação",
+          "videos": [
+            "76iUXt6ioOs"
+          ],
+          "priority": 2,
+          "id": "mk307w0q5"
+        },
+        {
+          "title": "Evolução dos primatas e humana",
+          "videos": [
+            "wQqGWPubiqA",
+            "4WO-A_GaA1o"
+          ],
+          "priority": 3,
+          "id": "bs83r6j71"
+        }
+      ],
+      "id": "djkqxuzyf"
+    },
+    {
+      "title": "Ecologia",
+      "classes": [
+        {
+          "title": "Introdução à ecologia",
+          "videos": [
+            "w8zHbA3CSBo"
+          ],
+          "priority": 3,
+          "id": "prlha43s4"
+        },
+        {
+          "title": "Dinâmica populacional e Potencial biótico",
+          "videos": [
+            "D7TCvCyAbEg",
+            "kmYcfFLdCIg"
+          ],
+          "priority": 3,
+          "id": "bngygczvo"
+        },
+        {
+          "title": "Fluxo de energia e Pirâmides ecológicas",
+          "videos": [
+            "Ihp38SxezhM",
+            "6V-VOHDJ8jQ"
+          ],
+          "priority": 3,
+          "id": "7s9u4c0dj"
+        },
+        {
+          "title": "Relações ecológicas",
+          "videos": [
+            "cpmcIciaIWc",
+            "AY7rrPmcH90"
+          ],
+          "priority": 3,
+          "id": "vtyy5k0ic"
+        },
+        {
+          "title": "Sucessão ecológica",
+          "videos": [
+            "RPvTbMyfpok",
+            "SfReRM2r_GE"
+          ],
+          "priority": 2,
+          "id": "hn1off9hq"
+        },
+        {
+          "title": "Ecossistemas e Biomas",
+          "videos": [
+            "RtCJk4wa50U",
+            "VO0z1u7YPxA"
+          ],
+          "priority": 3,
+          "id": "3w4rv41ai"
+        },
+        {
+          "title": "Desequilíbrios ecológicos",
+          "videos": [
+            "8UZUECa49Tc",
+            "Q6vcRnLrclI",
+            "mjKGwtv7JK8",
+            "Kra2-har5Ww",
+            "LRMFA3eSlxM",
+            "mhH3i8DZJjI",
+            "Rmzd4OAdwsg"
+          ],
+          "priority": 3,
+          "id": "mliuu3238"
+        },
+        {
+          "title": "Ciclos biogeoquímicos",
+          "videos": [
+            "yCwzJiYIm9M",
+            "rCuHiRzgQB8",
+            "LG48H_6LEDg",
+            "tqaSRf3rhgg"
+          ],
+          "priority": 3,
+          "id": "jci7vtpqu"
+        }
+      ],
+      "id": "ul3c38wfm"
+    }
+  ],
+  "id": "4ctx4s8g6"
+}

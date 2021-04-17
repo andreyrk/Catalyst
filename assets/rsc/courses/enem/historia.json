@@ -1,0 +1,695 @@
+{
+  "id": "3qzcg38kd",
+  "category": "Ciências Humanas e suas Tecnologias",
+  "title": "História",
+  "courses": [
+    {
+      "title": "Historiografia e Linha do tempo",
+      "classes": [
+        {
+          "title": "Historiografia e Linha do tempo",
+          "videos": [
+            "XS4vA0aSeNQ",
+            "W1vru6Is_xI"
+          ],
+          "priority": 3,
+          "id": "zts1989ym"
+        }
+      ],
+      "id": "p6f5j249z"
+    },
+    {
+      "title": "Pré-História",
+      "classes": [
+        {
+          "title": "Pré-História",
+          "videos": [
+            "IAzZ9HXA2xw",
+            "Comf5vc56zc",
+            "LSqOKMnakU4"
+          ],
+          "priority": 2,
+          "id": "babv2vkl0"
+        }
+      ],
+      "id": "wuhaj7ety"
+    },
+    {
+      "title": "Idade Antiga",
+      "classes": [
+        {
+          "title": "Egito e Mesopotâmia",
+          "videos": [
+            "rBiLoXhqQsY",
+            "jvdd8Cd_EKg",
+            "HU08s_nrOzw",
+            "uoiQT5QKbI0",
+            "4PRtjLg1ssA",
+            "J2eVgtyAlbA",
+            "R8Hy6wkJutk",
+            "utW3AgZocWI",
+            "DlSjHyE3hdU"
+          ],
+          "priority": 3,
+          "id": "4l7d46pa1"
+        },
+        {
+          "title": "Hebreus e Persas",
+          "videos": [
+            "OC3y-UjYLeg",
+            "hb0ur5QvJ7Y"
+          ],
+          "priority": 2,
+          "id": "zflj0kdg9"
+        },
+        {
+          "title": "Fenícios e Cretenses",
+          "videos": [
+            "193_UCe1IJ8",
+            "rrnlP5kqwMc"
+          ],
+          "priority": 1,
+          "id": "kpno7enb3"
+        },
+        {
+          "title": "Grécia Antiga",
+          "videos": [
+            "Y55HaAhxqq8"
+          ],
+          "priority": 3,
+          "id": "cvs5z81zn"
+        },
+        {
+          "title": "Roma Antiga",
+          "videos": [
+            "Qr1FilahIkI",
+            "ZRC6p-ioeQ0",
+            "l0ly3ybXIGI",
+            "kL1IaNdGbwg",
+            "41T2K5G71gk",
+            "crBavB_x10Y",
+            "4nsJaB1wF5s",
+            "rwn1VFWOMF8",
+            "1iw62SQOHfo",
+            "txAcgQOFbDo",
+            "WWgs7MqucqQ",
+            "kMCQq9jjGXY"
+          ],
+          "priority": 3,
+          "id": "chkc8fgmq"
+        }
+      ],
+      "id": "fxanhre07"
+    },
+    {
+      "title": "Idade Média",
+      "classes": [
+        {
+          "title": "Alta Idade Média: Sistema Feudal e Igreja medieval",
+          "videos": [
+            "hehqnvTus1k",
+            "t7h2d4PXfa4",
+            "fp2jfgWM47k",
+            "lK7aH-KKcZU"
+          ],
+          "priority": 2,
+          "id": "osb84f6x4"
+        },
+        {
+          "title": "Idade Média no Oriente, Civilização muçulmana e Cruzadas",
+          "videos": [
+            "nBYwZGCDbd4",
+            "RuqsJQkp-D8",
+            "iLjq_5uy4AA",
+            "kQOxGcrXDb8",
+            "stn3Fnlx_gY"
+          ],
+          "priority": 2,
+          "id": "suyqw4co6"
+        },
+        {
+          "title": "Baixa Idade Média",
+          "videos": [
+            "IGsLaFuOu1c",
+            "0or5FCdHyuM",
+            "cUo7RCwKET8",
+            "Y2qRZMJh-cA",
+            "Oq_dF4mJhis"
+          ],
+          "priority": 2,
+          "id": "r1nquku7y"
+        },
+        {
+          "title": "Transição feudo-capitalista",
+          "videos": [
+            "vhM9F-U-X58"
+          ],
+          "priority": 2,
+          "id": "5ywsyulrt"
+        }
+      ],
+      "id": "0gjzujbas"
+    },
+    {
+      "title": "Idade Moderna",
+      "classes": [
+        {
+          "title": "Antigo Regime: Absolutismo e Mercantilismo",
+          "videos": [
+            "TZyNLIAwCZ0"
+          ],
+          "priority": 3,
+          "id": "vh4sxeifg"
+        },
+        {
+          "title": "Reformas religiosas, Liberalismo e Iluminismo",
+          "videos": [
+            "QnjkthNjWu0",
+            "n-gxIqg5xwI",
+            "Bet_3rJxwwY"
+          ],
+          "priority": 2,
+          "id": "nlna7ap36"
+        },
+        {
+          "title": "Civilizações pré-colombianas",
+          "videos": [
+            "n2lssAxdqPM",
+            "jRdWFgnDS1s",
+            "JcGwCu2sDuM",
+            "sDF2EBS4OYg"
+          ],
+          "priority": 2,
+          "id": "ghuwkzrn3"
+        },
+        {
+          "title": "Colonização espanhola na América",
+          "videos": [
+            "Wk0_iydV5qo",
+            "lpbyx9O8PP0"
+          ],
+          "priority": 2,
+          "id": "n312r4k3s"
+        },
+        {
+          "title": "Colonização inglesa na América",
+          "videos": [
+            "20076crvzQY"
+          ],
+          "priority": 1,
+          "id": "a8o4q970k"
+        },
+        {
+          "title": "Revoluções Inglesas e Revolução Industrial",
+          "videos": [
+            "Ndak1dMOQHY",
+            "eDDGqU9OgAc"
+          ],
+          "priority": 3,
+          "id": "rc5s5gxim"
+        },
+        {
+          "title": "Independência dos EUA",
+          "videos": [
+            "jTuT8iiSF3g"
+          ],
+          "priority": 1,
+          "id": "a7vc9ln8i"
+        },
+        {
+          "title": "Revolução Francesa",
+          "videos": [
+            "bb6d54mQkL0",
+            "LgOmiodOGCE"
+          ],
+          "priority": 1,
+          "id": "0vrqduyhh"
+        }
+      ],
+      "id": "rksr8aj9u"
+    },
+    {
+      "title": "Idade Contemporânea",
+      "classes": [
+        {
+          "title": "Era Napoleônica e Congresso de Viena",
+          "videos": [
+            "ta2npneckTE",
+            "nt8s87tOQN8"
+          ],
+          "priority": 1,
+          "id": "ym296vc8a"
+        },
+        {
+          "title": "Independência da América espanhola",
+          "videos": [
+            "bU_RdmtPYUM"
+          ],
+          "priority": 1,
+          "id": "9muqfshn7"
+        },
+        {
+          "title": "Revoluções liberais de 1830 e 1848",
+          "videos": [
+            "CxR4Qzn5vak"
+          ],
+          "priority": 1,
+          "id": "zwivqpr6o"
+        },
+        {
+          "title": "Ideias sociais e políticas do Século XIX",
+          "videos": [
+            "ZHNstpzHJjM",
+            "up1yi5Y3r8Y"
+          ],
+          "priority": 2,
+          "id": "shb15eneo"
+        },
+        {
+          "title": "Unificações tardias",
+          "videos": [
+            "SeCcBmIphrQ",
+            "0U1vq3BFyjY"
+          ],
+          "priority": 1,
+          "id": "4tsmuiw53"
+        },
+        {
+          "title": "Imperialismo",
+          "videos": [
+            "8OZhwSCp_Z8",
+            "2F1bkjrJils",
+            "-pJ-D10B6iQ"
+          ],
+          "priority": 3,
+          "id": "i370kq1as"
+        },
+        {
+          "title": "Primeira Guerra Mundial",
+          "videos": [
+            "kCKuP2OqfEs",
+            "eQ70hLd0r5E",
+            "z5GJ90q49p8"
+          ],
+          "priority": 2,
+          "id": "6ko7u3f4r"
+        },
+        {
+          "title": "Revolução Russa",
+          "videos": [
+            "OJTeR5vjq4Q",
+            "r_1xj0Pyi-8",
+            "EYPPSnwN3ag"
+          ],
+          "priority": 1,
+          "id": "ejpd0zxir"
+        },
+        {
+          "title": "Crise de 1929",
+          "videos": [
+            "pvGnHp9mFrU",
+            "PuXyboguY5c",
+            "K7S2gRKKq6g"
+          ],
+          "priority": 3,
+          "id": "rji62dwba"
+        },
+        {
+          "title": "Período entre guerras e Totalitarismo",
+          "videos": [
+            "Dx6quavMty0",
+            "Mzb-TIfKeW0",
+            "tzoJFzpLQ2k"
+          ],
+          "priority": 3,
+          "id": "kg3uthapx"
+        },
+        {
+          "title": "Segunda Guerra mundial",
+          "videos": [
+            "4hEDjSdszSU",
+            "RedndCHHtYc",
+            "H873fcBtxfA",
+            "eFwlBRWGbKA"
+          ],
+          "priority": 3,
+          "id": "vaaijthm8"
+        },
+        {
+          "title": "Revolução Cubana",
+          "videos": [
+            "o7xyqtz6mNc",
+            "Rk3itAjFUCw"
+          ],
+          "priority": 2,
+          "id": "3k0gxu2u3"
+        },
+        {
+          "title": "América Latina no século XX",
+          "videos": [
+            "mtBfImQdds0",
+            "G9-10pfCSSI"
+          ],
+          "priority": 1,
+          "id": "alcr2sh1u"
+        },
+        {
+          "title": "Descolonização afro-asiática",
+          "videos": [
+            "qelmAFyGkdQ",
+            "DztkLET0vWE",
+            "47DL0DVy28M"
+          ],
+          "priority": 2,
+          "id": "ty5pi2vr2"
+        },
+        {
+          "title": "Revolução chinesa",
+          "videos": [
+            "KXfwoOcEhd0",
+            "DFTohMYUyTc",
+            "TghsyWf9K80",
+            "MpYy7qHCpKc",
+            "FVYeXiNlngs"
+          ],
+          "priority": 1,
+          "id": "yfqv6kfzd"
+        },
+        {
+          "title": "Guerra Fria",
+          "videos": [
+            "x6T_AsE8Rts",
+            "1oEhFYj5y0I",
+            "MjHuK_2rSZY",
+            "9gG4GDWU43E",
+            "cAwsLaO4HGQ"
+          ],
+          "priority": 2,
+          "id": "4fapzdcej"
+        },
+        {
+          "title": "A Nova Ordem Mundial",
+          "videos": [
+            "eIK_RenVVSY",
+            "UNtWMZJtvtY"
+          ],
+          "priority": 1,
+          "id": "8mi0gyrek"
+        }
+      ],
+      "id": "0tlu84ns9"
+    },
+    {
+      "title": "Brasil pré-colonial",
+      "classes": [
+        {
+          "title": "Povos indígenas do Brasil",
+          "videos": [
+            "8oD1xdkAczA",
+            "SG8CH_NQk5Q",
+            "zV6aQ7QLQNU",
+            "J-HwQBmml4c",
+            "uR4UrwYmrLA"
+          ],
+          "priority": 2,
+          "id": "9rdbwh5ga"
+        },
+        {
+          "title": "Expansão marítima portuguesa",
+          "videos": [
+            "YI8EGs0r4rw",
+            "OwkS7ZJe7aw",
+            "amV13tcqti8",
+            "TtGMWDcaXFw"
+          ],
+          "priority": 2,
+          "id": "4al961hfa"
+        },
+        {
+          "title": "Período pré-colonial",
+          "videos": [
+            "neS2ui7rIws",
+            "Jc87AkLky3E",
+            "FujdWn0da8E",
+            "I8sRO8QlN4c",
+            "FpJIx2R30Qk"
+          ],
+          "priority": 2,
+          "id": "j4iywzmup"
+        },
+        {
+          "title": "Início da colonização",
+          "videos": [
+            "qV2y3s2v454",
+            "PKyuqVpPxTM",
+            "WGd7mQ0V7tg"
+          ],
+          "priority": 2,
+          "id": "ywqtrfyxj"
+        },
+        {
+          "title": "Economia açucareira",
+          "videos": [
+            "yUYwrqkS2bg",
+            "tHFfCDiV6Zg",
+            "Rvw5rHB5bL0"
+          ],
+          "priority": 3,
+          "id": "vjx58dhf9"
+        },
+        {
+          "title": "Pecuária e Drogas do sertão",
+          "videos": [
+            "xwvzbpWKx1Q",
+            "MrxO6ERkaV4"
+          ],
+          "priority": 1,
+          "id": "63391b0z7"
+        },
+        {
+          "title": "Ocupação e expansão territorial",
+          "videos": [
+            "2A8tOVRJ_IE",
+            "nIPOTa9m2qQ",
+            "NhpPJIlOq10"
+          ],
+          "priority": 1,
+          "id": "bb5bguh86"
+        },
+        {
+          "title": "Invasões estrangeiras",
+          "videos": [
+            "mP-lbetjXeY",
+            "Xwq4JEA_t40",
+            "RE8Tem8EX1o"
+          ],
+          "priority": 1,
+          "id": "3h112rtok"
+        },
+        {
+          "title": "Economia mineradora",
+          "videos": [
+            "Daobh9yY3cY",
+            "QfOraN_0424",
+            "V7QXlsZs1Po"
+          ],
+          "priority": 3,
+          "id": "z4h1ze19x"
+        },
+        {
+          "title": "Revoltas nativistas",
+          "videos": [
+            "T5tfs8QI3zU"
+          ],
+          "priority": 2,
+          "id": "4w4q93501"
+        },
+        {
+          "title": "Movimentos emancipacionistas",
+          "videos": [
+            "Ink0VvHBqmQ",
+            "SHl__q3qGIU"
+          ],
+          "priority": 3,
+          "id": "h0cqr6r7y"
+        },
+        {
+          "title": "Família Real portuguesa no Brasil",
+          "videos": [
+            "4L8wjScpNCY",
+            "F8c422R-C1w",
+            "RhMJRrj2JsM"
+          ],
+          "priority": 2,
+          "id": "89k76l6av"
+        },
+        {
+          "title": "Processo de independência do Brasil",
+          "videos": [
+            "hOiKSiek0xw",
+            "CEuuVvLa64s",
+            "Fr9lurVLNyo"
+          ],
+          "priority": 3,
+          "id": "vsb0e7bnr"
+        }
+      ],
+      "id": "em6z22p9l"
+    },
+    {
+      "title": "Brasil Império",
+      "classes": [
+        {
+          "title": "Primeiro Reinado",
+          "videos": [
+            "FDLn8-4MO4w",
+            "pZvGdQ3MxrA",
+            "TzwFrYCd-6M",
+            "l-aRBhaHwgE"
+          ],
+          "priority": 2,
+          "id": "3jjp8ig64"
+        },
+        {
+          "title": "Período Regencial",
+          "videos": [
+            "osT4DLhHynI",
+            "c7hYMyzUIJs",
+            "XG6Ha_RZ7_0",
+            "duIKGxBfB4U",
+            "Fwx7oZkmhLY"
+          ],
+          "priority": 2,
+          "id": "ezwwph0n5"
+        },
+        {
+          "title": "Segundo Reinado",
+          "videos": [
+            "7zs6-atp_ik",
+            "kti72JuMfF4",
+            "FZ2LSfR8Poo",
+            "Bi-d3bc46Kk",
+            "qM8Q5IByILk",
+            "3XeTBPLYP78",
+            "7YuTaUQQwZY",
+            "0HumgBf1x_E",
+            "4xSQkZ8jzeM",
+            "2skEPARnorI",
+            "wgwM-5b6q5U",
+            "oISI5OwOXXI",
+            "F1cS5Fnvfyo",
+            "B8HC7b_g9Z8"
+          ],
+          "priority": 3,
+          "id": "66mnrgem9"
+        }
+      ],
+      "id": "qgvf1dmtz"
+    },
+    {
+      "title": "República",
+      "classes": [
+        {
+          "title": "República da Espada",
+          "videos": [
+            "L45a22TdAJg",
+            "zEM2L0JC5Bs",
+            "9O6ZuF5jTXc",
+            "2bmTCLGJZ3w"
+          ],
+          "priority": 2,
+          "id": "vxvkgvxnt"
+        },
+        {
+          "title": "República Oligárquica",
+          "videos": [
+            "8PAMZzDvN1A",
+            "Vw4HGHDWMjs",
+            "v1YnYdXsI0Q",
+            "2RL6WbfzeJk",
+            "bTOdnw2alHw",
+            "SlsHN-OWCkw",
+            "poGMPLG9PpU"
+          ],
+          "priority": 3,
+          "id": "u0yycodck"
+        },
+        {
+          "title": "Era Vargas",
+          "videos": [
+            "_wU11Tb2-9I",
+            "TiJBt5RrA-E",
+            "fuqaeSRxlEc",
+            "poGMPLG9PpU",
+            "VsmajbkthRo",
+            "wAk_FW3c4CM",
+            "IYhZGy3HRGs",
+            "UQm_Q3raRlA",
+            "boiXlnRIct0"
+          ],
+          "priority": 3,
+          "id": "ec1lsqt3m"
+        },
+        {
+          "title": "República Liberal",
+          "videos": [
+            "G9ub4tL2HOM",
+            "i9zdrYhSfuE",
+            "spZ3WN-8JXQ",
+            "6dqP_JjFOIc",
+            "qsKRg5btToc",
+            "O5btEvNv5JM",
+            "Ur2QpQrxLkQ"
+          ],
+          "priority": 3,
+          "id": "7zznobzks"
+        },
+        {
+          "title": "Regime Militar",
+          "videos": [
+            "4ceFMDndn_0",
+            "HGrq8Eit31E",
+            "q7PvBesB4AI",
+            "qlMmjIuVDGU",
+            "wj1voBbhvME",
+            "R8NwDkOrjY4",
+            "Vu5dYqOgFwQ",
+            "vy4JYMSd-DQ",
+            "iQQrA69yPRM",
+            "L0Uvk0u5hRg",
+            "gTghyrYLWYo",
+            "B8hLHJSA6V0",
+            "93PBy0aZDf0"
+          ],
+          "priority": 3,
+          "id": "vz7j8l3rt"
+        },
+        {
+          "title": "Redemocratização",
+          "videos": [
+            "pFl4Kdwf2a0",
+            "A6k-Z1rR3XI"
+          ],
+          "priority": 3,
+          "id": "11vn4vp14"
+        },
+        {
+          "title": "Nova República",
+          "videos": [
+            "ksyBneLcPe8",
+            "fbt7jSYvCTs",
+            "n-7UYEcwxgA",
+            "OhnPpYJSisY",
+            "aMfwNJRqm1M",
+            "xAldGMQcTRU",
+            "E92O6GSINgQ",
+            "j7EG06KHKBY"
+          ],
+          "priority": 3,
+          "id": "m1sa9j85y"
+        }
+      ],
+      "id": "x9f4q2qba"
+    }
+  ]
+}

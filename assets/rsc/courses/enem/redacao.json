@@ -1,0 +1,447 @@
+{
+  "id": "qd534t5hm",
+  "category": "Linguagens, Códigos e suas Tecnologias",
+  "title": "Redação",
+  "courses": [
+    {
+      "title": "Planejamento textual",
+      "classes": [
+        {
+          "title": "Planejamento textual",
+          "videos": [
+            "PYGzF4b0Kbk",
+            "38wnwP48udI",
+            "XhCHwTgOSA0"
+          ],
+          "priority": 3,
+          "id": "j44vfba7c"
+        }
+      ],
+      "id": "r7qrkodxb"
+    },
+    {
+      "title": "Estrutura da Redação",
+      "classes": [
+        {
+          "title": "Estrutura da redação para Enem",
+          "videos": [
+            "m5AzTqZMSAY",
+            "dQUfpQOoUxs",
+            "ERi-XrWtaWA",
+            "Oj7GaN7ILdQ"
+          ],
+          "priority": 3,
+          "id": "6jf7hmyx4"
+        },
+        {
+          "title": "Estrutura redacional: Introdução",
+          "videos": [
+            "x5QtpUm8OQo",
+            "me9Fnmlw6Hw",
+            "BUkIYnDTmTI"
+          ],
+          "priority": 3,
+          "id": "3a0msucxg"
+        },
+        {
+          "title": "Estrutura redacional: Desenvolvimento",
+          "videos": [
+            "jaUyaTxtPw4",
+            "M7qMWZ9d9Bs",
+            "ahqhxiIRkhA",
+            "coPHQJ3A7SA"
+          ],
+          "priority": 3,
+          "id": "he4vpka6e"
+        },
+        {
+          "title": "Estrutura redacional: Conclusão",
+          "videos": [
+            "-8CARKA4Lvw",
+            "1JvXtFGJGv0",
+            "p0eP3t35pYA",
+            "lOTilxDyIms"
+          ],
+          "priority": 3,
+          "id": "dsn2vt5m0"
+        }
+      ],
+      "id": "nsdcxxb1k"
+    },
+    {
+      "title": "Análise de eixos temáticos",
+      "classes": [
+        {
+          "title": "Política e Corrupção",
+          "videos": [
+            "g8YFDT7_CnQ",
+            "-yk12Toyqrs",
+            "ZHa4924MDcM",
+            "WyhfApWpFI4",
+            "fQR8Uy7_5vg",
+            "Ltsd2dXr6EY",
+            "AaRydNjSC5Y"
+          ],
+          "priority": 1,
+          "id": "fd7v0txq2"
+        },
+        {
+          "title": "Cidadania e Movimentos sociais",
+          "videos": [
+            "c3mjvCfwRxc",
+            "ibXWCrMQ_3w",
+            "L_VWZtxmqA8",
+            "OoEbOkf8C4g",
+            "QrMCq57VgMM",
+            "3VQXVcPLTdY",
+            "qVKlaY4QoAk"
+          ],
+          "priority": 1,
+          "id": "dq934b82z"
+        },
+        {
+          "title": "Tecnologia, Internet, Mídias sociais e Fake news",
+          "videos": [
+            "KT9L83OtYLs",
+            "vjrRdz7tiTA",
+            "k9Rzfp3RTb8",
+            "Q8XSVelzPRA",
+            "q_ivPqKTgoQ",
+            "gZgl8mWaj24",
+            "kSNQwJhPMDY",
+            "RzFiIcY-YZU",
+            "QztGuAICquc",
+            "qIM89h80cSk"
+          ],
+          "priority": 1,
+          "id": "8a7ed2l0i"
+        },
+        {
+          "title": "Envelhecimento e Previdência social",
+          "videos": [
+            "lukt4xVaX8g",
+            "T-ClfH_E8o0",
+            "AHfrBeu_67A",
+            "cJfOrBmHEG8",
+            "svHRED7w2lA"
+          ],
+          "priority": 1,
+          "id": "dhwhvw2ko"
+        },
+        {
+          "title": "Saúde pública e Doação de órgãos",
+          "videos": [
+            "Lv2JXAoAxKY",
+            "tTLQOJo63Jo",
+            "5AY1kfmaA7w",
+            "OeL04Su0nw4",
+            "NM_PpaOyvdc",
+            "n3dmFbjovFg",
+            "GE2v0GmESdg"
+          ],
+          "priority": 1,
+          "id": "vddjb31pc"
+        },
+        {
+          "title": "Fome, Desigualdade e População de rua",
+          "videos": [
+            "TRmypRriQSM",
+            "k_s5BmWT0hc",
+            "UgnralDeScU",
+            "lDS5VhVGSZc",
+            "ffpWiDGct2M",
+            "MjctI7ENoz8",
+            "kT2XxGo9R2w",
+            "waz2vosV-zQ",
+            "Y5-fDL4rXO0",
+            "ALWtioeHFS8",
+            "wYeDvVA-bSY",
+            "qBVaM7I2PvY"
+          ],
+          "priority": 1,
+          "id": "k3wffmbsy"
+        },
+        {
+          "title": "Intolerância, racismo, assédio, preconceito e xenofobia.",
+          "videos": [
+            "1_Ct45mlWNM",
+            "XTp-gxFL29w",
+            "z9VXuYuhTjk",
+            "eyY4r70RQpU",
+            "fpBB2BjD92g",
+            "59tyqzz_lLc",
+            "18U3uvlYoxE",
+            "MRWnjmHNz3w"
+          ],
+          "priority": 1,
+          "id": "8qx2sgqke"
+        },
+        {
+          "title": "Bullying e violência nas escolas",
+          "videos": [
+            "4RnCOdZnU8s",
+            "7IJlwcP3bQU",
+            "v-5TfJ39sC0"
+          ],
+          "priority": 1,
+          "id": "ps7wdync1"
+        },
+        {
+          "title": "Exclusão digital",
+          "videos": [
+            "7n_hb8kNF_Y",
+            "tA0OKq68heQ",
+            "N6jWgVncs2I"
+          ],
+          "priority": 1,
+          "id": "0p5c7a77q"
+        },
+        {
+          "title": "Consumismo",
+          "videos": [
+            "k9-8V95__AY",
+            "emkWUYpAK4I",
+            "_3Pr98elSU8",
+            "eXrEWEGDfIs",
+            "IeMQ0OGCAqc",
+            "WifjzIbSIhk"
+          ],
+          "priority": 1,
+          "id": "sw71mbgm7"
+        },
+        {
+          "title": "Culto ao corpo e obesidade",
+          "videos": [
+            "soPECGsLtaE",
+            "ugIQS0MIoMQ",
+            "C5RTYyx1SWE",
+            "Oiccaa4WenM",
+            "AT57nTZljvw",
+            "O-xm7ndbOKQ",
+            "-AOT7f2aIB4",
+            "eUwSZZF5-eI",
+            "vRKc-tKKqWc",
+            "VC1W1BVdnuI"
+          ],
+          "priority": 1,
+          "id": "1m4bnpapb"
+        },
+        {
+          "title": "Trabalho e realização",
+          "videos": [
+            "AoEK0Ei1KT8",
+            "mYifLgC-sEQ",
+            "zYJ8ivgjVFs",
+            "tf4MGk1TaPQ",
+            "xKloe0Fw-AQ"
+          ],
+          "priority": 1,
+          "id": "4p79helc8"
+        },
+        {
+          "title": "Povos indígenas",
+          "videos": [
+            "vAOgocC_Bso",
+            "iqmRqKackzM",
+            "WjyiL6Ez5vU",
+            "yLTlAAdh1w4",
+            "uU3mkldq6gA",
+            "pbZUShKVw_c"
+          ],
+          "priority": 1,
+          "id": "nptkwmn0p"
+        },
+        {
+          "title": "Lixo e saneamento",
+          "videos": [
+            "ECVOfChZS2Y",
+            "HJCb9db1CWw",
+            "X-fBZeBenUo",
+            "sSH_Oqs4IR4",
+            "qoPNtMObQsY",
+            "IvlaS2vmvd4",
+            "EdQRTcTqF_Y",
+            "1_JJPq5FJjY",
+            "1ykLqawVgaI"
+          ],
+          "priority": 1,
+          "id": "x73d77439"
+        },
+        {
+          "title": "Mobilidade urbana",
+          "videos": [
+            "6j9HXdNxO2o",
+            "uy-ribW6aJA",
+            "VydHdx0y3Hg",
+            "kiIKzC8JnjM"
+          ],
+          "priority": 1,
+          "id": "qovzv2tbq"
+        },
+        {
+          "title": "Educação e Leitura",
+          "videos": [
+            "WXa1RrzNL0o",
+            "9tVL6aKYofQ",
+            "4x9Fx3DOUEM",
+            "6lhXjmqpMr4",
+            "tL4I5vEN3wM",
+            "htS1QaD7tUI",
+            "8gineWXbmbk",
+            "nyhIy6ed6-g",
+            "DgCUJlI-0-Q",
+            "tmOWpyeqC58",
+            "s0_VtJHwbpg",
+            "NcfrIfOYb38",
+            "lgoYCfJFVJg",
+            "StEPtYED5sE",
+            "G2hLhJhbvII"
+          ],
+          "priority": 1,
+          "id": "qv8wuqp7y"
+        },
+        {
+          "title": "Guerras e armas de destruição em massa",
+          "videos": [
+            "J9SAZ314yNg",
+            "J4qaEYTP5BY",
+            "E_yP7QkgboA",
+            "YIT7gyVPw68"
+          ],
+          "priority": 1,
+          "id": "abwq1yi0l"
+        },
+        {
+          "title": "Suicídio, depressão e solidão",
+          "videos": [
+            "I2iv6SVZcz8",
+            "Hw-AgET0Ev0",
+            "LGXBPDIO99Y",
+            "MgFl8VDTgK0",
+            "wj3tdcqLaoA",
+            "Wih3l98A-zI",
+            "6Ych7CK3-0M",
+            "4YZjlHRjVFk",
+            "7o-eT4kcRK0",
+            "BJnXA1Il64g",
+            "0m09iKAcMzU",
+            "I_TOJOu_YJY",
+            "tks8gG-S-uk",
+            "Gl7Xc6QqHU4",
+            "UWxP-ML7AeA",
+            "RWBxrJnp-lE",
+            "lyxMbP_4JgE",
+            "5-wCAXaI62w",
+            "wQ92Ug0dPDQ",
+            "iEmR_Ez1dVE",
+            "odqOtLDhOzc",
+            "8njK5p9KlUo"
+          ],
+          "priority": 1,
+          "id": "zj9im35im"
+        },
+        {
+          "title": "Sistema prisional, violência urbana, medo e criminalidade",
+          "videos": [
+            "MmXpyQTNtX4",
+            "l3Fbvz3CZRc",
+            "T2U_Qebx9mI",
+            "iP52vWvyBY8",
+            "ofVpwbg-zGY",
+            "FSBAxorEtpE",
+            "-165-MX5u7I",
+            "szPtLX-lim8",
+            "gOgrS0FDjjk",
+            "u7mPwqz0a_A",
+            "lFJPAq960sg",
+            "1l7TfsLrxi8",
+            "eWYLr9hJVPg",
+            "K1oq0bekHhs",
+            "kf7LQJWQS04",
+            "ORtEQahRhc4"
+          ],
+          "priority": 1,
+          "id": "lfiwl5it2"
+        },
+        {
+          "title": "Meio ambiente e Mudanças climáticas",
+          "videos": [
+            "MKUPxG61k6k",
+            "GAychD_1qzw",
+            "Oc6RW6NkGIY",
+            "Wy9NdJpXYTs",
+            "eurz_TPwxIw",
+            "gMHC4eJIGy8",
+            "C1TTrWWv-X4",
+            "FajQKhDawrE"
+          ],
+          "priority": 1,
+          "id": "ni537plxb"
+        },
+        {
+          "title": "Recursos hídricos, Energia e Sustentabilidade",
+          "videos": [
+            "20lzvXboYaY",
+            "pXtVUobPQLs",
+            "6FFjh9O0KXc",
+            "4gzrJ2NjUmI",
+            "kEiUlcxzXr8",
+            "K_uNu9_GtUg",
+            "VDWTUoQ3q5g",
+            "coKslHDhChM",
+            "PR0fYhTam-4",
+            "4zubZc_tokQ",
+            "lpe6CkIO8cg"
+          ],
+          "priority": 1,
+          "id": "3qhh58xvu"
+        },
+        {
+          "title": "Drogas",
+          "videos": [
+            "4aCtWXQl4oM",
+            "bqh-nlsjcNY",
+            "BPlNpbc0ocI",
+            "kP15q815Saw",
+            "HpmZDO6bo2s",
+            "3KkTkcY-knc",
+            "ZPBF1IX_ybc",
+            "MpHoE0BfzpM",
+            "SzuF7VUazGs"
+          ],
+          "priority": 1,
+          "id": "ftyew8m1d"
+        },
+        {
+          "title": "Acessibilidade e Inclusão de pessoas com deficiência",
+          "videos": [
+            "-bgA4r-Qnbg",
+            "4mS23CcPDI8",
+            "S4KNmtSl5k8",
+            "6RhFT0ur1Do",
+            "zqA76lmh-yI"
+          ],
+          "priority": 1,
+          "id": "2xlmx7tms"
+        },
+        {
+          "title": "Lazer, Esporte e Cultura",
+          "videos": [
+            "NA8NSt7sl4o",
+            "kEblhlCfJXc",
+            "_09Wy2GhgVg",
+            "vdGHwOtFP1I",
+            "6LNWURPKMhM",
+            "cFwHzS1gPvE",
+            "cNs3nRufGqg",
+            "UOYNhEhL6eA",
+            "Uuy4912G39M"
+          ],
+          "priority": 1,
+          "id": "dszoygkuj"
+        }
+      ],
+      "id": "vjlo8rt8e"
+    }
+  ]
+}

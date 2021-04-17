@@ -1,0 +1,82 @@
+{
+  "id": "b2qggg58m",
+  "category": "Linguagens, Códigos e suas Tecnologias",
+  "title": "Espanhol",
+  "courses": [
+    {
+      "title": "Objetivos da Leitura e Níveis de Compreensão",
+      "classes": [
+        {
+          "title": "Objetivos da Leitura e Níveis de Compreensão",
+          "videos": [
+            "b4bAuswvMWg",
+            "FKVCFNO8cHE"
+          ],
+          "priority": 3,
+          "id": "vu9sqlcwq"
+        }
+      ],
+      "id": "cnc4cqa3l"
+    },
+    {
+      "title": "Vocabulário",
+      "classes": [
+        {
+          "title": "Vocabulário",
+          "videos": [
+            "DSEEIghgutY",
+            "d34itHg3TMA"
+          ],
+          "priority": 1,
+          "id": "a8fj80qjl"
+        }
+      ],
+      "id": "qz4cfeln2"
+    },
+    {
+      "title": "Técnicas de leitura",
+      "classes": [
+        {
+          "title": "Técnicas de leitura",
+          "videos": [
+            "3eV4KxLM-Zc",
+            "cidHmE1mwUY"
+          ],
+          "priority": 2,
+          "id": "z0y3v3aiu"
+        }
+      ],
+      "id": "6xzpuwpq0"
+    },
+    {
+      "title": "Interpretação de Textos",
+      "classes": [
+        {
+          "title": "Charges, Tirinhas e Anúncios Publicitários",
+          "videos": [
+            "fhNX0gcBdPE"
+          ],
+          "priority": 3,
+          "id": "b3u5cfi9o"
+        },
+        {
+          "title": "Letras de Músicas",
+          "videos": [
+            "cpR0PIExyAs"
+          ],
+          "priority": 3,
+          "id": "80dh29v97"
+        },
+        {
+          "title": "Artigos científicos",
+          "videos": [
+            "d34itHg3TMA"
+          ],
+          "priority": 3,
+          "id": "dr3psqb8b"
+        }
+      ],
+      "id": "1i384z6z4"
+    }
+  ]
+}

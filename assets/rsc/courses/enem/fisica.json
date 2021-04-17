@@ -1,0 +1,901 @@
+{
+  "id": "x5khqm3xa",
+  "category": "Ciências da Natureza e suas Tecnologias",
+  "title": "Física",
+  "courses": [
+    {
+      "title": "Introdução à Física",
+      "classes": [
+        {
+          "title": "Vetores",
+          "videos": [
+            "eAAKzZcbITI"
+          ],
+          "priority": 3,
+          "id": "e4evc0m1z"
+        },
+        {
+          "title": "Ordem de grandeza",
+          "videos": [
+            "Gjr9cN3Pu98",
+            "nJqey7kib0M",
+            "recMlMwRhGw",
+            "MLEZI03kUkE"
+          ],
+          "priority": 2,
+          "id": "wg012q00p"
+        },
+        {
+          "title": "Sistemas de unidades",
+          "videos": [
+            "752KWWVH_VU",
+            "lEyUFyKPqXA"
+          ],
+          "priority": 2,
+          "id": "iofkv4nl8"
+        }
+      ],
+      "id": "zok4kdwo9"
+    },
+    {
+      "title": "Cinemática",
+      "classes": [
+        {
+          "title": "Movimento uniforme",
+          "videos": [
+            "a7RxDGo8Zks",
+            "1szfg-VovbM",
+            "VnqhH9S9vIc",
+            "oVb3WV1CLSE",
+            "m21X-MhCyrE",
+            "dIUeSR8kdEU"
+          ],
+          "priority": 2,
+          "id": "gnm7p2xb2"
+        },
+        {
+          "title": "Movimento variado",
+          "videos": [
+            "6r-foeydR2c",
+            "HvmshToybB4",
+            "bzpL3YQPD5A",
+            "JfCmVT7hs5Q",
+            "X0nxKNKskMo"
+          ],
+          "priority": 3,
+          "id": "dkohx87sk"
+        },
+        {
+          "title": "Lançamento vertical e Queda livre",
+          "videos": [
+            "SLz5d5LhRlY",
+            "9hr4cvCL8DM",
+            "eC_WHXOvsxM",
+            "Sb9vhT1oWuc",
+            "dCnrm0mAPMk",
+            "IWQf_uEgK7s",
+            "-Msic_RsoM4"
+          ],
+          "priority": 3,
+          "id": "mp9lh6d2r"
+        },
+        {
+          "title": "Lançamento horizontal",
+          "videos": [
+            "xVsVK2seM-Y",
+            "YAKfcgxP-2M"
+          ],
+          "priority": 2,
+          "id": "agl8jw634"
+        },
+        {
+          "title": "Lançamento oblíquo",
+          "videos": [
+            "U3jDHU5zY8Y",
+            "zvrhwnWBgWE",
+            "RJ6viyxIxaE",
+            "w1ydSueVN1I"
+          ],
+          "priority": 2,
+          "id": "fj0x2oisx"
+        },
+        {
+          "title": "Movimento circular",
+          "videos": [
+            "u0BmDB5dGBk",
+            "4ZGJgTKyLs4",
+            "NsuwZ7YTHSQ",
+            "36Dys52sdoU"
+          ],
+          "priority": 3,
+          "id": "e2ehxg07p"
+        }
+      ],
+      "id": "qyabmd0qx"
+    },
+    {
+      "title": "Dinâmica",
+      "classes": [
+        {
+          "title": "Leis de Newton",
+          "videos": [
+            "7As28iiY1Mg",
+            "EvUXk6eu6Ds",
+            "xq8sh6WkCq8",
+            "3myJ3W2Kb60",
+            "xN_1kakFCvQ",
+            "lRjlqch9fiA",
+            "6o0UP8BTF5Q",
+            "-vMOvx5SjGI",
+            "NcbzFzDcwcA",
+            "8Odjs6gmMRA",
+            "EF-SLtRmBb8",
+            "7GWni7Z4yKk",
+            "0DPG181WAUw"
+          ],
+          "priority": 3,
+          "id": "mjghesqyg"
+        },
+        {
+          "title": "Máquinas simples (polias)",
+          "videos": [
+            "asKxvJkLiC4",
+            "Ype8XNUP84s",
+            "e-NOaJtqqV8"
+          ],
+          "priority": 2,
+          "id": "9n6dyfle4"
+        },
+        {
+          "title": "Força elástica",
+          "videos": [
+            "xDsm1ESKwKk",
+            "5fG8GE_PmfQ",
+            "UYx7xkvLh7o"
+          ],
+          "priority": 2,
+          "id": "acvchgq8s"
+        },
+        {
+          "title": "Força de atrito",
+          "videos": [
+            "9QvFcJEaMhQ",
+            "eVfZlH03e34",
+            "k0j-chbp32k",
+            "-kzcaiQ4CYs"
+          ],
+          "priority": 3,
+          "id": "e0eq37z6c"
+        },
+        {
+          "title": "Estática de um ponto material",
+          "videos": [
+            "46CYw-ZYI40"
+          ],
+          "priority": 1,
+          "id": "k63pr9hf7"
+        },
+        {
+          "title": "Estática de um corpo extenso e Centro de massa",
+          "videos": [
+            "WQ9yOWCh8nU",
+            "4yRvzTd513g",
+            "fFW6OLfWMyk",
+            "ztlhTx3PzDY"
+          ],
+          "priority": 1,
+          "id": "mcydvpgen"
+        },
+        {
+          "title": "Dinâmica do movimento circular",
+          "videos": [
+            "ArHh_7kSv4M",
+            "X3sljfjDKvE",
+            "eZfjD579OGg",
+            "fboSjfGB1So",
+            "lN-gVnNJAFI",
+            "NsuwZ7YTHSQ"
+          ],
+          "priority": 2,
+          "id": "2kcr1mhya"
+        },
+        {
+          "title": "Trabalho",
+          "videos": [
+            "_jBZkHFOD28",
+            "x2zP3aNXMOE",
+            "NWRAAqRnUHs",
+            "i5n0m6ui83U"
+          ],
+          "priority": 3,
+          "id": "jgj4omx7c"
+        },
+        {
+          "title": "Energia mecânica, potência e rendimento",
+          "videos": [
+            "G5KJZmG9-Uk",
+            "Ft4p6hDWh_A",
+            "Pu2NO8Mlfhg",
+            "cvsaARoqKCA",
+            "HX_TtKmt7Tk",
+            "jVPvppPkJIg",
+            "0sI9UBM4knQ"
+          ],
+          "priority": 3,
+          "id": "mnyv5h2cm"
+        },
+        {
+          "title": "Impulso e quantidade de movimento",
+          "videos": [
+            "0y7pM3jhoTY",
+            "-_JgygAh638",
+            "W-2GnM_l9Hs",
+            "6z7w3YMADDA",
+            "_iZm9QwTluc",
+            "JP-nDiQgCbw",
+            "mWG1L98Tugw",
+            "oZWrk3aNSGs"
+          ],
+          "priority": 2,
+          "id": "2e15e939t"
+        },
+        {
+          "title": "Colisões",
+          "videos": [
+            "LUXvU34HASI",
+            "4DsAhXBMavU",
+            "QEV4SB_Zi-I",
+            "BZfR8Vj-7mE",
+            "5RSxF1di8ts",
+            "IUFV0qzsKNA",
+            "aiRkSbgwByU",
+            "WXTqryya8CA"
+          ],
+          "priority": 2,
+          "id": "rtx7pudfb"
+        }
+      ],
+      "id": "qbfsdb5sj"
+    },
+    {
+      "title": "Movimento Harmônico Simples (MHS)",
+      "classes": [
+        {
+          "title": "Movimento harmônico simples (MHS): Movimentos periódicos",
+          "videos": [
+            "LYDGwctdgpw",
+            "X1_30mr6Tok",
+            "7bniG407sZQ"
+          ],
+          "priority": 3,
+          "id": "6x6hmazrs"
+        },
+        {
+          "title": "Movimento Harmônico Simples (MHS): Cinemática do MHS",
+          "videos": [
+            "SmzaYP1qahs"
+          ],
+          "priority": 2,
+          "id": "pbyhofvm2"
+        },
+        {
+          "title": "Movimento harmônico simples (MHS): Sistema massa-mola e Pêndulo simples",
+          "videos": [
+            "dUb4QTNjU7I",
+            "6DGIIDaKBIs"
+          ],
+          "priority": 1,
+          "id": "xxidolt20"
+        }
+      ],
+      "id": "eongjjfc4"
+    },
+    {
+      "title": "Gravitação",
+      "classes": [
+        {
+          "title": "Leis de Kepler",
+          "videos": [
+            "-8140NsksEg",
+            "55Q2nDhxMtY",
+            "jw7sYCGGd6Q"
+          ],
+          "priority": 1,
+          "id": "1l16q0b93"
+        },
+        {
+          "title": "Lei da Gravitação Universal",
+          "videos": [
+            "GrlDlgAjyqs",
+            "-InAjGkcFlg"
+          ],
+          "priority": 2,
+          "id": "5tj23u7j6"
+        },
+        {
+          "title": "Velocidade orbital e Velocidade de escape",
+          "videos": [
+            "5EQIJgXmsVU",
+            "8i16Ea4qy94"
+          ],
+          "priority": 1,
+          "id": "6ecc4supu"
+        }
+      ],
+      "id": "rsz4ma72b"
+    },
+    {
+      "title": "Hidrostática",
+      "classes": [
+        {
+          "title": "Densidade, pressão e Teorema de Stevin",
+          "videos": [
+            "DHyi8rWauBw",
+            "LUGr33McOPk",
+            "vD3M_308ckU",
+            "-Q9-KEkZ8iw",
+            "18vjjJUZSnc",
+            "fv9XsAm-rvA",
+            "CrN3SYbZ4CE",
+            "EUEuBwxAFWE",
+            "Bfn2Bed6nxk"
+          ],
+          "priority": 3,
+          "id": "tn9cp7q61"
+        },
+        {
+          "title": "Experiência de Torricelli, Teorema de Pascal, Prensa hidraulica",
+          "videos": [
+            "639RgoEmuMg",
+            "MgFKKbmkb3E"
+          ],
+          "priority": 1,
+          "id": "lrsmq5fci"
+        },
+        {
+          "title": "Princípio de Arquimedes",
+          "videos": [
+            "n5_qJ2cIr9s"
+          ],
+          "priority": 2,
+          "id": "4biao3mes"
+        }
+      ],
+      "id": "b81i8wl11"
+    },
+    {
+      "title": "Óptica",
+      "classes": [
+        {
+          "title": "Luz e Câmara de orifício",
+          "videos": [
+            "st0Q0O9LtLc",
+            "8DtM_hhaUa0",
+            "-X4t8hib8Dk",
+            "VR2vXhFB8xM"
+          ],
+          "priority": 2,
+          "id": "xr2gh627f"
+        },
+        {
+          "title": "Princípios da óptica geométrica",
+          "videos": [
+            "QKPj0f3mN5c",
+            "G_-E_E9i6Ms"
+          ],
+          "priority": 2,
+          "id": "2968e4y97"
+        },
+        {
+          "title": "Espelhos planos",
+          "videos": [
+            "WDDJsiN-_aY",
+            "0-TbKgjAGig"
+          ],
+          "priority": 2,
+          "id": "phomrb04e"
+        },
+        {
+          "title": "Espelhos esféricos",
+          "videos": [
+            "q3bgLFmW4Rs",
+            "csItKb-LdGw",
+            "dzOy3ypU6K0"
+          ],
+          "priority": 3,
+          "id": "1teawsva7"
+        },
+        {
+          "title": "Determinação analítica da imagem",
+          "videos": [
+            "dzOy3ypU6K0"
+          ],
+          "priority": 1,
+          "id": "ig0ats71z"
+        },
+        {
+          "title": "Refração",
+          "videos": [
+            "gvUfJXHybIY",
+            "LXCnyNrQOAQ"
+          ],
+          "priority": 3,
+          "id": "pdei0vmr2"
+        },
+        {
+          "title": "Dioptro plano, Ângulo limite e Reflexão total",
+          "videos": [
+            "Bc6pHmIx6Wo",
+            "B12P2tfqcBY"
+          ],
+          "priority": 1,
+          "id": "aejhrs28a"
+        },
+        {
+          "title": "Prismas",
+          "videos": [
+            "Jceo2whzLUc"
+          ],
+          "priority": 1,
+          "id": "2z8hr38y7"
+        },
+        {
+          "title": "Lentes esféricas",
+          "videos": [
+            "sJTrdArAeKY",
+            "8i_GgkLJ2IQ"
+          ],
+          "priority": 2,
+          "id": "snzx9j8jg"
+        },
+        {
+          "title": "Construção analítica das imagens e Estudo dos sinais",
+          "videos": [
+            "_O7mg70DWHU"
+          ],
+          "priority": 1,
+          "id": "p5nbqb3zn"
+        },
+        {
+          "title": "Vergência e Óptica da Visão",
+          "videos": [
+            "CJ08cirBZkI",
+            "QJYxZk0JeC0"
+          ],
+          "priority": 3,
+          "id": "ahhl4tt0g"
+        },
+        {
+          "title": "Instrumentos ópticos",
+          "videos": [
+            "ECS3GxdlMBQ"
+          ],
+          "priority": 1,
+          "id": "11yfnexkz"
+        }
+      ],
+      "id": "cprqecg53"
+    },
+    {
+      "title": "Ondulatória",
+      "classes": [
+        {
+          "title": "Ondulatória: Visão geral e Equação fundamental",
+          "videos": [
+            "0WeaGRPun94",
+            "nl7lKCY5Ed4",
+            "L8f3-O5P81s"
+          ],
+          "priority": 3,
+          "id": "hdg8dtlo2"
+        },
+        {
+          "title": "Fenômenos ondulatórios",
+          "videos": [
+            "MYA4carA57A"
+          ],
+          "priority": 3,
+          "id": "l9wchdm8r"
+        },
+        {
+          "title": "Ondas estacionárias em cordas e tubos sonoros",
+          "videos": [
+            "6RCztSzqzug",
+            "zlG5UcEKGdo"
+          ],
+          "priority": 1,
+          "id": "dtync283z"
+        },
+        {
+          "title": "Acústica, fenômenos sonoros e instrumentos musicais",
+          "videos": [
+            "Nlxs8r4xvpk",
+            "TMDHjcSNpcU",
+            "P4xgTLgd3JU",
+            "8I7dKNPKKPQ"
+          ],
+          "priority": 3,
+          "id": "td453vpw3"
+        },
+        {
+          "title": "Efeito doppler",
+          "videos": [
+            "U6pEarIMtIk",
+            "nbGs0IpwDg0"
+          ],
+          "priority": 2,
+          "id": "vjeuc5rag"
+        }
+      ],
+      "id": "urjxj7gyx"
+    },
+    {
+      "title": "Termometria",
+      "classes": [
+        {
+          "title": "Temperatura, Calor e Energia térmica",
+          "videos": [
+            "biLQGuEFGkU",
+            "QUvmXOY2WvI"
+          ],
+          "priority": 3,
+          "id": "8r1d6zt1i"
+        },
+        {
+          "title": "Escalas termométricas",
+          "videos": [
+            "bJ4-58O5LmQ",
+            "6H5OOCTdPeo"
+          ],
+          "priority": 3,
+          "id": "uvwhb2ilo"
+        },
+        {
+          "title": "Dilatação térmica",
+          "videos": [
+            "YI_khGcCPTM",
+            "lGv8KXlx1Hs"
+          ],
+          "priority": 2,
+          "id": "b1q7x09pg"
+        },
+        {
+          "title": "Calor sensível",
+          "videos": [
+            "hsjynlSYQI4",
+            "ePwrxyCcqDg"
+          ],
+          "priority": 2,
+          "id": "065ukndei"
+        },
+        {
+          "title": "Calor latente e Mudança de fase",
+          "videos": [
+            "op5vkU5srAM",
+            "V9khwIT1d0A",
+            "5ZVRNmXV8M8",
+            "jkYPF_xPpoU",
+            "oGjcVkwjWao",
+            "5ZVRNmXV8M8"
+          ],
+          "priority": 2,
+          "id": "tyapc2oaz"
+        },
+        {
+          "title": "Diagramas de fase",
+          "videos": [
+            "5ZVRNmXV8M8"
+          ],
+          "priority": 2,
+          "id": "kfi4el1nm"
+        },
+        {
+          "title": "Propagação do calor",
+          "videos": [
+            "To-x9-ZZrSQ",
+            "MOlgEed22Ok"
+          ],
+          "priority": 3,
+          "id": "sobwk1xtj"
+        }
+      ],
+      "id": "w2t09dyzf"
+    },
+    {
+      "title": "Termodinâmica",
+      "classes": [
+        {
+          "title": "Estudo do gás ideal",
+          "videos": [
+            "XQ1EJDTNKpI",
+            "MBDr003b-Wo"
+          ],
+          "priority": 1,
+          "id": "9gbaqfycf"
+        },
+        {
+          "title": "Cinética dos gases, Energia interna e Trabalho de um gás",
+          "videos": [
+            "GhM_FYSz9W4",
+            "saWDdrkwzf0"
+          ],
+          "priority": 1,
+          "id": "6nqnzpfzj"
+        },
+        {
+          "title": "Primeira lei da termodinâmica",
+          "videos": [
+            "kNzjPoNwU20",
+            "TKQlTakmAao"
+          ],
+          "priority": 2,
+          "id": "khu78hxdh"
+        },
+        {
+          "title": "Ciclos, Máquinas térmicas e Rendimento",
+          "videos": [
+            "WlxqaxFB_NQ"
+          ],
+          "priority": 2,
+          "id": "iqvdmifd2"
+        },
+        {
+          "title": "Ciclo de Carnot e a Segunda lei da termodinâmica",
+          "videos": [
+            "3n8CRANljck",
+            "LbXTXWxRaZg"
+          ],
+          "priority": 1,
+          "id": "27jse8r3v"
+        }
+      ],
+      "id": "qk7uj4cjf"
+    },
+    {
+      "title": "Eletrostática",
+      "classes": [
+        {
+          "title": "Carga elétrica",
+          "videos": [
+            "6o3zDgWmBKw"
+          ],
+          "priority": 3,
+          "id": "qnbfirqet"
+        },
+        {
+          "title": "Processos de eletrização",
+          "videos": [
+            "SDv_hmash20",
+            "bglmaanxQ_U",
+            "ESIPbxYOqgg"
+          ],
+          "priority": 3,
+          "id": "5ra2hd5om"
+        },
+        {
+          "title": "Força elétrica (Lei de Coulomb)",
+          "videos": [
+            "ktatkm5Wzmg"
+          ],
+          "priority": 1,
+          "id": "2nnxf9jqt"
+        },
+        {
+          "title": "Campo elétrico e Linhas de força",
+          "videos": [
+            "wr1mlhcugV8",
+            "rNl39QgZhZI",
+            "4sRsG1LlODo"
+          ],
+          "priority": 1,
+          "id": "ykcib2a5a"
+        },
+        {
+          "title": "Potencial elétrico, Trabalho e Energia",
+          "videos": [
+            "7T2EouqZUHM",
+            "bgN6AtasL68",
+            "huacsOuPI-Q"
+          ],
+          "priority": 1,
+          "id": "ei9hj7ruy"
+        },
+        {
+          "title": "Condutor esférico e Capacitância",
+          "videos": [
+            "v2ez-dtDei0",
+            "fUWedbDmAoo",
+            "qgXxAG55y6o"
+          ],
+          "priority": 3,
+          "id": "r03xhld59"
+        }
+      ],
+      "id": "vh27py6lm"
+    },
+    {
+      "title": "Eletrodinâmica",
+      "classes": [
+        {
+          "title": "Corrente e Potência elétrica",
+          "videos": [
+            "46nINK2nsX8",
+            "o3rHWIBeNUc",
+            "lHxwOQykNR0",
+            "XLpTTcKCJh0",
+            "q_evMCsfE_I",
+            "WsyZf6nb7kI"
+          ],
+          "priority": 3,
+          "id": "pb7ap669m"
+        },
+        {
+          "title": "Leis de Ohm",
+          "videos": [
+            "sfcRdXncCqM",
+            "B_VQwbU2ckM",
+            "y3BEWkHRNt8"
+          ],
+          "priority": 3,
+          "id": "imhm9mxp7"
+        },
+        {
+          "title": "Associação de Resistores",
+          "videos": [
+            "Q_1xOEdOdso",
+            "igikE8euUmk",
+            "7DwvrdegXP4",
+            "HN35JN31ges",
+            "piEE0OOWqN8",
+            "z3v9K_vm0iA"
+          ],
+          "priority": 2,
+          "id": "8x2i48p2i"
+        },
+        {
+          "title": "Leis de Kirchhoff e Ponte de Wheatstone",
+          "videos": [
+            "tlPNRa4_0js",
+            "5q0ss9G8Xlc"
+          ],
+          "priority": 2,
+          "id": "3wdlyoi4y"
+        },
+        {
+          "title": "Geradores elétricos",
+          "videos": [
+            "-s7ebfDIL3s",
+            "ci_RBRQL98I",
+            "T9QzVZepxVQ",
+            "GTACjSndmy8"
+          ],
+          "priority": 1,
+          "id": "jlaxhd19l"
+        },
+        {
+          "title": "Receptores elétricos",
+          "videos": [
+            "JiLybWxuVpk",
+            "Nk3L556OTHY",
+            "Ylp3C4SQB_M"
+          ],
+          "priority": 1,
+          "id": "h8ma2sjw3"
+        },
+        {
+          "title": "Capacitores",
+          "videos": [
+            "wG0sQz91MKc",
+            "314hWpdLT8o"
+          ],
+          "priority": 2,
+          "id": "lav5ijtzb"
+        }
+      ],
+      "id": "uyfgjre4w"
+    },
+    {
+      "title": "Eletromagnetismo",
+      "classes": [
+        {
+          "title": "Eletromagnetismo: Visão geral, Imã e Regra da mão direita",
+          "videos": [
+            "AFACIE-UH6A",
+            "3TdvFzrBTJ8"
+          ],
+          "priority": 2,
+          "id": "1xoyncyd3"
+        },
+        {
+          "title": "Campo magnético",
+          "videos": [
+            "n0Vm4pUCFQA",
+            "aG8Hv6nXEBo",
+            "JnvcANPacBg"
+          ],
+          "priority": 2,
+          "id": "ii27kw7xo"
+        },
+        {
+          "title": "Força Magnética e regra da mão esquerda",
+          "videos": [
+            "N0Hhmj4s5-k",
+            "qWi11HXP9ow"
+          ],
+          "priority": 1,
+          "id": "988ku2tsx"
+        },
+        {
+          "title": "Indução Eletromagnética (Lei de Lenz)",
+          "videos": [
+            "EXgpvnJjUaI",
+            "wP1iuKAKLBA",
+            "PlD0OTDrc8c",
+            "VKayc7OGKhU"
+          ],
+          "priority": 1,
+          "id": "px2cz386i"
+        },
+        {
+          "title": "Lei de Faraday e Variação do fluxo magnético",
+          "videos": [
+            "dv3Ili8mBvs",
+            "PlD0OTDrc8c"
+          ],
+          "priority": 2,
+          "id": "7ijr4qtpu"
+        },
+        {
+          "title": "Gerador de corrente alternada e Transformadores",
+          "videos": [
+            "WoMSBM8JHZc",
+            "iui3-BkYKHo"
+          ],
+          "priority": 1,
+          "id": "l0zmms493"
+        }
+      ],
+      "id": "01a71pmfc"
+    },
+    {
+      "title": "Física Moderna",
+      "classes": [
+        {
+          "title": "Efeito fotoelétrico",
+          "videos": [
+            "8ZgcOgmn-Ns",
+            "OfIooxDLrXw",
+            "WvRgsncxYug",
+            "UdrSl3-hjLs",
+            "Le7wq8YcnuQ",
+            "9PvZ8GYuz_U",
+            "I9WG6IWpc20"
+          ],
+          "priority": 1,
+          "id": "l7ojz8lsh"
+        },
+        {
+          "title": "Teoria da relatividade",
+          "videos": [
+            "fwzzgJOLZkM",
+            "kJ5xNaSIeTI",
+            "qD7tvSBlkpY"
+          ],
+          "priority": 1,
+          "id": "lrc5kvclx"
+        },
+        {
+          "title": "Física quântica",
+          "videos": [
+            "M9avJFXwXsM",
+            "AYXzh5Toguc",
+            "eA1E2HGdbKg"
+          ],
+          "priority": 1,
+          "id": "ex86o3cjx"
+        }
+      ],
+      "id": "rfee3czv7"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": "by5cz2e7f",
+  "category": "Matemática e suas Tecnologias",
+  "title": "Matemática Básica",
+  "courses": [
+    {
+      "title": "Operações básicas",
+      "classes": [
+        {
+          "title": "As quatro operações e expressões numéricas",
+          "videos": [
+            "ObDVNlbQdm4",
+            "XlzDK_zamZw",
+            "e78_5WIssSU",
+            "BhDm2qGy780",
+            "0UGJRHq2PS4",
+            "PN0cASQhkhk"
+          ],
+          "priority": 3,
+          "id": "ojorvhv3r"
+        },
+        {
+          "title": "Frações e dízimas periódicas",
+          "videos": [
+            "YJyY6A_MOQc",
+            "SgJpB78R7x0",
+            "d9GBEzzCuRg",
+            "IImqH5D29Uo"
+          ],
+          "priority": 3,
+          "id": "j0ttijmxt"
+        },
+        {
+          "title": "Sistemas de numeração e sistema métrico",
+          "videos": [
+            "VBUD3CzsEH0",
+            "Jf0sA3wBqXE",
+            "epFmO0M8gDk"
+          ],
+          "priority": 3,
+          "id": "aqsqehvbm"
+        }
+      ],
+      "id": "rifmp1y3w"
+    },
+    {
+      "title": "Raciocínio lógico",
+      "classes": [
+        {
+          "title": "Raciocínio lógico",
+          "videos": [
+            "PltqUuwR9ec",
+            "i8jbzEWEOYk",
+            "QfDOFq9VmYc",
+            "KGAOeHyWefY",
+            "CkwaHNNXtv8",
+            "h_TMnWbI9pg",
+            "0sDKO4U9UtY",
+            "Xy8sCcEF-2s",
+            "cBlwBpWKMCw",
+            "bOTuY_3usik",
+            "AKtk0mICfyY",
+            "t6TL9RGZ_4U",
+            "McK-ahOry-0",
+            "vaWCsFUAVWM"
+          ],
+          "priority": 3,
+          "id": "prssl831c"
+        }
+      ],
+      "id": "3ncl7t61d"
+    },
+    {
+      "title": "Potenciação e notação científica",
+      "classes": [
+        {
+          "title": "Potenciação",
+          "videos": [
+            "4Vfw1XiHTpM",
+            "9EjqfNoVbY8",
+            "gzNVmoge5OM",
+            "zH43mX3ryTI"
+          ],
+          "priority": 1,
+          "id": "6n1e9y8f6"
+        },
+        {
+          "title": "Notação científica",
+          "videos": [
+            "GPTxrh_mhow",
+            "sFqWN34zTaw"
+          ],
+          "priority": 2,
+          "id": "2u6zcf48n"
+        }
+      ],
+      "id": "dgkzybhkk"
+    },
+    {
+      "title": "Radiciação e racionalização de denomidadores",
+      "classes": [
+        {
+          "title": "Radiciação e racionalização de denomidadores",
+          "videos": [
+            "QmIjZgKhAEo",
+            "04nnroZrmgg",
+            "RwPis6vr3Fo"
+          ],
+          "priority": 2,
+          "id": "iiapzvmrt"
+        }
+      ],
+      "id": "784fpfwm9"
+    },
+    {
+      "title": "Produtos notáveis e fatoração",
+      "classes": [
+        {
+          "title": "Produtos notáveis e fatoração",
+          "videos": [
+            "_3YQvVKbqn0",
+            "3amBZupsIdc",
+            "Z5G3aDjNPeY"
+          ],
+          "priority": 2,
+          "id": "slzwc7ydr"
+        }
+      ],
+      "id": "346oy14pn"
+    },
+    {
+      "title": "Equações e sistemas do primeiro grau",
+      "classes": [
+        {
+          "title": "Equações e sistemas do primeiro grau",
+          "videos": [
+            "Tu08PYjt-2Q",
+            "oT4k6bhB4Dk",
+            "DmN535Y2PGw"
+          ],
+          "priority": 3,
+          "id": "kj9ej84qc"
+        }
+      ],
+      "id": "xzv0vexxd"
+    },
+    {
+      "title": "Equações do segundo grau e equações biquadradas",
+      "classes": [
+        {
+          "title": "Equações do segundo grau e equações biquadradas",
+          "videos": [
+            "toAaUBwitFE",
+            "qYQllsg8ka8",
+            "YEaQDJeADTg"
+          ],
+          "priority": 2,
+          "id": "r1uanhv2q"
+        }
+      ],
+      "id": "rnienso0p"
+    },
+    {
+      "title": "Múltiplos e Divisores",
+      "classes": [
+        {
+          "title": "Critérios de divisibilidade e números primos",
+          "videos": [
+            "6YnChMLDcos",
+            "MrHhUUnOtPc",
+            "kjg8a41wwjQ"
+          ],
+          "priority": 2,
+          "id": "x8of677z3"
+        },
+        {
+          "title": "MMC e MDC",
+          "videos": [
+            "QCMUMufcK5M",
+            "NWtwEm8M2qw",
+            "LoiM5d7Kors"
+          ],
+          "priority": 2,
+          "id": "hsl4rne73"
+        }
+      ],
+      "id": "cu0x6h4qd"
+    },
+    {
+      "title": "Razão e proporção",
+      "classes": [
+        {
+          "title": "Razão e proporção",
+          "videos": [
+            "uIulBEk8gcM",
+            "6Dsta1eZ1BA",
+            "I-fPlExG5y4",
+            "BhPKDHA6kds"
+          ],
+          "priority": 3,
+          "id": "7zlgtzbtu"
+        }
+      ],
+      "id": "sjo0u62se"
+    },
+    {
+      "title": "Regra de 3 e escalas",
+      "classes": [
+        {
+          "title": "Regra de 3 e escalas",
+          "videos": [
+            "alLifth7gxE",
+            "buYey1YGJhA",
+            "qrix-SCMvjA",
+            "0_9yCXj83so",
+            "StovbnDFCio",
+            "UYOwXqhMd4w"
+          ],
+          "priority": 3,
+          "id": "90vwgz32b"
+        }
+      ],
+      "id": "fje1ycj3d"
+    },
+    {
+      "title": "Porcentagem",
+      "classes": [
+        {
+          "title": "Porcentagem",
+          "videos": [
+            "CERiIwParX4",
+            "Nifqays8Auo"
+          ],
+          "priority": 3,
+          "id": "3y41p0793"
+        }
+      ],
+      "id": "vj4fj9z1l"
+    },
+    {
+      "title": "Juros simples e compostos",
+      "classes": [
+        {
+          "title": "Juros simples",
+          "videos": [
+            "N27xZJj1m-4",
+            "yOQtPB4ZnBI"
+          ],
+          "priority": 3,
+          "id": "1ywujnra0"
+        },
+        {
+          "title": "Juros compostos",
+          "videos": [
+            "790S9GR5bWU",
+            "5kJIxd8MEkQ"
+          ],
+          "priority": 3,
+          "id": "bjzxjtvah"
+        }
+      ],
+      "id": "qre5obg0u"
+    }
+  ]
+}

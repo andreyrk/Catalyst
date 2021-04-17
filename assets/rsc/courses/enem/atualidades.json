@@ -1,0 +1,173 @@
+{
+  "title": "Atualidades",
+  "category": "Ciências Humanas e suas Tecnologias",
+  "courses": [
+    {
+      "title": "Século XX",
+      "classes": [
+        {
+          "title": "Conflitos do século XX",
+          "videos": [
+            "owtyHWL10Xw",
+            "aWsUuruKCX8",
+            "RedndCHHtYc",
+            "cAwsLaO4HGQ",
+            "delMBRKqCAE",
+            "P3sM7rFl1Zc",
+            "n7g0ZC-LBKM",
+            "Q4TO1B7UQRU"
+          ],
+          "priority": 3,
+          "id": "ujr0odkam"
+        }
+      ],
+      "id": "jogd28nrk"
+    },
+    {
+      "title": "Século XXI",
+      "classes": [
+        {
+          "title": "Migrações e Refugiados",
+          "videos": [
+            "x3AJgkPXA2w",
+            "zd9blKQWEhE"
+          ],
+          "priority": 3,
+          "id": "rins647iu"
+        },
+        {
+          "title": "A questão da Ucrânia",
+          "videos": [
+            "dCNBazwOyLQ",
+            "ulRgitcsIdg",
+            "Kq_bjeeDtxg"
+          ],
+          "priority": 1,
+          "id": "ep5mvnow7"
+        },
+        {
+          "title": "A questão da Palestina",
+          "videos": [
+            "ibM5iQE71fQ",
+            "cemR4YEHtIY",
+            "HIxM0bjCsfQ",
+            "1OWauiyGINg"
+          ],
+          "priority": 3,
+          "id": "x552flzxp"
+        },
+        {
+          "title": "A crise hídrica",
+          "videos": [
+            "e2TZ_xOJdk0",
+            "SEB0CC9lEXI",
+            "kEiUlcxzXr8",
+            "RsUD8CTDdAw",
+            "1RLhXg_7bKw"
+          ],
+          "priority": 2,
+          "id": "luwp67z51"
+        },
+        {
+          "title": "Terrorismo",
+          "videos": [
+            "dWzQr2LCYJw",
+            "PfDd6avTskI",
+            "MJzPHg7G-5g",
+            "6-hpHVnQYX0",
+            "61jZe5U-8k4"
+          ],
+          "priority": 1,
+          "id": "k5708jeov"
+        },
+        {
+          "title": "Conflitos do Século XXI",
+          "videos": [
+            "bnJYu5WJkMU"
+          ],
+          "priority": 3,
+          "id": "6b0o1t73l"
+        },
+        {
+          "title": "União Europeia e Brexit",
+          "videos": [
+            "CjQV7ym5aCQ",
+            "KnyBpwmqU3U",
+            "yToFmh3HiFE",
+            "eN6NR_3T03s",
+            "sFR64k0BZ_M"
+          ],
+          "priority": 2,
+          "id": "xjmnfk3mr"
+        },
+        {
+          "title": "América Latina do Século XXI",
+          "videos": [
+            "IC2-puEtEKI",
+            "Cvd9wtocgqw",
+            "tMPGe_UfWHc",
+            "WixX_037z-g"
+          ],
+          "priority": 2,
+          "id": "rdzdm20x2"
+        },
+        {
+          "title": "Crises econômicas do Século XXI",
+          "videos": [
+            "p9USubiTk0s",
+            "OAfVWDj1vu8",
+            "-TgHhYCrbRI",
+            "u9ETR84qnCk",
+            "rS-x7W1Kaco",
+            "x4yFDz9PoAE",
+            "5RDfv2gOiXI"
+          ],
+          "priority": 3,
+          "id": "zbgzlz7vn"
+        },
+        {
+          "title": "Crise na Venezuela",
+          "videos": [
+            "I_UYuoZVUO8",
+            "Cu-ussN8szs"
+          ],
+          "priority": 1,
+          "id": "1xjnkyoxh"
+        },
+        {
+          "title": "Saúde e Problemas ambientais",
+          "videos": [
+            "Yb2AzJvTZto",
+            "nouz8PBXQzY",
+            "0VOdMmFnJtQ"
+          ],
+          "priority": 1,
+          "id": "aotumrrf1"
+        },
+        {
+          "title": "Governos Trump e Bolsonaro",
+          "videos": [
+            "voSBt4sm_PU",
+            "9Rfe8I-JYmM",
+            "NrVy92Ozs5k"
+          ],
+          "priority": 2,
+          "id": "o8ildn9zn"
+        },
+        {
+          "title": "Internet, Redes sociais e Fake News",
+          "videos": [
+            "tA0OKq68heQ",
+            "UJUoJ-tzdEE",
+            "7aPM8Kdu3YA",
+            "Tr_Y4Od_5Z0"
+          ],
+          "priority": 3,
+          "id": "e2mzazu4y"
+        }
+      ],
+      "id": "pnx2bcdlp"
+    }
+  ],
+  "id": "sp98rtybw"
+}

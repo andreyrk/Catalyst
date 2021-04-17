@@ -1,0 +1,631 @@
+{
+  "id": "xxcqjym88",
+  "category": "Matemática e suas Tecnologias",
+  "title": "Matemática",
+  "courses": [
+    {
+      "title": "Conjuntos",
+      "classes": [
+        {
+          "title": "Teoria dos conjuntos",
+          "videos": [
+            "0aUEDxYjZg8",
+            "Wxm3ugnq9Sw",
+            "c5a99sX-Sq8",
+            "eZfFpnvudR0"
+          ],
+          "priority": 2,
+          "id": "oxvzc81e5"
+        },
+        {
+          "title": "Conjuntos numéricos e Intervalos reais",
+          "videos": [
+            "Y_mYgLkuEl4",
+            "NYAeWhz53NM",
+            "J4vD5RpOqJY",
+            "OPACJhL_mLY"
+          ],
+          "priority": 2,
+          "id": "03d2fofgj"
+        }
+      ],
+      "id": "f8s2eek9w"
+    },
+    {
+      "title": "Progressões",
+      "classes": [
+        {
+          "title": "Progressão aritmética (PA)",
+          "videos": [
+            "TC2HcZV3mGo",
+            "yfmhfoB0kVA",
+            "dzoloHN076c",
+            "qoX9HFbYbK4",
+            "PGDk9ZHPudg",
+            "vyJGTm6WvdU",
+            "wPB7riMEUbY",
+            "XeIohrmZtbA"
+          ],
+          "priority": 3,
+          "id": "6vuen78qr"
+        },
+        {
+          "title": "Progressão geométrica (PG)",
+          "videos": [
+            "Jad_XG9bDCE",
+            "0rRuhofRVuU",
+            "6ShsVLOtGQI",
+            "NM9H8__q4gU",
+            "Hsp10bhYQEs",
+            "CDZYMkxv2JA",
+            "N_EatIhGANo",
+            "ANwGhVVhs-s",
+            "W1c4vhQSoVI",
+            "d0EcswGgJdI",
+            "SYLtTfrh3w4"
+          ],
+          "priority": 3,
+          "id": "axe02nvpn"
+        }
+      ],
+      "id": "paopbkgut"
+    },
+    {
+      "title": "Funções",
+      "classes": [
+        {
+          "title": "Teoria geral de funções",
+          "videos": [
+            "SPZqQ5qn3P0",
+            "G3zjNRYbDv8",
+            "Y1urlgE0lBU",
+            "iC4q1AGeN5A",
+            "K7wtLRXGLJw",
+            "w13aeOGO3ZI",
+            "xsIMsYRl46M",
+            "5aLsdGSxCM4",
+            "8sXnloWAU8s",
+            "HYvlmUiRpGc",
+            "OMvGmAB96do",
+            "057CkKna7kM",
+            "B8TtvV_vKQc",
+            "_BLoeOJemOs",
+            "n2OT5EGEJvE",
+            "JS9AL_UfZ6s",
+            "BieXxZ1xL0M",
+            "rkapkXaTDoE"
+          ],
+          "priority": 3,
+          "id": "cfxrrrkjl"
+        },
+        {
+          "title": "Função composta e Função inversa",
+          "videos": [
+            "V9yhPL87lGs",
+            "mytzKEjGM_A",
+            "k-BPycvaZLA",
+            "HXAdRVV_SMc",
+            "C4IxcdO6afw",
+            "5x-detAH3gk"
+          ],
+          "priority": 1,
+          "id": "5e4brnn74"
+        },
+        {
+          "title": "Função constante e Função afim",
+          "videos": [
+            "hdMFlAv5GkU",
+            "-EnodYhcQw4",
+            "yTfNuU2xrrc",
+            "2KWDWpmDZwQ",
+            "xDTd2a4NJ40",
+            "Bs2Ylb4x2V8",
+            "567sWGTnf5Q",
+            "PgOLmJ00KPQ",
+            "5FpSn7-k2sk",
+            "BU5XJv7bKB0",
+            "gu_hGWzh_YM",
+            "9yH6zCAgHmw",
+            "fOYqWamB_yg",
+            "9_uRmhvSXFI",
+            "5YWhXvcJQw4",
+            "bLz31ohOpxk",
+            "RBBj7R7SQns",
+            "LsX-0I5w9UE",
+            "q1dYyoDKVs4",
+            "pxkS0gN0gN0",
+            "HBkSpbVoYW4"
+          ],
+          "priority": 3,
+          "id": "4okzrih7x"
+        },
+        {
+          "title": "Função do segundo grau (quadrática)",
+          "videos": [
+            "dM6U2tiWqBA",
+            "1cqNdPSB_nY",
+            "kv1S0khXZLg",
+            "iAKFxIXT6K8",
+            "dePo8CJ4uqs",
+            "1_xHNa6ApZA",
+            "mdVzgffO7MY",
+            "J6Qc56TdVTc"
+          ],
+          "priority": 3,
+          "id": "zucl6nyzm"
+        },
+        {
+          "title": "Função exponencial",
+          "videos": [
+            "PA8dyyTNykU",
+            "tg9YIt9_qWk",
+            "3lR3guqfbUg",
+            "eqRfD3h2W2s",
+            "0_r7IKcaXKk",
+            "rfscaJLsPuI",
+            "dz0YHryyAQ8"
+          ],
+          "priority": 3,
+          "id": "ygx8p7l9i"
+        },
+        {
+          "title": "Propriedades dos logaritmos",
+          "videos": [
+            "m-N5aAiaM2Y",
+            "Maio3bg18a4",
+            "sMUU3vJXBXA",
+            "Nw7DaHpTxmQ",
+            "5O6dsrLZTsc",
+            "24UeL06rrE0",
+            "QjCWRasz4Uk",
+            "uWHZI0aSZVc",
+            "JHZ5fFr44SA"
+          ],
+          "priority": 2,
+          "id": "yjw247b2n"
+        },
+        {
+          "title": "Função logarítmica",
+          "videos": [
+            "P8uxcolt8OQ",
+            "7alpXiySB5M",
+            "K5JIdV9EGPE",
+            "T14-9qBt5MI",
+            "diR-9lhy-sY",
+            "Pg_miDhPTBo",
+            "PxEddevzTew",
+            "I1jz5xiU7Go"
+          ],
+          "priority": 3,
+          "id": "pazsllgl2"
+        },
+        {
+          "title": "Função modular",
+          "videos": [
+            "iT0KSy08itc",
+            "73bac86B4qU",
+            "HUjgLbzvw_g",
+            "17LRtgz4Q2A",
+            "pmZdHEsr5LM",
+            "b9K884tjeO4"
+          ],
+          "priority": 1,
+          "id": "0ei1qtusl"
+        }
+      ],
+      "id": "risjf2bzg"
+    },
+    {
+      "title": "Matrizes",
+      "classes": [
+        {
+          "title": "Matriz e Determinante",
+          "videos": [
+            "lZ9onrdpusA",
+            "k2ssH1Hx9Yg",
+            "3hTlEWrGtf8",
+            "PCzXBP-TA-s",
+            "eCmv6v53V88",
+            "wfDoPGfo2fE",
+            "XaZZNxj26qU",
+            "726AOpEEXrw",
+            "939xOYVcJ2I",
+            "3DinmEi5ygQ",
+            "hKf9KktbvDI",
+            "iv8YNa_jXMQ",
+            "mw0mEZ4DBsk",
+            "uah0mHwCKps",
+            "40LjiTXFuyY",
+            "-tdj_vMekdg",
+            "s958ELGm2ps",
+            "szDVO_TzWLM",
+            "F10TdwBH8qc",
+            "xY02ioZP4kE",
+            "m3hlfARoobs",
+            "CNWvpQu1PKg"
+          ],
+          "priority": 1,
+          "id": "x0ss97927"
+        }
+      ],
+      "id": "nk1otrdzy"
+    },
+    {
+      "title": "Geometria Plana",
+      "classes": [
+        {
+          "title": "Ângulos",
+          "videos": [
+            "0CnUdzmpO8E",
+            "pyb-5syEWdI"
+          ],
+          "priority": 3,
+          "id": "6qoqfrled"
+        },
+        {
+          "title": "Triângulo equilátero",
+          "videos": [
+            "TyyTOvjo3D0",
+            "3x920GHyF4g",
+            "OO8NKf_NKJo",
+            "WZXvZgkiG1w"
+          ],
+          "priority": 3,
+          "id": "129u6w8s9"
+        },
+        {
+          "title": "Semelhança de triângulos",
+          "videos": [
+            "LxFlnxS6iMg"
+          ],
+          "priority": 2,
+          "id": "z3mskjz85"
+        },
+        {
+          "title": "Teorema de Tales",
+          "videos": [
+            "MQw2524ZZcU"
+          ],
+          "priority": 1,
+          "id": "7fabafsry"
+        },
+        {
+          "title": "Triângulo retângulo: relações métricas",
+          "videos": [
+            "LDw4QSfWVug",
+            "f4JBVvr72MQ"
+          ],
+          "priority": 2,
+          "id": "0ifwfr7vn"
+        },
+        {
+          "title": "Triângulo retângulo: relações trigonométricas",
+          "videos": [
+            "MWPXfX8YmOY"
+          ],
+          "priority": 2,
+          "id": "8u5cxzu6z"
+        },
+        {
+          "title": "Lei dos senos e dos cossenos",
+          "videos": [
+            "t6zTP7fU8lA",
+            "-ChDnLM47xo"
+          ],
+          "priority": 1,
+          "id": "90im2tk3g"
+        },
+        {
+          "title": "Polígonos",
+          "videos": [
+            "Fmzr95op6xc",
+            "lT3BKSR3pmE",
+            "Z6E1d5O75ek",
+            "Z6E1d5O75ek",
+            "jDtFCb2K7f0",
+            "WbqxVAtoWl0"
+          ],
+          "priority": 3,
+          "id": "chu31mbhv"
+        },
+        {
+          "title": "Quadriláteros e Hexágonos",
+          "videos": [
+            "KrFNq-8aP_4",
+            "ddfkogMMVEc",
+            "BWWaSz-X6nM",
+            "p6xYxnH6yPs",
+            "2IPnbQmO88Y",
+            "Y5Yq_QJcTEw"
+          ],
+          "priority": 3,
+          "id": "s2g3jxncb"
+        },
+        {
+          "title": "Circunferência e Círculo",
+          "videos": [
+            "gojZfbyitrM",
+            "kIqcsGBKRq0",
+            "qKyE7Q8rr1I",
+            "NKEPE99XOkQ",
+            "JphuTOv_kE8",
+            "Prj7bgIh3VA",
+            "oBx4sskFcmI"
+          ],
+          "priority": 3,
+          "id": "46tdx8y4e"
+        }
+      ],
+      "id": "fjj3pf955"
+    },
+    {
+      "title": "Geometria de Posição",
+      "classes": [
+        {
+          "title": "Geometria de posição: Posições relativas e Projeção ortogonal",
+          "videos": [
+            "Z-RDx98ugG4",
+            "toO6S_gbKC4"
+          ],
+          "priority": 3,
+          "id": "45q8e6fas"
+        }
+      ],
+      "id": "01af0h0de"
+    },
+    {
+      "title": "Geometria Espacial",
+      "classes": [
+        {
+          "title": "Poliedros",
+          "videos": [
+            "v_PQnBk-8Mc",
+            "EO_DD_2yB_c",
+            "oLbzYParKtc",
+            "n4RtMz5_5bY",
+            "I_7E_Oq0ipw"
+          ],
+          "priority": 3,
+          "id": "fzimb87ij"
+        },
+        {
+          "title": "Prismas",
+          "videos": [
+            "QjW6pSH0jVc",
+            "_sKcgx590J4",
+            "P8Cw3tafL3s"
+          ],
+          "priority": 3,
+          "id": "k4kq6opwg"
+        },
+        {
+          "title": "Cilindros",
+          "videos": [
+            "rpbFsCa7D4E"
+          ],
+          "priority": 3,
+          "id": "9iwxys6wn"
+        },
+        {
+          "title": "Pirâmides e Troncos de pirâmides",
+          "videos": [
+            "U2Ip283DZiM",
+            "UUyX2FlenuI",
+            "lnQnoZ5-_24"
+          ],
+          "priority": 3,
+          "id": "qvfi5bgq6"
+        },
+        {
+          "title": "Cones e Troncos de cones",
+          "videos": [
+            "RJSBvqVWHJo",
+            "QD3I7FbFCPo"
+          ],
+          "priority": 2,
+          "id": "a657vurb3"
+        },
+        {
+          "title": "Esferas",
+          "videos": [
+            "4mEqtfBXrl8",
+            "YIf2mUNcJjg",
+            "_QLB4uC0vpw",
+            "J5nnGEIAudg",
+            "-zJBbCf7nPY"
+          ],
+          "priority": 2,
+          "id": "ohc1lpafv"
+        },
+        {
+          "title": "Sólidos inscritos",
+          "videos": [
+            "GxhWrDq32SE"
+          ],
+          "priority": 2,
+          "id": "u7sc6klq5"
+        }
+      ],
+      "id": "32gtaw1n6"
+    },
+    {
+      "title": "Geometria Analítica",
+      "classes": [
+        {
+          "title": "Estudo do ponto",
+          "videos": [
+            "Hws4tKt5dHk",
+            "ZJ5Aqwcx9f4",
+            "VQZC0Irmx6g",
+            "gHSkOeW1sRc",
+            "vMK8ehuAZk8",
+            "UaPAWHTkCBE"
+          ],
+          "priority": 2,
+          "id": "t303f4d43"
+        },
+        {
+          "title": "Estudo da reta",
+          "videos": [
+            "N4QfzVvgH4Y",
+            "pRNnguDcR6Y",
+            "9dhtGUPgekw",
+            "KjugJ3kIkU0",
+            "JeLjoqSrBqI",
+            "c1y5CJQaPdk",
+            "toO6S_gbKC4",
+            "P5Fkmldajg4",
+            "FSfwY1fM4EI",
+            "UaPAWHTkCBE"
+          ],
+          "priority": 2,
+          "id": "0ab7s1xpj"
+        },
+        {
+          "title": "Estudo da circunferência",
+          "videos": [
+            "p93CirSoL8A",
+            "tu81HCPl4mU",
+            "8187RbQWFas",
+            "5GNJmo1bMlY",
+            "9lK6KL9kQmk"
+          ],
+          "priority": 2,
+          "id": "0gvwqhbcb"
+        }
+      ],
+      "id": "rkqrifv3x"
+    },
+    {
+      "title": "Análise Combinatória",
+      "classes": [
+        {
+          "title": "Princípio Fundamental da Contagem (PFC)",
+          "videos": [
+            "a1FtCh6Snm0",
+            "a0GcRAWcoUY",
+            "MjMwLY3rUu0",
+            "uQrfpkkZtjA"
+          ],
+          "priority": 3,
+          "id": "vi00t4314"
+        },
+        {
+          "title": "Fatorial",
+          "videos": [
+            "WXyZUWAKtws",
+            "KR4xUGGgYZk"
+          ],
+          "priority": 2,
+          "id": "lwqjxa8y9"
+        },
+        {
+          "title": "Arranjo",
+          "videos": [
+            "UaTPoG0WDEM"
+          ],
+          "priority": 2,
+          "id": "wyw5tuo72"
+        },
+        {
+          "title": "Permutação simples e Permutação circular",
+          "videos": [
+            "lHiMcxLYyds",
+            "gtQyYF4EmII",
+            "JiW2Oyjx-CE",
+            "GSadFgqbLwk",
+            "AvWsIh1lbag"
+          ],
+          "priority": 2,
+          "id": "ftan88d46"
+        },
+        {
+          "title": "Combinação",
+          "videos": [
+            "fvPIb7Vtez4",
+            "sd9-uIlKA80"
+          ],
+          "priority": 3,
+          "id": "esiijcix6"
+        }
+      ],
+      "id": "dzt9ng2ix"
+    },
+    {
+      "title": "Estatística",
+      "classes": [
+        {
+          "title": "Estatística: Visão geral, Organização e Representação de dados",
+          "videos": [
+            "DLOQvKvbBW8",
+            "TArPqgSSGmg",
+            "i8dDBLSQc6U"
+          ],
+          "priority": 3,
+          "id": "rc7m4tbd3"
+        },
+        {
+          "title": "Estatística: Médias, Medidas de tendência central e de dispersão",
+          "videos": [
+            "CG_AGULJJz8",
+            "rNIEwtT8lbA",
+            "Iq1TputJKnE",
+            "Iq1TputJKnE"
+          ],
+          "priority": 3,
+          "id": "xy2it6hns"
+        },
+        {
+          "title": "Interpretação de gráficos",
+          "videos": [
+            "8j4ZMn4-nv8",
+            "P5N_fL1yD6A"
+          ],
+          "priority": 3,
+          "id": "b7v6ejo8u"
+        }
+      ],
+      "id": "mrtx7es7v"
+    },
+    {
+      "title": "Probabilidade",
+      "classes": [
+        {
+          "title": "Probabilidade: Visão geral",
+          "videos": [
+            "8g571hUvgeo",
+            "_AaYS_kTvps",
+            "U99Rensi0as"
+          ],
+          "priority": 2,
+          "id": "xd9d8do5w"
+        },
+        {
+          "title": "Probabilidade da união de eventos",
+          "videos": [
+            "QkO3HJgzTrA"
+          ],
+          "priority": 2,
+          "id": "yf5znp10w"
+        },
+        {
+          "title": "Probabilidade de eventos simultâneos",
+          "videos": [
+            "VifuLscFmV0"
+          ],
+          "priority": 2,
+          "id": "ajseqdo3v"
+        },
+        {
+          "title": "Probabilidade condicional",
+          "videos": [
+            "uo16XTg2CIQ"
+          ],
+          "priority": 2,
+          "id": "5xciezrvq"
+        }
+      ],
+      "id": "8dfc1aft8"
+    }
+  ]
+}

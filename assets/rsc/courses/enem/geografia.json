@@ -1,0 +1,622 @@
+{
+  "id": "372fc48kg",
+  "category": "Ciências Humanas e suas Tecnologias",
+  "title": "Geografia",
+  "courses": [
+    {
+      "title": "Cartografia",
+      "classes": [
+        {
+          "title": "Orientação e Coordenadas geográficas",
+          "videos": [
+            "A1KFBoYEFFE",
+            "KoXjKrLQfv0"
+          ],
+          "priority": 3,
+          "id": "r0w9hcadz"
+        },
+        {
+          "title": "Cartografia: Elementos, Escalas e Convenções",
+          "videos": [
+            "TLY0q8sxsa0",
+            "5bObBFWg0t0",
+            "P0OxNTnu80w",
+            "AZGRty29KJ8",
+            "tR_rXa4BdpE",
+            "BQlKNrpmhlM"
+          ],
+          "priority": 2,
+          "id": "f1qfufkun"
+        },
+        {
+          "title": "Projeções cartográficas",
+          "videos": [
+            "gHHxGepMxlI",
+            "b-IJoUkYW9g",
+            "ug4W9X4qBbM"
+          ],
+          "priority": 2,
+          "id": "wcp8ug0wq"
+        },
+        {
+          "title": "Fuso horário",
+          "videos": [
+            "tFDiM_gWgQ0",
+            "94szb_O5KkU"
+          ],
+          "priority": 3,
+          "id": "pnjohptyy"
+        },
+        {
+          "title": "Movimentos da Terra e da Lua",
+          "videos": [
+            "bTutNM9mJRM",
+            "v4M2-5tZQOA",
+            "2cBkW63JzZw"
+          ],
+          "priority": 2,
+          "id": "0kuxrpemd"
+        }
+      ],
+      "id": "vykxa23gh"
+    },
+    {
+      "title": "Geomorfologia, solos e minérios",
+      "classes": [
+        {
+          "title": "Estrutura interna da Terra e Eras geológicas",
+          "videos": [
+            "P2_TpkbTSUI",
+            "Eh3M8uH92pY",
+            "y0WA1-0MgLM"
+          ],
+          "priority": 2,
+          "id": "9yc0f7ms2"
+        },
+        {
+          "title": "Dinâmica das placas tectônicas",
+          "videos": [
+            "oDeZRW3gya4",
+            "tUjYpMY_bEg",
+            "GicW3UpL6Mw"
+          ],
+          "priority": 1,
+          "id": "8d9h2087u"
+        },
+        {
+          "title": "Dinâmica interna e externa do relevo",
+          "videos": [
+            "TG6ndUtyhW8",
+            "aSWHfd_jcCU",
+            "gmayTkzxS5U"
+          ],
+          "priority": 3,
+          "id": "bu3pgb7hm"
+        },
+        {
+          "title": "Rochas",
+          "videos": [
+            "VwVBeqIWKqk"
+          ],
+          "priority": 1,
+          "id": "clrpwclrg"
+        },
+        {
+          "title": "Estruturas geológicas",
+          "videos": [
+            "bZsCX-R1nwM",
+            "Gti1dH723wQ"
+          ],
+          "priority": 2,
+          "id": "2te7ivsjo"
+        },
+        {
+          "title": "Relevo brasileiro",
+          "videos": [
+            "bZsCX-R1nwM",
+            "Gti1dH723wQ"
+          ],
+          "priority": 1,
+          "id": "ieb7gwtv6"
+        },
+        {
+          "title": "Recursos minerais",
+          "videos": [
+            "TZ0HIVBsV68",
+            "Ii2vpjJv1Lc"
+          ],
+          "priority": 3,
+          "id": "ckbolftgq"
+        },
+        {
+          "title": "Formação e tipos de solo",
+          "videos": [
+            "YjULv1hxxZQ",
+            "Kr44kQgcF98",
+            "gDAYiBiI1cU"
+          ],
+          "priority": 1,
+          "id": "6pp2up84t"
+        },
+        {
+          "title": "Recursos hídricos e Bacias hidrográficas do Brasil",
+          "videos": [
+            "_Bu_dZw4WWs",
+            "gZph9ax8Xpg",
+            "Cuq-6nXtiSE",
+            "lJQMEH24l9w"
+          ],
+          "priority": 3,
+          "id": "ay3urywmu"
+        }
+      ],
+      "id": "yvjj616hb"
+    },
+    {
+      "title": "Climatologia",
+      "classes": [
+        {
+          "title": "Atmosfera e Fatores climáticos",
+          "videos": [
+            "qTJ3sFhul4Y",
+            "tzx9NEtTiDc",
+            "XBZWK2N0JSg"
+          ],
+          "priority": 3,
+          "id": "ksvs1sirs"
+        },
+        {
+          "title": "Dinâmica dos ventos e Zonas climáticas da Terra",
+          "videos": [
+            "QbnUOHHUwlY",
+            "oZmYOSKqpyg",
+            "Ri0FMSEcv-4"
+          ],
+          "priority": 1,
+          "id": "bwg70olff"
+        },
+        {
+          "title": "Fenômenos e mudanças climáticas",
+          "videos": [
+            "JbQxzWBVl1g",
+            "kej3_SuE08k",
+            "EQD-i22uTG0",
+            "cQZSqVYlJPA",
+            "B2zSWZGJTdc",
+            "JZKma1QA7WI"
+          ],
+          "priority": 2,
+          "id": "ivw8gplb1"
+        },
+        {
+          "title": "Clima do Brasil",
+          "videos": [
+            "zd8R5BLWjyM",
+            "HM2FDn7aoKw"
+          ],
+          "priority": 1,
+          "id": "aej15fpkd"
+        }
+      ],
+      "id": "6jx7zovhs"
+    },
+    {
+      "title": "Meio ambiente",
+      "classes": [
+        {
+          "title": "Grandes biomas terrestres",
+          "videos": [
+            "ZlB6MZmpKls"
+          ],
+          "priority": 2,
+          "id": "zrn9j4ohg"
+        },
+        {
+          "title": "Conferências Internacionais",
+          "videos": [
+            "2AF1rjwuNqg"
+          ],
+          "priority": 2,
+          "id": "8xy5v3qy1"
+        },
+        {
+          "title": "Ecossistemas Brasileiros",
+          "videos": [
+            "7PWBEtDFERk",
+            "PIIK1bR54uw",
+            "MeMQR8hv88A",
+            "QZFvpcdMogg",
+            "7nKagFN85v8"
+          ],
+          "priority": 2,
+          "id": "d4j44lu0e"
+        },
+        {
+          "title": "Problemas ambientais",
+          "videos": [
+            "AAYv1-uFskk",
+            "ftQbZYfC38U"
+          ],
+          "priority": 2,
+          "id": "fwt7yukpu"
+        },
+        {
+          "title": "Uso e degradação das formações vegetais",
+          "videos": [
+            "aVdpCueXMR4"
+          ],
+          "priority": 3,
+          "id": "f41qvjck6"
+        }
+      ],
+      "id": "epck783jh"
+    },
+    {
+      "title": "Espaço urbano",
+      "classes": [
+        {
+          "title": "Espaço geográfico",
+          "videos": [
+            "uWa2WLOveaQ"
+          ],
+          "priority": 3,
+          "id": "dnw3cezjq"
+        },
+        {
+          "title": "Urbanização e Hierarquias urbanas",
+          "videos": [
+            "7svcoojhegM",
+            "HPnOeF73atU",
+            "JhURjqj2te0",
+            "FwfT-RIqvuI"
+          ],
+          "priority": 3,
+          "id": "fbr1tgfx5"
+        },
+        {
+          "title": "Problemas sociais e ambientais urbanos",
+          "videos": [
+            "WNUBfchLgMA",
+            "Yb2AzJvTZto",
+            "Ijxf5vvQgY4"
+          ],
+          "priority": 2,
+          "id": "d9h0ler6e"
+        },
+        {
+          "title": "Urbanização do Brasil",
+          "videos": [
+            "6TxINZf2-vU",
+            "g-DEwpP2xuM"
+          ],
+          "priority": 2,
+          "id": "lz24su9kt"
+        }
+      ],
+      "id": "ykj0fczze"
+    },
+    {
+      "title": "Dinâmica demográfica e Qualidade de vida",
+      "classes": [
+        {
+          "title": "Movimentos migratórios",
+          "videos": [
+            "hYEsRQfB05k",
+            "J0pACZMQeak",
+            "akaHeopBJCo"
+          ],
+          "priority": 3,
+          "id": "j1r4ijr7u"
+        },
+        {
+          "title": "Teorias demográficas",
+          "videos": [
+            "acU-dfwALgk",
+            "1CmEbiuDvws"
+          ],
+          "priority": 2,
+          "id": "10eqfgbhi"
+        },
+        {
+          "title": "Demografia do Brasil",
+          "videos": [
+            "LMrjYNLeaXk",
+            "9CDtMsfkAuY",
+            "vzA-8hd_Szs",
+            "Zt5PnNdeHy0"
+          ],
+          "priority": 3,
+          "id": "q5e52sezp"
+        },
+        {
+          "title": "Estrutura da população",
+          "videos": [
+            "pMYQWJNDWfg"
+          ],
+          "priority": 3,
+          "id": "un4l4gcif"
+        },
+        {
+          "title": "Fatores do desenvolvimento e Indicadores sociais",
+          "videos": [
+            "iAh2XDEsTYA",
+            "DzmDLhA-_2U"
+          ],
+          "priority": 1,
+          "id": "pkm1cbo6t"
+        }
+      ],
+      "id": "g7u8sgymu"
+    },
+    {
+      "title": "Regionalização do espaço brasileiro",
+      "classes": [
+        {
+          "title": "Região Sul",
+          "videos": [
+            "cxnXTw1BQus",
+            "oKXlsybK29Y",
+            "hXRk2KL_hs0",
+            "c_LEvT752sA"
+          ],
+          "priority": 1,
+          "id": "ggartms45"
+        },
+        {
+          "title": "Região Sudeste",
+          "videos": [
+            "cxnXTw1BQus",
+            "lPNiNGiaA5Y",
+            "sXyVjIGsFOs",
+            "I7bji6wdSDM",
+            "9DmqZ-lRpPE"
+          ],
+          "priority": 1,
+          "id": "b6nvugulj"
+        },
+        {
+          "title": "Região Norte",
+          "videos": [
+            "Ngitj0y5ym8",
+            "aLK8b5hArdM",
+            "J4RT_0PhQRE",
+            "PXS39AKJ98M",
+            "OzsYIHtvC-I"
+          ],
+          "priority": 3,
+          "id": "2cz29az63"
+        },
+        {
+          "title": "Região Nordeste",
+          "videos": [
+            "QlysAEZohI8",
+            "mrjv71UaFLw",
+            "vAq-FWLntgE"
+          ],
+          "priority": 2,
+          "id": "xss7kwqx0"
+        },
+        {
+          "title": "Região Centro-Oeste",
+          "videos": [
+            "2OEXWxp82xE",
+            "cYPBhRwOoz8",
+            "cxnXTw1BQus",
+            "jaLkV013UVk"
+          ],
+          "priority": 2,
+          "id": "6fz70v5i5"
+        },
+        {
+          "title": "Complexos regionais",
+          "videos": [
+            "e8jJbdfw2cw"
+          ],
+          "priority": 2,
+          "id": "icppej54j"
+        }
+      ],
+      "id": "6np4mnoso"
+    },
+    {
+      "title": "Recursos Energéticos",
+      "classes": [
+        {
+          "title": "Energias renováveis e não renováveis",
+          "videos": [
+            "MDRqtfyyvFc",
+            "fEijZivtS80",
+            "D99GKisz9Gg",
+            "jIk9TOrLbxE",
+            "Bg5SDf2C_HQ",
+            "bdgYTLW4ec4"
+          ],
+          "priority": 1,
+          "id": "lcwa58nwq"
+        }
+      ],
+      "id": "g9ax5e2yz"
+    },
+    {
+      "title": "Indústria",
+      "classes": [
+        {
+          "title": "Revolução Industrial",
+          "videos": [
+            "txhLgXxPZJM",
+            "BI5XHfjyFaU",
+            "jTLpqipsw0g"
+          ],
+          "priority": 3,
+          "id": "orwrj5sjo"
+        },
+        {
+          "title": "Modelos produtivos",
+          "videos": [
+            "KX2JtlM3cR8",
+            "kev0Dn9ryNo",
+            "giMSj0VW61s",
+            "ltI0Qp4V8hQ",
+            "v4npmZhMTZw"
+          ],
+          "priority": 1,
+          "id": "8pnf2kvym"
+        },
+        {
+          "title": "Classificação das Indústrias",
+          "videos": [
+            "a3PHKbOUkyo",
+            "rghOYydhmDU",
+            "TvWic7VxEko"
+          ],
+          "priority": 2,
+          "id": "7iden15en"
+        },
+        {
+          "title": "Regiões industriais do Brasil",
+          "videos": [
+            "ewxVG5D4LEU",
+            "I4IJdUDzRXE"
+          ],
+          "priority": 1,
+          "id": "ftb2d5gc0"
+        }
+      ],
+      "id": "l8yv9ds7h"
+    },
+    {
+      "title": "Transportes",
+      "classes": [
+        {
+          "title": "Transportes",
+          "videos": [
+            "4ti3b4-CRyQ",
+            "SX4uAj0WV0s",
+            "aZg1nxa1hP8"
+          ],
+          "priority": 3,
+          "id": "3n630utyv"
+        },
+        {
+          "title": "Corredores de exportação e Canais internacionais de navegação",
+          "videos": [
+            "bDMK9ZfpB4E"
+          ],
+          "priority": 1,
+          "id": "me68kgrhq"
+        }
+      ],
+      "id": "ruxbq91ng"
+    },
+    {
+      "title": "Comércio",
+      "classes": [
+        {
+          "title": "Globalização e Regionalização",
+          "videos": [
+            "Db-RoMb0aeM",
+            "5STtrQ7M4Xc",
+            "476cUJY7xbw"
+          ],
+          "priority": 3,
+          "id": "cdiqkluy7"
+        },
+        {
+          "title": "Comércio no Brasil",
+          "videos": [
+            "qu3kKadqPmo"
+          ],
+          "priority": 3,
+          "id": "947qsb0ay"
+        }
+      ],
+      "id": "by28rikeg"
+    },
+    {
+      "title": "Agropecuária",
+      "classes": [
+        {
+          "title": "Sistemas agrícolas",
+          "videos": [
+            "HOJ4IaTuG2I",
+            "DuI5A-quhJg"
+          ],
+          "priority": 3,
+          "id": "q740a42ov"
+        },
+        {
+          "title": "Revolução verde, Transgênicos e Agronegócio",
+          "videos": [
+            "yTBXvjrmj90",
+            "sEzClQhcAow",
+            "GJSLTvgBTVw",
+            "1OhsVUPKIZc"
+          ],
+          "priority": 3,
+          "id": "uhy8eyyl5"
+        },
+        {
+          "title": "Agricultura no Brasil",
+          "videos": [
+            "1t13KjJqd-Y",
+            "DsKcv2cyUFQ"
+          ],
+          "priority": 2,
+          "id": "5o5zinsi5"
+        }
+      ],
+      "id": "b0u0avim6"
+    },
+    {
+      "title": "Geopolítica",
+      "classes": [
+        {
+          "title": "Guerra Fria",
+          "videos": [
+            "lPiCy2DvqTc",
+            "A5aPPMkIcDs",
+            "eJ4sEZwUO_8"
+          ],
+          "priority": 3,
+          "id": "v5t5l40sg"
+        },
+        {
+          "title": "Nova ordem mundial",
+          "videos": [
+            "1-1z2vT-_HU",
+            "oSElG3zNtFw"
+          ],
+          "priority": 2,
+          "id": "qdklr4em2"
+        },
+        {
+          "title": "Organizações internacionais",
+          "videos": [
+            "t9LzqYkM7dg",
+            "T69n39bzDeo",
+            "Nxn5G9ey9RE",
+            "KXAhkWfYaWY",
+            "5-LX6y7fODY",
+            "VKE8I1Ixxrk",
+            "N_HAOsyqhPo",
+            "gbK1IoRimOc",
+            "Ue4sN3VUD9o",
+            "3Jld8cULyNc"
+          ],
+          "priority": 1,
+          "id": "tfspidczp"
+        },
+        {
+          "title": "Blocos econômicos",
+          "videos": [
+            "fGEc9exsKwg",
+            "3G65dQBbTFc"
+          ],
+          "priority": 2,
+          "id": "3rdawenbd"
+        }
+      ],
+      "id": "o5n78i9zx"
+    }
+  ]
+}

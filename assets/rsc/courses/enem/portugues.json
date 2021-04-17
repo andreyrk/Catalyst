@@ -1,0 +1,391 @@
+{
+  "id": "83ftgxov6",
+  "category": "Linguagens, Códigos e suas Tecnologias",
+  "title": "Português",
+  "courses": [
+    {
+      "title": "Morfologia",
+      "classes": [
+        {
+          "title": "Classes gramaticais",
+          "videos": [
+            "s8a6eXncWY8",
+            "8iXiBgCnGv4",
+            "2d6PW3xp2pA",
+            "lkxc-hStcuE",
+            "PQRdgiIutrE",
+            "cZ3MmXT0uys",
+            "ocwqxQmGHuU",
+            "PPKSKYJenkE",
+            "T8MB4vzTAv4",
+            "vvXx5hGeqKA",
+            "eoZ0aEJQACg"
+          ],
+          "priority": 1,
+          "id": "3uagkvxi8"
+        },
+        {
+          "title": "Formação de palavras",
+          "videos": [
+            "U_nRXQh5L40",
+            "98qXxXx51T0"
+          ],
+          "priority": 1,
+          "id": "od320289o"
+        }
+      ],
+      "id": "7a25o596n"
+    },
+    {
+      "title": "Pronomes",
+      "classes": [
+        {
+          "title": "Pronomes pessoais",
+          "videos": [
+            "PQRdgiIutrE"
+          ],
+          "priority": 1,
+          "id": "fc4kyttqt"
+        },
+        {
+          "title": "Pronomes possessivos, demonstrativos, indefinidos, interrogativos e relativos",
+          "videos": [
+            "cZ3MmXT0uys",
+            "ocwqxQmGHuU"
+          ],
+          "priority": 1,
+          "id": "esdnca2r9"
+        },
+        {
+          "title": "Colocação pronominal",
+          "videos": [
+            "l_WxqVvmyGo",
+            "baP8RkBYRNw"
+          ],
+          "priority": 3,
+          "id": "mao9188jc"
+        }
+      ],
+      "id": "6wo9tlfxh"
+    },
+    {
+      "title": "Acentuação",
+      "classes": [
+        {
+          "title": "Visão geral de acentuação",
+          "videos": [
+            "Sy_LUnePfRE"
+          ],
+          "priority": 1,
+          "id": "ya4mf9en1"
+        },
+        {
+          "title": "Crase",
+          "videos": [
+            "yUpRa62vcSI",
+            "8-5pg3PuY8o",
+            "1aoM2HPwFgQ"
+          ],
+          "priority": 1,
+          "id": "h7jij0gnn"
+        }
+      ],
+      "id": "z1dm6g9b8"
+    },
+    {
+      "title": "Pontuação",
+      "classes": [
+        {
+          "title": "Visão geral de pontuação",
+          "videos": [
+            "ODkVN0kRciE",
+            "9tdpcfdr244",
+            "HwMYC5pFJGo",
+            "LQgt2Edt9dE"
+          ],
+          "priority": 1,
+          "id": "itj38ouaj"
+        },
+        {
+          "title": "Vírgula",
+          "videos": [
+            "AM9JjLQzsGE",
+            "IEYg_2PyIOE",
+            "kTJ0_upUzrc"
+          ],
+          "priority": 1,
+          "id": "oftlq2bla"
+        }
+      ],
+      "id": "rx73fic5o"
+    },
+    {
+      "title": "Ortografia",
+      "classes": [
+        {
+          "title": "Novo Acordo Ortográfico",
+          "videos": [
+            "LhW_Ee3Wkms",
+            "2Ou4ApRLj88"
+          ],
+          "priority": 1,
+          "id": "vbk7t48ji"
+        }
+      ],
+      "id": "cerfi652r"
+    },
+    {
+      "title": "Sintaxe",
+      "classes": [
+        {
+          "title": "Sujeito e Predicado",
+          "videos": [
+            "jv2Nucfx-Rk",
+            "3uH39VAnAv8"
+          ],
+          "priority": 2,
+          "id": "5cx7oq72h"
+        },
+        {
+          "title": "Aposto e vocativo",
+          "videos": [
+            "CFcjJ1cXJEg"
+          ],
+          "priority": 2,
+          "id": "sx4ozz2hh"
+        },
+        {
+          "title": "Termos ligados ao verbo",
+          "videos": [
+            "uPoNVpFf4FQ",
+            "3uH39VAnAv8",
+            "y2haxLgR4BM",
+            "Z8S0Bbax5Jo",
+            "HsqM3NskCBc",
+            "pnHDAdm7toU"
+          ],
+          "priority": 1,
+          "id": "meyxa4r2c"
+        },
+        {
+          "title": "Termos ligados ao nome",
+          "videos": [
+            "bLg5Ug8SBYw",
+            "Mg8nF0mCv14"
+          ],
+          "priority": 1,
+          "id": "0gp7igfvg"
+        },
+        {
+          "title": "Função sintática dos pronomes relativos",
+          "videos": [
+            "b8_7UxkMb6s"
+          ],
+          "priority": 1,
+          "id": "h8tn7wh1e"
+        },
+        {
+          "title": "Concordância verbal",
+          "videos": [
+            "4ZJnTqTk4_Y",
+            "iZ7Ryffdoc0"
+          ],
+          "priority": 2,
+          "id": "igp7tbvsc"
+        },
+        {
+          "title": "Concordância nominal",
+          "videos": [
+            "wtYgEDzjcWM",
+            "ISPEMEtMprA",
+            "OXIx5oHteG8"
+          ],
+          "priority": 2,
+          "id": "0kvz3nrfu"
+        },
+        {
+          "title": "Regência",
+          "videos": [
+            "B0EgJVneeGE",
+            "r4Pew3CliXI",
+            "kpzcFU_zNqE"
+          ],
+          "priority": 1,
+          "id": "zufvtcbzq"
+        }
+      ],
+      "id": "3v68zp1xx"
+    },
+    {
+      "title": "Período composto",
+      "classes": [
+        {
+          "title": "Orações coordenadas",
+          "videos": [
+            "UbrR7An5ZfY"
+          ],
+          "priority": 2,
+          "id": "ix1wzvcgr"
+        },
+        {
+          "title": "Orações subordinadas substantivas",
+          "videos": [
+            "_kzTFOzf-_w"
+          ],
+          "priority": 2,
+          "id": "nfg4zwegk"
+        },
+        {
+          "title": "Orações subordinadas adjetivas",
+          "videos": [
+            "HQcPjCQ72bo"
+          ],
+          "priority": 2,
+          "id": "7fvxuzxip"
+        },
+        {
+          "title": "Orações subordinadas adverbiais",
+          "videos": [
+            "tCoaqWAaOKk"
+          ],
+          "priority": 2,
+          "id": "nbtz2kubt"
+        },
+        {
+          "title": "Orações subordinadas reduzidas",
+          "videos": [
+            "XbJOsY5N0SQ",
+            "sLqKYjPIFZ4",
+            "0yYccW2lfBI"
+          ],
+          "priority": 1,
+          "id": "fu0ejr3i0"
+        }
+      ],
+      "id": "w7t1lsiqp"
+    },
+    {
+      "title": "Análise de palavras",
+      "classes": [
+        {
+          "title": "A palavra QUE",
+          "videos": [
+            "nr5HLdP2bWc"
+          ],
+          "priority": 1,
+          "id": "uy7wef579"
+        },
+        {
+          "title": "A palavra SE",
+          "videos": [
+            "tcau9aFmuJ0"
+          ],
+          "priority": 1,
+          "id": "ihpj5g978"
+        }
+      ],
+      "id": "aak4mtag8"
+    },
+    {
+      "title": "Interpretação Textual",
+      "classes": [
+        {
+          "title": "Fatores de contextualização",
+          "videos": [
+            "oSf9UOtjkXU"
+          ],
+          "priority": 1,
+          "id": "pwv4fcknq"
+        },
+        {
+          "title": "Tipos e Gêneros textuais",
+          "videos": [
+            "ibwf_X3498c",
+            "Ucjv4LT8CSg"
+          ],
+          "priority": 3,
+          "id": "jwmmzgnw0"
+        },
+        {
+          "title": "O texto dissertativo-argumentativo",
+          "videos": [
+            "NYlOqcYEvcw"
+          ],
+          "priority": 1,
+          "id": "lzs1otbn2"
+        },
+        {
+          "title": "Estratégias argumentativas",
+          "videos": [
+            "VQ2ta0VF4z0",
+            "5bHtgXXvdJM",
+            "aheSvhcdcqM"
+          ],
+          "priority": 3,
+          "id": "n5udsfgl7"
+        },
+        {
+          "title": "Inferências",
+          "videos": [
+            "Dhs1YAIsztw"
+          ],
+          "priority": 3,
+          "id": "bd4ezrunc"
+        },
+        {
+          "title": "Coesão, coerência e concisão",
+          "videos": [
+            "IIU6i3UXyi0",
+            "IkO2T0Rqjdc"
+          ],
+          "priority": 2,
+          "id": "vptmwe16l"
+        },
+        {
+          "title": "Variações linguísticas",
+          "videos": [
+            "6fBOVygtNoU",
+            "G3F7sRfK9FE",
+            "dffRZNrhQ7w"
+          ],
+          "priority": 3,
+          "id": "3br3v36e4"
+        },
+        {
+          "title": "Tecnologias da comunicação e informação",
+          "videos": [
+            "Ucjv4LT8CSg",
+            "VPuEs9gdKTM"
+          ],
+          "priority": 3,
+          "id": "jxr1phbsf"
+        },
+        {
+          "title": "Charges e Tirinhas",
+          "videos": [
+            "doaGNbaFFNg",
+            "EKOEiCOEt-0",
+            "CaUjNENatNY"
+          ],
+          "priority": 3,
+          "id": "ydg8nazas"
+        },
+        {
+          "title": "Gêneros jornalísticos",
+          "videos": [
+            "liYbOndd0cA",
+            "k9EDaXAWuJw",
+            "_S3w9FepIFE",
+            "rvZPMj9Iwyc",
+            "49IGKUS2uRQ",
+            "2XcMASxk4oM",
+            "Cw3VZUnCA4E"
+          ],
+          "priority": 3,
+          "id": "34jib5hqh"
+        }
+      ],
+      "id": "oaawiy0r7"
+    }
+  ]
+}
