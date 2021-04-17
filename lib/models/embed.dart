@@ -15,7 +15,7 @@ class Embed {
   String thumbnailUrl = '';
   String html = '';
 
-  Embed() {}
+  Embed();
 
   Embed.fromJson(String jsonString) {
     Map map = json.decode(jsonString);
