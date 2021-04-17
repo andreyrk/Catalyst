@@ -91,42 +91,43 @@ class _CourseClassPageState extends State<CourseClassPage> {
     List<Widget> widgets = [];
 
     for (var entry in videoData.entries) {
-      widgets.add(InkWell(
-          onTap: () async {
-            await launch(r'https://youtube.com/watch?v=' + entry.key);
-          },
-          child: Card(
-              elevation: 4,
-              clipBehavior: Clip.antiAliasWithSaveLayer,
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(8),
-              ),
-              margin: EdgeInsets.zero,
-              child: Column(children: [
-                AspectRatio(
-                    aspectRatio: 16 / 9,
-                    child: Image.network(
-                      entry.value.thumbnailUrl
-                          .replaceAll('hqdefault', 'mqdefault'),
-                      fit: BoxFit.fitWidth,
-                    )),
-                FittedBox(
-                    fit: BoxFit.fitHeight,
-                    child: Container(
-                      width: itemWidth,
-                      child: ListTile(
-                        title: Text(
-                          entry.value.title,
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                          style: new TextStyle(
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                        trailing: Icon(Icons.more_vert),
+      widgets.add(Card(
+          elevation: 4,
+          clipBehavior: Clip.antiAliasWithSaveLayer,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(8),
+          ),
+          margin: EdgeInsets.zero,
+          child: Column(children: [
+            InkWell(
+              onTap: () async {
+                await launch(r'https://youtube.com/watch?v=' + entry.key);
+              },
+              child: AspectRatio(
+                  aspectRatio: 16 / 9,
+                  child: Image.network(
+                    entry.value.thumbnailUrl
+                        .replaceAll('hqdefault', 'mqdefault'),
+                    fit: BoxFit.fitWidth,
+                  )),
+            ),
+            FittedBox(
+                fit: BoxFit.fitHeight,
+                child: Container(
+                  width: itemWidth,
+                  child: ListTile(
+                    title: Text(
+                      entry.value.title,
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                      style: new TextStyle(
+                        fontWeight: FontWeight.bold,
                       ),
-                    ))
-              ]))));
+                    ),
+                    trailing: Icon(Icons.more_vert),
+                  ),
+                ))
+          ])));
     }
 
     return widgets;
