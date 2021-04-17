@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 class Embed {
-  String title = r'Vídeo não encontrado';
+  String title = '';
   String authorName = '';
   String authorUrl = '';
   String type = '';
