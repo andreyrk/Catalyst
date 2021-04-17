@@ -15,9 +15,9 @@ script:
   - flutter build web --web-renderer html --release
 deploy:
   provider: pages
-  local_dir: build/web
+  target_branch: gh-pages
   github_token: $GITHUB_TOKEN
   skip_cleanup: true
+  local_dir: build/web
   on:
     branch: main
-  target_branch: gh-pages
